@@ -1,0 +1,390 @@
+gene	term	name	gene_in_hpo_2026	fetuses	cohorts	cases
+COL1A1	HP:0003026	Short long bone	True	9	fu2022;graham2026;smogavec2022	130;138;139;150;151;160;4;5;28
+COL1A2	HP:0003026	Short long bone	True	4	fu2022;graham2026	125;157;6;7
+COL1A1	HP:0003097	Short femur	True	3	fu2022;graham2026	123;144;3
+COL2A1	HP:0010880	Increased nuchal translucency	True	3	fu2022;graham2026	149;158;9
+PKD1	HP:0004719	Hyperechogenic kidneys	True	3	fu2022;graham2026	87;98;19
+BBS7	HP:0000003	Multicystic kidney dysplasia	True	2	fu2022	186;209
+COL1A1	HP:0002652	Skeletal dysplasia	True	2	smogavec2022	28;30
+COL1A1	HP:0031846	Femur fracture	True	2	fu2022;graham2026	134;5
+HNF1B	HP:0004719	Hyperechogenic kidneys	True	2	fu2022	86;94
+KMT2D	HP:0001562	Oligohydramnios	True	2	fu2022;smogavec2022	178;14
+KRAS	HP:0002202	Pleural effusion	True	2	fu2022;graham2026	224;14
+MYH7	HP:0001698	Pericardial effusion	True	2	fu2022;graham2026	183;16
+PKD2	HP:0004719	Hyperechogenic kidneys	True	2	fu2022	91;93
+PTPN11	HP:0001541	Ascites	True	2	fu2022;smogavec2022	165;4
+PTPN11	HP:0010878	Fetal cystic hygroma	True	2	graham2026	22;23
+RAF1	HP:0001629	Ventricular septal defect	True	2	fu2022;graham2026	202;25
+RAF1	HP:0010880	Increased nuchal translucency	True	2	fu2022	173;202
+RASA1	HP:0000474	Thickened nuchal skin fold	True	2	graham2026	26;27
+RUNX2	HP:0001561	Polyhydramnios	True	2	fu2022;graham2026	41;30
+ABCA12	HP:0000194	Open mouth	True	1	fu2022	204
+ABCA12	HP:0002533	Abnormal posturing	True	1	fu2022	204
+ACE	HP:0000105	Enlarged kidney	True	1	fu2022	89
+ACE	HP:0004719	Hyperechogenic kidneys	True	1	fu2022	89
+ACO2	HP:0002119	Ventriculomegaly	True	1	aogs2026	19
+ACTA1	HP:0001789	Hydrops fetalis	True	1	fu2022	213
+ADNP	HP:0001636	Tetralogy of Fallot	True	1	fu2022	46
+ADNP	HP:0010880	Increased nuchal translucency	True	1	fu2022	21
+ALPL	HP:0002980	Femoral bowing	True	1	fu2022	142
+ALPL	HP:0003026	Short long bone	True	1	graham2026	1
+ALPL	HP:0003865	Bowed humerus	True	1	fu2022	142
+ANKRD11	HP:0000238	Hydrocephalus	True	1	fu2022	11
+ANOS1	HP:0010958	Bilateral renal agenesis	True	1	smogavec2022	3
+AP5Z1	HP:0002119	Ventriculomegaly	True	1	aogs2026	20
+AR	HP:0000126	Hydronephrosis	True	1	aogs2026	7
+AR	HP:0000929	Abnormal skull morphology	True	1	aogs2026	7
+AR	HP:0001561	Polyhydramnios	True	1	aogs2026	7
+AR	HP:0002119	Ventriculomegaly	True	1	aogs2026	7
+ARHGAP29	HP:0410030	Cleft lip	True	1	fu2022	35
+ARID1A	HP:0000776	Congenital diaphragmatic hernia	True	1	fu2022	221
+ARID1A	HP:0001195	Single umbilical artery	True	1	fu2022	221
+ARID1A	HP:0010941	Aplasia of the nasal bone	True	1	fu2022	221
+ARID1A	HP:0010947	Abnormality of ductus venosus blood flow	True	1	fu2022	221
+ARSE	HP:0005280	Depressed nasal bridge	False	1	fu2022	153
+ARSE	HP:0010655	Epiphyseal stippling	False	1	fu2022	153
+ARV1	HP:0001561	Polyhydramnios	True	1	fu2022	18
+ARV1	HP:0006956	Lateral ventricle dilatation	True	1	fu2022	18
+ARX	HP:0002416	Subependymal cysts	True	1	fu2022	1
+ASPM	HP:0001511	Intrauterine growth retardation	True	1	fu2022	32
+ASXL3	HP:0002804	Arthrogryposis multiplex congenita	True	1	fu2022	120
+ATRX	HP:0001161	Hand polydactyly	True	1	fu2022	126
+ATRX	HP:0001511	Intrauterine growth retardation	True	1	fu2022	126
+ATRX	HP:0001558	Decreased fetal movement	True	1	fu2022	126
+BBS2	HP:0000113	Polycystic kidney dysplasia	True	1	smogavec2022	15
+BBS2	HP:0001541	Ascites	True	1	fu2022	211
+BBS2	HP:0001562	Oligohydramnios	True	1	fu2022	211
+BBS2	HP:0001651	Dextrocardia	True	1	smogavec2022	15
+BRPF1	HP:0001762	Talipes equinovarus	True	1	fu2022	159
+CC2D2A	HP:0000113	Polycystic kidney dysplasia	True	1	aogs2026	8
+CC2D2A	HP:0002435	Meningocele	True	1	aogs2026	8
+CC2D2A	HP:0002700	Large foramen magnum	True	1	fu2022	25
+CDH2	HP:0001640	Cardiomegaly	True	1	fu2022	70
+CDH2	HP:0001653	Mitral regurgitation	True	1	fu2022	70
+CDH2	HP:0011573	Hypoplastic tricuspid valve	True	1	fu2022	70
+CDK10	HP:0000003	Multicystic kidney dysplasia	True	1	smogavec2022	26
+CDK10	HP:0000238	Hydrocephalus	True	1	smogavec2022	26
+CDK10	HP:0000278	Retrognathia	True	1	smogavec2022	26
+CDK10	HP:0001638	Cardiomyopathy	True	1	smogavec2022	26
+CDK10	HP:0001789	Hydrops fetalis	True	1	smogavec2022	26
+CDK10	HP:0002089	Pulmonary hypoplasia	True	1	smogavec2022	26
+CDKN1C	HP:0001561	Polyhydramnios	True	1	fu2022	227
+CDKN1C	HP:0003026	Short long bone	True	1	fu2022	227
+CDKN1C	HP:0005180	Tricuspid regurgitation	True	1	fu2022	227
+CEP290	HP:0000105	Enlarged kidney	True	1	fu2022	198
+CEP290	HP:0004719	Hyperechogenic kidneys	True	1	fu2022	198
+CEP290	HP:0006956	Lateral ventricle dilatation	True	1	fu2022	199
+CHD4	HP:0002416	Subependymal cysts	True	1	fu2022	8 #
+CHD7	HP:0001653	Mitral regurgitation	True	1	fu2022	48
+CHD7	HP:0005180	Tricuspid regurgitation	True	1	fu2022	48
+CHD7	HP:0005301	Persistent left superior vena cava	True	1	fu2022	182
+CHD7	HP:0008428	Vertebral clefting	True	1	aogs2026	28
+CHD7	HP:0010289	Cleft maxillary alveolar ridge	True	1	aogs2026	12
+CLCN5	HP:0001520	Large for gestational age	True	1	fu2022	229
+CLCN5	HP:0001561	Polyhydramnios	True	1	fu2022	229
+CNOT1	HP:0001317	Abnormal cerebellum morphology	True	1	graham2026	2
+CNOT1	HP:0001561	Polyhydramnios	True	1	graham2026	2
+CNOT1	HP:0010950	Abnormal fourth ventricle morphology	True	1	graham2026	2
+COG6	HP:0000054	Micropenis	True	1	smogavec2022	9
+COG6	HP:0001188	Hand clenching	True	1	smogavec2022	9
+COG6	HP:0001274	Agenesis of corpus callosum	True	1	smogavec2022	9
+COG6	HP:0001321	Cerebellar hypoplasia	True	1	smogavec2022	9
+COG6	HP:0001669	Transposition of the great arteries	True	1	smogavec2022	9
+COG6	HP:0006385	Short lower limbs	True	1	smogavec2022	9
+COG6	HP:0030048	Colpocephaly	True	1	smogavec2022	9
+COL11A1	HP:0001561	Polyhydramnios	True	1	fu2022	34
+COL1A1	HP:4000142	Fetal trigonocephaly	True	1	graham2026	4
+COL1A2	HP:0000773	Short ribs	True	1	graham2026	7
+COL1A2	HP:0003097	Short femur	True	1	fu2022	137
+COL1A2	HP:0003865	Bowed humerus	True	1	fu2022	125
+COL1A2	HP:0031846	Femur fracture	True	1	graham2026	6
+COL1A2	HP:0100555	Asymmetric growth	True	1	graham2026	7
+COL27A1	HP:0000003	Multicystic kidney dysplasia	True	1	smogavec2022	6
+COL27A1	HP:0000929	Abnormal skull morphology	True	1	smogavec2022	6
+COL27A1	HP:0001627	Abnormal heart morphology	True	1	smogavec2022	6
+COL27A1	HP:0001776	Bilateral talipes equinovarus	True	1	smogavec2022	6
+COL27A1	HP:0003026	Short long bone	True	1	smogavec2022	6
+COL27A1	HP:0010880	Increased nuchal translucency	True	1	smogavec2022	6
+COL2A1	HP:0002937	Hemivertebrae	True	1	graham2026	8
+COL2A1	HP:0002980	Femoral bowing	True	1	fu2022	133
+COL2A1	HP:0010943	Echogenic fetal bowel	True	1	fu2022	133
+COL4A1	HP:0001627	Abnormal heart morphology	True	1	aogs2026	11
+COL4A1	HP:0001698	Pericardial effusion	True	1	aogs2026	11
+COL4A1	HP:0001762	Talipes equinovarus	True	1	aogs2026	11
+COL4A1	HP:0001789	Hydrops fetalis	True	1	aogs2026	11
+COL4A1	HP:0002282	Gray matter heterotopia	True	1	fu2022	23
+COL4A1	HP:0002335	Agenesis of cerebellar vermis	True	1	aogs2026	34
+COL4A1	HP:0007291	Posterior fossa cyst	True	1	fu2022	16
+CPLANE1	HP:0002335	Agenesis of cerebellar vermis	True	1	aogs2026	1
+CRB2	HP:0001539	Omphalocele	True	1	fu2022	207
+CRB2	HP:0012618	Urachal cyst	True	1	fu2022	207
+CSNK2A1	HP:0001541	Ascites	True	1	fu2022	225
+CSNK2A1	HP:0002202	Pleural effusion	True	1	fu2022	225
+CSNK2A1	HP:0002280	Enlarged cisterna magna	True	1	fu2022	225
+CSNK2A1	HP:0004755	Supraventricular tachycardia	True	1	fu2022	225
+CUL7	HP:0002652	Skeletal dysplasia	True	1	smogavec2022	8
+EBP	HP:0003026	Short long bone	True	1	fu2022	117
+ECEL1	HP:0034672	Knee extension contracture	True	1	fu2022	152
+EFTUD2	HP:0004415	Pulmonary artery stenosis	True	1	fu2022	75
+EFTUD2	HP:0012020	Right aortic arch	True	1	fu2022	177
+EPHB4	HP:0000474	Thickened nuchal skin fold	True	1	graham2026	12
+EVC2	HP:0001674	Complete atrioventricular canal defect	True	1	fu2022	62
+EVC2	HP:0001680	Coarctation of aorta	True	1	fu2022	62
+EXOC3L2	HP:0000105	Enlarged kidney	True	1	smogavec2022	22
+EZH2	HP:0003022	Hypoplasia of the ulna	True	1	fu2022	108
+EZH2	HP:0005445	Enlarged posterior fossa	True	1	fu2022	7
+EZH2	HP:0006433	Radial ray deficiency	True	1	fu2022	108
+FAM111A	HP:0002536	Abnormal cortical gyration	True	1	aogs2026	10
+FANCI	HP:0000075	Renal duplication	True	1	fu2022	217
+FANCI	HP:0000122	Unilateral renal agenesis	True	1	fu2022	217
+FANCI	HP:0001518	Small for gestational age	True	1	fu2022	217
+FANCI	HP:0005301	Persistent left superior vena cava	True	1	fu2022	217
+FBN1	HP:0000047	Hypospadias	True	1	graham2026	13
+FBN1	HP:0000253	Progressive microcephaly	True	1	graham2026	13
+FBN1	HP:0001321	Cerebellar hypoplasia	True	1	graham2026	13
+FBN1	HP:0001338	Partial agenesis of the corpus callosum	True	1	graham2026	13
+FBN1	HP:0001711	Abnormal left ventricle morphology	True	1	fu2022	50
+FBN1	HP:0006698	Dilatation of the ventricular cavity	True	1	fu2022	50
+FBN1	HP:0034672	Knee extension contracture	True	1	graham2026	13
+FGFR2	HP:0001188	Hand clenching	True	1	fu2022	185
+FGFR2	HP:0001762	Talipes equinovarus	True	1	fu2022	222
+FGFR2	HP:0008518	Aplasia/Hypoplasia involving the vertebral column	True	1	fu2022	222
+FGFR2	HP:0010557	Overlapping fingers	True	1	fu2022	185
+FGFR2	HP:0010880	Increased nuchal translucency	True	1	fu2022	24
+FGFR2	HP:0032269	Lemon sign	True	1	fu2022	222
+FGFR3	HP:0003865	Bowed humerus	True	1	fu2022	132
+FLNA	HP:0001541	Ascites	True	1	fu2022	215
+FLNA	HP:0001640	Cardiomegaly	True	1	fu2022	54
+FLNA	HP:0004719	Hyperechogenic kidneys	True	1	fu2022	215
+FLNA	HP:0005445	Enlarged posterior fossa	True	1	fu2022	29
+FLNA	HP:0010880	Increased nuchal translucency	True	1	fu2022	215
+FLNA	HP:0100702	Arachnoid cyst	True	1	fu2022	29
+FLNB	HP:0002937	Hemivertebrae	True	1	fu2022	174
+FOXC2	HP:0000316	Hypertelorism	True	1	fu2022	39
+FOXC2	HP:0010880	Increased nuchal translucency	True	1	fu2022	39
+FOXF1	HP:0002021	Pyloric stenosis	True	1	fu2022	83 #
+FOXF1	HP:0002577	Abnormal stomach morphology	True	1	fu2022	83 #
+FRAS1	HP:0000104	Renal agenesis	True	1	fu2022	187
+FRAS1	HP:0000160	Narrow mouth	True	1	smogavec2022	24
+FRAS1	HP:0001541	Ascites	True	1	fu2022	187
+FRAS1	HP:0001562	Oligohydramnios	True	1	fu2022	187
+FRAS1	HP:0001789	Hydrops fetalis	True	1	smogavec2022	24
+FRAS1	HP:0002980	Femoral bowing	True	1	smogavec2022	24
+FRAS1	HP:0003026	Short long bone	True	1	smogavec2022	24
+FRAS1	HP:0009381	Short finger	True	1	smogavec2022	24
+FRAS1	HP:0010952	Mild fetal ventriculomegaly	True	1	smogavec2022	24
+GBA	HP:0001511	Intrauterine growth retardation	False	1	fu2022	216
+GBA	HP:0001558	Decreased fetal movement	False	1	fu2022	216
+GBA	HP:0002202	Pleural effusion	False	1	fu2022	216
+GDF5	HP:0100531	Wind-swept deformity of the knees	True	1	fu2022	102
+GLI2	HP:0001195	Single umbilical artery	True	1	graham2026	18
+GLI2	HP:0001629	Ventricular septal defect	True	1	graham2026	18
+GLI2	HP:0001791	Fetal ascites	True	1	graham2026	18
+GLI2	HP:0002202	Pleural effusion	True	1	graham2026	18
+GLI2	HP:0010943	Echogenic fetal bowel	True	1	graham2026	18
+GLI2	HP:0025672	Fetal skin edema	True	1	graham2026	18
+GPC3	HP:0000113	Polycystic kidney dysplasia	True	1	smogavec2022	19
+GPC3	HP:0001520	Large for gestational age	True	1	smogavec2022	19
+GPC3	HP:0010880	Increased nuchal translucency	True	1	smogavec2022	19
+HNF1B	HP:0000113	Polycystic kidney dysplasia	True	1	smogavec2022	12
+HNF1B	HP:0000126	Hydronephrosis	True	1	fu2022	92
+HNF1B	HP:0001561	Polyhydramnios	True	1	smogavec2022	12
+HRAS	HP:0000476	Cystic hygroma	True	1	fu2022	171
+HRAS	HP:0010880	Increased nuchal translucency	True	1	fu2022	171
+JAG1	HP:0000003	Multicystic kidney dysplasia	True	1	fu2022	88
+KAT6B	HP:0001776	Bilateral talipes equinovarus	True	1	smogavec2022	13
+KCNT1	HP:0010880	Increased nuchal translucency	True	1	fu2022	170
+KCNT1	HP:0011426	Fetal choroid plexus cysts	True	1	fu2022	170
+KDM6A	HP:0004415	Pulmonary artery stenosis	True	1	fu2022	67
+KLHL40	HP:0010557	Overlapping fingers	True	1	fu2022	154
+KMT2A	HP:0001274	Agenesis of corpus callosum	True	1	aogs2026	31
+KMT2A	HP:0001561	Polyhydramnios	True	1	fu2022	219
+KMT2A	HP:0001640	Cardiomegaly	True	1	fu2022	219
+KMT2A	HP:0003026	Short long bone	True	1	fu2022	219
+KMT2C	HP:0010880	Increased nuchal translucency	True	1	fu2022	169
+KMT2D	HP:0000105	Enlarged kidney	True	1	smogavec2022	14
+KMT2D	HP:0001698	Pericardial effusion	True	1	fu2022	178
+KMT2D	HP:0001719	Double outlet right ventricle	True	1	fu2022	59
+KMT2D	HP:0002089	Pulmonary hypoplasia	True	1	fu2022	178
+KMT2D	HP:0011560	Mitral atresia	True	1	fu2022	49
+KMT2D	HP:0011595	Left aortic arch with retroesophageal right subclavian artery	True	1	fu2022	178
+KMT2D	HP:0012385	Camptodactyly	True	1	fu2022	119
+KMT2D	HP:0031253	Anomalous origin of left subclavian artery	True	1	fu2022	79
+KRAS	HP:0001646	Abnormal aortic valve morphology	True	1	graham2026	15
+KRAS	HP:0001791	Fetal ascites	True	1	graham2026	14
+KRAS	HP:0003026	Short long bone	True	1	graham2026	15
+KRAS	HP:0010878	Fetal cystic hygroma	True	1	graham2026	15
+KRAS	HP:0010880	Increased nuchal translucency	True	1	graham2026	14
+KRAS	HP:0025672	Fetal skin edema	True	1	graham2026	14
+KRAS	HP:0034250	Fetal nuchal edema	True	1	graham2026	15
+KRAS	HP:0034349	Supravalvar pulmonary stenosis	True	1	graham2026	15
+LZTR1	HP:0004383	Hypoplastic left ventricle	True	1	fu2022	81
+MAGEL2	HP:0001239	Wrist flexion contracture	True	1	fu2022	203
+MAGEL2	HP:0001762	Talipes equinovarus	True	1	fu2022	203
+MAPK1	HP:0001669	Transposition of the great arteries	True	1	fu2022	65 #
+MN1	HP:0003026	Short long bone	True	1	smogavec2022	18
+MRPS22	HP:0000238	Hydrocephalus	True	1	fu2022	180
+MRPS22	HP:0001629	Ventricular septal defect	True	1	fu2022	180
+MTOR	HP:0001636	Tetralogy of Fallot	True	1	fu2022	218
+MTOR	HP:0012020	Right aortic arch	True	1	fu2022	218
+MYH3	HP:0003097	Short femur	True	1	fu2022	223
+MYH7	HP:0001541	Ascites	True	1	fu2022	183
+MYH7	HP:0001640	Cardiomegaly	True	1	fu2022	183
+MYH7	HP:0004415	Pulmonary artery stenosis	True	1	fu2022	183
+MYH7	HP:0004762	Hypoplasia of right ventricle	True	1	fu2022	80
+MYH7	HP:0010880	Increased nuchal translucency	True	1	graham2026	17
+MYH7	HP:0012304	Hypoplastic aortic arch	True	1	graham2026	16
+NBN	HP:0000122	Unilateral renal agenesis	True	1	smogavec2022	20
+NEB	HP:0001776	Bilateral talipes equinovarus	True	1	smogavec2022	31
+NEB	HP:0009473	Joint contracture of the hand	True	1	smogavec2022	31
+NEB	HP:0025672	Fetal skin edema	True	1	smogavec2022	31
+NEK8	HP:0001669	Transposition of the great arteries	True	1	fu2022	184
+NEK8	HP:4000139	Fetal abdominal cyst	True	1	fu2022	184
+NFIA	HP:0010880	Increased nuchal translucency	True	1	fu2022	19
+NFIB	HP:0000476	Cystic hygroma	True	1	fu2022	172
+NFIB	HP:0010880	Increased nuchal translucency	True	1	fu2022	172
+NIPBL	HP:0000054	Micropenis	True	1	fu2022	193
+NIPBL	HP:0001561	Polyhydramnios	True	1	fu2022	197
+NIPBL	HP:0001680	Coarctation of aorta	True	1	fu2022	191
+NIPBL	HP:0005301	Persistent left superior vena cava	True	1	fu2022	197
+NOTCH2	HP:0002119	Ventriculomegaly	True	1	aogs2026	30
+NR2F2	HP:0001674	Complete atrioventricular canal defect	True	1	fu2022	82
+NR2F2	HP:0010943	Echogenic fetal bowel	True	1	fu2022	82
+PBX1	HP:0002089	Pulmonary hypoplasia	True	1	fu2022	226
+PBX1	HP:0008718	Unilateral renal dysplasia	True	1	fu2022	226
+PEX1	HP:0001339	Lissencephaly	True	1	smogavec2022	23
+PEX1	HP:0006956	Lateral ventricle dilatation	True	1	fu2022	220
+PEX1	HP:0007082	Dilated third ventricle	True	1	fu2022	220
+PEX6	HP:0002539	Cortical dysplasia	True	1	aogs2026	24
+PIEZO1	HP:0001195	Single umbilical artery	True	1	graham2026	18
+PIEZO1	HP:0001629	Ventricular septal defect	True	1	graham2026	18
+PIEZO1	HP:0001791	Fetal ascites	True	1	graham2026	18
+PIEZO1	HP:0010943	Echogenic fetal bowel	True	1	graham2026	18
+PIEZO1	HP:0025672	Fetal skin edema	True	1	graham2026	18
+PKD1	HP:0000003	Multicystic kidney dysplasia	True	1	smogavec2022	6
+PKD1	HP:0000929	Abnormal skull morphology	True	1	smogavec2022	6
+PKD1	HP:0001274	Agenesis of corpus callosum	True	1	graham2026	19
+PKD1	HP:0001629	Ventricular septal defect	True	1	graham2026	19
+PKD1	HP:0001660	Truncus arteriosus	True	1	graham2026	19
+PKD1	HP:0001776	Bilateral talipes equinovarus	True	1	smogavec2022	6
+PKD1	HP:0002119	Ventriculomegaly	True	1	graham2026	19
+PKD1	HP:0002190	Choroid plexus cyst	True	1	fu2022	87
+PKD1	HP:0003026	Short long bone	True	1	smogavec2022	6
+PKD1	HP:0005148	Pulmonary valve defects	True	1	graham2026	19
+PKD1	HP:0007633	Bilateral microphthalmos	True	1	graham2026	19
+PKD1	HP:0010880	Increased nuchal translucency	True	1	smogavec2022	6
+PLAG1	HP:0003026	Short long bone	True	1	graham2026	20
+PLOD3	HP:0002170	Intracranial hemorrhage	True	1	fu2022	206
+PLOD3	HP:0005445	Enlarged posterior fossa	True	1	fu2022	206
+PLOD3	HP:0010880	Increased nuchal translucency	True	1	fu2022	206
+POLR1A	HP:0001539	Omphalocele	True	1	graham2026	21
+PPP1R12A	HP:0030769	Exencephaly	True	1	aogs2026	6
+PTPN11	HP:0000075	Renal duplication	True	1	smogavec2022	4
+PTPN11	HP:0000776	Congenital diaphragmatic hernia	True	1	smogavec2022	4
+PTPN11	HP:0001274	Agenesis of corpus callosum	True	1	aogs2026	36
+PTPN11	HP:0001520	Large for gestational age	True	1	graham2026	24
+PTPN11	HP:0001561	Polyhydramnios	True	1	graham2026	24
+PTPN11	HP:0001650	Aortic valve stenosis	True	1	fu2022	51
+PTPN11	HP:0001698	Pericardial effusion	True	1	graham2026	23
+PTPN11	HP:0001789	Hydrops fetalis	True	1	fu2022	165
+PTPN11	HP:0003026	Short long bone	True	1	graham2026	22
+PTPN11	HP:0005301	Persistent left superior vena cava	True	1	fu2022	76
+PTPN11	HP:0010880	Increased nuchal translucency	True	1	fu2022	168
+PTPN11	HP:0010943	Echogenic fetal bowel	True	1	graham2026	23
+PTPN11	HP:0012443	Abnormal brain morphology	True	1	smogavec2022	25
+PTPN11	HP:0025678	Fetal hydrothorax	True	1	graham2026	23
+PTPN11	HP:0100659	Abnormal cerebral vascular morphology	True	1	smogavec2022	25
+PUF60	HP:0001839	Split foot	True	1	fu2022	110
+PUF60	HP:0004100	Abnormal 2nd finger morphology	True	1	fu2022	110
+PUF60	HP:0009316	Abnormal 3rd finger phalanx morphology	True	1	fu2022	110
+RAF1	HP:0000054	Micropenis	True	1	fu2022	173
+RAF1	HP:0001360	Holoprosencephaly	True	1	fu2022	202
+RAF1	HP:0001719	Double outlet right ventricle	True	1	graham2026	25
+RAF1	HP:0002119	Ventriculomegaly	True	1	fu2022	173
+RAF1	HP:0002623	Overriding aorta	True	1	graham2026	25
+RAF1	HP:0010878	Fetal cystic hygroma	True	1	graham2026	25
+RAPSN	HP:0001789	Hydrops fetalis	True	1	fu2022	212
+RAPSN	HP:0004719	Hyperechogenic kidneys	True	1	fu2022	212
+RARS2	HP:0002119	Ventriculomegaly	True	1	aogs2026	29
+RASA1	HP:0001640	Cardiomegaly	True	1	graham2026	27
+RASA1	HP:0001698	Pericardial effusion	True	1	graham2026	26
+RASA1	HP:0001790	Nonimmune hydrops fetalis	True	1	graham2026	28
+RASA1	HP:0012368	Flat face	True	1	graham2026	27
+RASA1	HP:0025676	Fetal pleural effusion	True	1	graham2026	28
+RASA1	HP:0025706	Absent fetal nasal bone	True	1	graham2026	27
+RASA1	HP:0034196	Ductus venosus agenesis	True	1	graham2026	27
+RET	HP:0000086	Ectopic kidney	True	1	fu2022	208
+RET	HP:0001629	Ventricular septal defect	True	1	fu2022	208
+RIT1	HP:0001698	Pericardial effusion	True	1	graham2026	29
+RIT1	HP:0010878	Fetal cystic hygroma	True	1	graham2026	29
+RIT1	HP:0025672	Fetal skin edema	True	1	graham2026	29
+RUNX2	HP:0010941	Aplasia of the nasal bone	True	1	fu2022	41
+SCN4A	HP:0002533	Abnormal posturing	True	1	fu2022	107
+SCN4A	HP:0005989	Redundant neck skin	True	1	fu2022	107
+SETD5	HP:0010880	Increased nuchal translucency	True	1	fu2022	167
+SF3B4	HP:0000306	Abnormality of the chin	True	1	smogavec2022	1
+SF3B4	HP:0003027	Mesomelia	True	1	smogavec2022	1
+SF3B4	HP:0010880	Increased nuchal translucency	True	1	smogavec2022	1
+SHH	HP:0002507	Semilobar holoprosencephaly	True	1	graham2026	31
+SIX3	HP:0100333	Unilateral cleft lip	True	1	fu2022	44
+SIX3	HP:0100334	Unilateral cleft palate	True	1	fu2022	44
+SMARCA4	HP:0005301	Persistent left superior vena cava	True	1	fu2022	52
+SMC1A	HP:0001561	Polyhydramnios	True	1	aogs2026	16
+SMC1A	HP:0002539	Cortical dysplasia	True	1	aogs2026	16
+SMC1A	HP:0011732	Abnormal adrenal morphology	True	1	aogs2026	16
+SMC1A	HP:4000138	Absent cavum septum pellucidum	True	1	aogs2026	16
+SMS	HP:0002119	Ventriculomegaly	True	1	aogs2026	27
+SOS1	HP:0025676	Fetal pleural effusion	True	1	graham2026	32
+SOS1	HP:0034250	Fetal nuchal edema	True	1	graham2026	32
+SOX9	HP:0000476	Cystic hygroma	True	1	fu2022	200
+SOX9	HP:0001629	Ventricular septal defect	True	1	fu2022	200
+SOX9	HP:0100702	Arachnoid cyst	True	1	fu2022	200
+SPECC1L	HP:0000776	Congenital diaphragmatic hernia	True	1	fu2022	179
+SPECC1L	HP:0002335	Agenesis of cerebellar vermis	True	1	fu2022	179
+SPECC1L	HP:0005445	Enlarged posterior fossa	True	1	fu2022	179
+TCF12	HP:0000932	Abnormal posterior cranial fossa morphology	True	1	graham2026	34
+TCF12	HP:0004719	Hyperechogenic kidneys	True	1	graham2026	34
+TCF12	HP:0005445	Enlarged posterior fossa	True	1	aogs2026	33
+TCF12	HP:0007068	Inferior cerebellar vermis hypoplasia	True	1	graham2026	34
+TCF12	HP:0010952	Mild fetal ventriculomegaly	True	1	graham2026	34
+TCOF1	HP:0001561	Polyhydramnios	True	1	fu2022	43
+TCOF1	HP:0004646	Hypoplasia of the nasal bone	True	1	fu2022	43
+TFAP2A	HP:0100336	Bilateral cleft lip	True	1	graham2026	35
+TFAP2A	HP:0100337	Bilateral cleft palate	True	1	graham2026	35
+TMEM231	HP:0000943	Dysostosis multiplex	True	1	fu2022	205
+TMEM67	HP:0000113	Polycystic kidney dysplasia	True	1	aogs2026	9
+TNNI2	HP:0001188	Hand clenching	True	1	fu2022	115
+TNNI2	HP:0040018	Clinodactyly of hallux	True	1	fu2022	115
+TPM1	HP:0001640	Cardiomegaly	True	1	fu2022	71
+TPM1	HP:0001789	Hydrops fetalis	True	1	fu2022	71
+TPM1	HP:0012816	Right ventricular noncompaction cardiomyopathy	True	1	fu2022	71
+TREX1	HP:0005445	Enlarged posterior fossa	True	1	aogs2026	15
+TREX1	HP:0010663	Abnormal thalamus morphology	True	1	aogs2026	15
+TRPV4	HP:0003097	Short femur	True	1	fu2022	121
+TUBA1A	HP:0000238	Hydrocephalus	True	1	fu2022	3
+TUBB2B	HP:0002416	Subependymal cysts	True	1	fu2022	5
+TUBB2B	HP:0006989	Dysplastic corpus callosum	True	1	graham2026	36
+TUBB2B	HP:0033379	Bilateral superior vena cava	True	1	graham2026	36
+UBA1	HP:0001511	Intrauterine growth retardation	True	1	fu2022	189
+UMOD	HP:0000003	Multicystic kidney dysplasia	True	1	fu2022	85
+USP9X	HP:0001629	Ventricular septal defect	True	1	fu2022	194
+USP9X	HP:0001762	Talipes equinovarus	True	1	fu2022	194
+USP9X	HP:0012488	Intraventricular arachnoid cyst	True	1	fu2022	194
+VANGL1	HP:0001698	Pericardial effusion	True	1	smogavec2022	17
+VANGL2	HP:0002435	Meningocele	True	1	aogs2026	17
+VANGL2	HP:0010880	Increased nuchal translucency	True	1	aogs2026	17
+VANGL2	HP:0100645	Cystocele	True	1	aogs2026	17
+WDR60	HP:0000126	Hydronephrosis	False	1	fu2022	210
+WDR60	HP:0001539	Omphalocele	False	1	fu2022	210
+WDR60	HP:0002983	Micromelia	False	1	fu2022	210
+ZEB2	HP:0001511	Intrauterine growth retardation	True	1	fu2022	228
+ZEB2	HP:0100731	Transverse facial cleft	True	1	fu2022	228
+ZFHX4	HP:0001789	Hydrops fetalis	False	1	graham2026	37
+ZFHX4	HP:0002088	Abnormal lung morphology	False	1	graham2026	37
+ZFHX4	HP:0002202	Pleural effusion	False	1	graham2026	37
+ZFHX4	HP:0003026	Short long bone	False	1	graham2026	37
+ZFHX4	HP:0025672	Fetal skin edema	False	1	graham2026	37
+ZIC2	HP:0006989	Dysplastic corpus callosum	True	1	graham2026	38
+ZIC2	HP:0030048	Colpocephaly	True	1	graham2026	38
+ZMYM2	HP:0001195	Single umbilical artery	True	1	fu2022	31
+ZMYM2	HP:0011426	Fetal choroid plexus cysts	True	1	fu2022	31

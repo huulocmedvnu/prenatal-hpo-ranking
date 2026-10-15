@@ -1,0 +1,267 @@
+term	name	sub_branch	fetal_sub_branch	new_since_2020	genes
+HP:0001787	Abnormal delivery	Abnormal delivery		False	127
+HP:0001623	Breech presentation	Abnormal delivery		False	61
+HP:0011410	Caesarean section	Abnormal delivery		False	27
+HP:0012541	Cephalohematoma	Abnormal delivery		False	13
+HP:0010860	Complete breech presentation	Abnormal delivery		False	0
+HP:0030366	Delivery by Odon device	Abnormal delivery		False	0
+HP:0011411	Forceps delivery	Abnormal delivery		False	0
+HP:0010859	Frank breech presentation	Abnormal delivery		False	0
+HP:0010861	Incomplete breech presentation	Abnormal delivery		False	0
+HP:0030369	Induced vaginal delivery	Abnormal delivery		False	4
+HP:6001500	Labor dystocia	Abnormal delivery		True	0
+HP:0012498	Nuchal cord	Abnormal delivery		False	2
+HP:0001788	Premature rupture of membranes	Abnormal delivery		False	23
+HP:6000310	Preterm premature rupture of membranes	Abnormal delivery		True	0
+HP:0030363	Primary Caesarian section	Abnormal delivery		False	0
+HP:0030364	Secondary Caesarian section	Abnormal delivery		False	0
+HP:0011413	Shoulder dystocia	Abnormal delivery		False	2
+HP:0030449	Therapeutic abortion	Abnormal delivery		False	0
+HP:0030365	Vaginal birth after Caesarean	Abnormal delivery		False	0
+HP:0011412	Ventouse delivery	Abnormal delivery		False	4
+HP:0033334	Abnormal embryonic development	Abnormal embryonic development		True	12
+HP:0033335	Abnormal preimplantation embryonic development	Abnormal embryonic development		True	12
+HP:0020003	Embryo developmental arrest	Abnormal embryonic development		True	2
+HP:4000008	Formation of multiple pronuclei during fertilization	Abnormal embryonic development		True	1
+HP:0032479	Preimplantation lethality	Abnormal embryonic development		False	1
+HP:0033712	Repeated implantation failure	Abnormal embryonic development		True	7
+HP:0033336	Zygotic cleavage failure	Abnormal embryonic development		True	4
+HP:0410211	Abnormal blood gas level in cord blood	Abnormalities of placenta or umbilical cord		False	0
+HP:0500258	Abnormal carbon dioxide level in cord blood	Abnormalities of placenta or umbilical cord		False	0
+HP:0033042	Abnormal chorion morphology	Abnormalities of placenta or umbilical cord		False	0
+HP:0410210	Abnormal cord blood measurement	Abnormalities of placenta or umbilical cord		False	0
+HP:0011418	Abnormal insertion of umbilical cord	Abnormalities of placenta or umbilical cord		False	0
+HP:0500259	Abnormal oxygen level in cord blood	Abnormalities of placenta or umbilical cord		False	0
+HP:0100767	Abnormal placenta morphology	Abnormalities of placenta or umbilical cord		False	43
+HP:0025652	Abnormal placental adhesion into the uterine wall	Abnormalities of placenta or umbilical cord		True	0
+HP:0011409	Abnormal placental membrane morphology	Abnormalities of placenta or umbilical cord		False	25
+HP:0012767	Abnormal placental size	Abnormalities of placenta or umbilical cord		False	16
+HP:0011403	Abnormal umbilical cord blood vessel morphology	Abnormalities of placenta or umbilical cord		False	48
+HP:0001194	Abnormalities of placenta or umbilical cord	Abnormalities of placenta or umbilical cord		False	136
+HP:0010881	Abnormality of the umbilical cord	Abnormalities of placenta or umbilical cord		False	72
+HP:0030763	Amniotic Sheet	Abnormalities of placenta or umbilical cord		False	0
+HP:0009775	Amniotic constriction ring	Abnormalities of placenta or umbilical cord		False	22
+HP:0010483	Amniotic constriction rings of arms	Abnormalities of placenta or umbilical cord		False	0
+HP:0010495	Amniotic constriction rings of legs	Abnormalities of placenta or umbilical cord		False	0
+HP:0011415	Calcified placenta	Abnormalities of placenta or umbilical cord		False	1
+HP:0100883	Chorangioma	Abnormalities of placenta or umbilical cord		False	0
+HP:0100768	Choriocarcinoma	Abnormalities of placenta or umbilical cord		False	8
+HP:0033552	Chronic villitis	Abnormalities of placenta or umbilical cord		True	0
+HP:0032434	Delayed umbilical cord separation	Abnormalities of placenta or umbilical cord		False	5
+HP:0010491	Digital constriction ring	Abnormalities of placenta or umbilical cord		False	2
+HP:0033043	Edematous chorionic villi	Abnormalities of placenta or umbilical cord		False	0
+HP:0025689	Extra-abdominal umbilical vein varix	Abnormalities of placenta or umbilical cord		True	0
+HP:0025690	Fetal intra-abdominal umbilical vein varix	Abnormalities of placenta or umbilical cord		True	0
+HP:0025729	Fetal vascular malperfusion	Abnormalities of placenta or umbilical cord		True	0
+HP:0032513	Four-vessel umbilical cord	Abnormalities of placenta or umbilical cord		False	0
+HP:0030660	Furcate cord insertion	Abnormalities of placenta or umbilical cord		False	0
+HP:0032192	Hydatidiform mole	Abnormalities of placenta or umbilical cord		False	4
+HP:0011414	Hydropic placenta	Abnormalities of placenta or umbilical cord		False	1
+HP:0410214	Hypercapnia in cord blood	Abnormalities of placenta or umbilical cord		False	0
+HP:0410212	Hyperoxemia in cord blood	Abnormalities of placenta or umbilical cord		False	0
+HP:0410215	Hypocapnia in cord blood	Abnormalities of placenta or umbilical cord		False	0
+HP:0410213	Hypoxemia in cord blood	Abnormalities of placenta or umbilical cord		False	0
+HP:0032548	Increased placental thickness	Abnormalities of placenta or umbilical cord		False	1
+HP:0006267	Large placenta	Abnormalities of placenta or umbilical cord		False	8
+HP:0011417	Long umbilical cord	Abnormalities of placenta or umbilical cord		False	0
+HP:0030658	Marginal umbilical cord insertion	Abnormalities of placenta or umbilical cord		False	0
+HP:0025719	Maternal vascular malperfusion	Abnormalities of placenta or umbilical cord		True	0
+HP:0032435	Neonatal omphalitis	Abnormalities of placenta or umbilical cord		False	11
+HP:0025654	Placenta accreta	Abnormalities of placenta or umbilical cord		True	0
+HP:0025655	Placenta increta	Abnormalities of placenta or umbilical cord		True	0
+HP:0025653	Placenta percreta	Abnormalities of placenta or umbilical cord		True	0
+HP:0430070	Placenta previa	Abnormalities of placenta or umbilical cord		True	2
+HP:0011419	Placental abruption	Abnormalities of placenta or umbilical cord		False	6
+HP:0011416	Placental infarction	Abnormalities of placenta or umbilical cord		False	0
+HP:0032165	Placental mesenchymal dysplasia	Abnormalities of placenta or umbilical cord		False	5
+HP:0001196	Short umbilical cord	Abnormalities of placenta or umbilical cord		False	6
+HP:0006266	Small placenta	Abnormalities of placenta or umbilical cord		False	9
+HP:0025712	Spontaneous chorioamniotic separation	Abnormalities of placenta or umbilical cord		True	1
+HP:0030720	Subchorionic septal cyst	Abnormalities of placenta or umbilical cord		False	0
+HP:0030714	Subchorionic thrombohematoma	Abnormalities of placenta or umbilical cord		False	0
+HP:0030654	Umbilical cord cyst	Abnormalities of placenta or umbilical cord		False	0
+HP:6001475	Umbilical cord edema	Abnormalities of placenta or umbilical cord		True	0
+HP:0030657	Umbilical cord hematoma	Abnormalities of placenta or umbilical cord		False	3
+HP:0030655	Umbilical cord knot	Abnormalities of placenta or umbilical cord		False	0
+HP:6000329	Umbilical cord prolapse	Abnormalities of placenta or umbilical cord		True	0
+HP:0030656	Umbilical vein varix	Abnormalities of placenta or umbilical cord		False	0
+HP:0033991	Vasa previa	Abnormalities of placenta or umbilical cord		True	0
+HP:0030659	Velamentous cord insertion	Abnormalities of placenta or umbilical cord		False	0
+HP:0001195	Single umbilical artery	Abnormalities of placenta or umbilical cord	Abnormal fetal cardiovascular morphology	False	48
+HP:0025715	Abnormal umbilical artery doppler waveform during pregnancy	Abnormalities of placenta or umbilical cord	Abnormal umbilical blood flow measurement	True	1
+HP:0025657	Abnormal umbilical blood flow measurement	Abnormalities of placenta or umbilical cord	Abnormal umbilical blood flow measurement	True	1
+HP:0010949	Abnormality of umbilical vein blood flow	Abnormalities of placenta or umbilical cord	Abnormal umbilical blood flow measurement	False	0
+HP:0034224	Absent end-diastolic umbilical artery flow	Abnormalities of placenta or umbilical cord	Abnormal umbilical blood flow measurement	True	1
+HP:0034223	Elevated umbilical artery pulsatility	Abnormalities of placenta or umbilical cord	Abnormal umbilical blood flow measurement	True	0
+HP:0034225	Reversed end-diastolic umbilical artery flow	Abnormalities of placenta or umbilical cord	Abnormal umbilical blood flow measurement	True	0
+HP:0034899	Abnormal amniotic fluid protein concentration	Abnormality of the amniotic fluid		True	4
+HP:0001560	Abnormality of the amniotic fluid	Abnormality of the amniotic fluid		False	524
+HP:0025700	Anhydramnios	Abnormality of the amniotic fluid		True	7
+HP:0034900	Decreased amniotic fluid alpha-fetoprotein concentration	Abnormality of the amniotic fluid		True	0
+HP:0004639	Elevated amniotic fluid alpha-fetoprotein concentration	Abnormality of the amniotic fluid		False	4
+HP:0001563	Fetal polyuria	Abnormality of the amniotic fluid		False	12
+HP:0012420	Meconium stained amniotic fluid	Abnormality of the amniotic fluid		False	10
+HP:0001562	Oligohydramnios	Abnormality of the amniotic fluid		False	210
+HP:0001561	Polyhydramnios	Abnormality of the amniotic fluid		False	338
+HP:6000341	Snowflake effect in amniotic cavity	Abnormality of the amniotic fluid		True	0
+HP:6000224	Delayed passage of meconium	Delayed passage of meconium		True	14
+HP:0034058	Abnormal fetal morphology	Fetal anomaly		True	347
+HP:0034059	Abnormal fetal physiology	Fetal anomaly		True	332
+HP:0034057	Fetal anomaly	Fetal anomaly		True	626
+HP:0010948	Abnormal fetal cardiovascular morphology	Fetal anomaly	Abnormal fetal cardiovascular morphology	False	58
+HP:4000143	Abnormal fetal heart outflow tract	Fetal anomaly	Abnormal fetal cardiovascular morphology	True	0
+HP:4000105	Abnormal four chamber view of the fetal heart	Fetal anomaly	Abnormal fetal cardiovascular morphology	True	1
+HP:0034196	Ductus venosus agenesis	Fetal anomaly	Abnormal fetal cardiovascular morphology	True	1
+HP:6000370	Ductus venosus agenesis with extrahepatic drainage and liver bypass	Fetal anomaly	Abnormal fetal cardiovascular morphology	True	0
+HP:6000369	Ductus venosus agenesis with intrahepatic drainage	Fetal anomaly	Abnormal fetal cardiovascular morphology	True	0
+HP:0010942	Echogenic intracardiac focus	Fetal anomaly	Abnormal fetal cardiovascular morphology	False	2
+HP:0025671	Fetal pericardial effusion	Fetal anomaly	Abnormal fetal cardiovascular morphology	True	9
+HP:0025730	Foramen ovale aneurysm	Fetal anomaly	Abnormal fetal cardiovascular morphology	True	0
+HP:0034190	Abnormal fetal cardiovascular physiology	Fetal anomaly	Abnormal fetal cardiovascular physiology	True	3
+HP:0010947	Abnormality of ductus venosus blood flow	Fetal anomaly	Abnormal fetal cardiovascular physiology	False	0
+HP:0012022	Congenital portosystemic venous shunt	Fetal anomaly	Abnormal fetal cardiovascular physiology	False	0
+HP:0041095	Decreased middle cerebral artery pulsatility index	Fetal anomaly	Abnormal fetal cardiovascular physiology	True	0
+HP:0034191	Elevated fetal middle cerebral artery peak systolic velocity	Fetal anomaly	Abnormal fetal cardiovascular physiology	True	0
+HP:6000264	Fetal tachycardia	Fetal anomaly	Abnormal fetal cardiovascular physiology	True	1
+HP:0011726	Persistent fetal circulation	Fetal anomaly	Abnormal fetal cardiovascular physiology	False	1
+HP:0012021	Persistent patent ductus venosus	Fetal anomaly	Abnormal fetal cardiovascular physiology	False	1
+HP:0025675	Premature closure of the ductus arteriosus	Fetal anomaly	Abnormal fetal cardiovascular physiology	True	0
+HP:0034206	Abnormal fetal central nervous system morphology	Fetal anomaly	Abnormal fetal central nervous system morphology	True	13
+HP:4000138	Absent cavum septum pellucidum	Fetal anomaly	Abnormal fetal central nervous system morphology	True	1
+HP:0034215	Fetal cerebellar hemisphere hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0034216	Fetal cerebellar vermis hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0034211	Fetal cerebral parenchymal hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0034212	Fetal extra-axial hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0034208	Fetal intracranial hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	1
+HP:0034210	Fetal intraventricular hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	1
+HP:0034219	Fetal intraventricular hemorrhage with periventricular hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0034218	Fetal intraventricular hemorrhage with ventriculomegaly	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0034214	Fetal intraventricular hemorrhage without ventriculomegaly	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0034213	Fetal posterior fossa hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0034209	Fetal subependymal hemorrhage	Fetal anomaly	Abnormal fetal central nervous system morphology	True	0
+HP:0020303	Abnormal fetal abdominal circumference	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:0034207	Abnormal fetal gastrointestinal system morphology	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	23
+HP:6001474	Abnormal rectosigmoid index	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:6000339	Decreased fetal abdominal circumference	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:4000139	Fetal abdominal cyst	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:0001791	Fetal ascites	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	False	11
+HP:4000140	Fetal bowel dilatation	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	1
+HP:6001476	Fetal enterolithiasis	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:6000470	Fetal oral mass	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:0034244	Gastric pseudomass	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:0020304	Increased fetal abdominal circumference	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:0034547	Intraluminal meconium calcification	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:0025674	Meconium pseudocyst	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	0
+HP:0025656	Prenatal double bubble sign	Fetal anomaly	Abnormal fetal gastrointestinal system morphology	True	1
+HP:0034242	Abnormal fetal genitourinary system morphology	Fetal anomaly	Abnormal fetal genitourinary system morphology	True	13
+HP:0031170	Female fetal virilization	Fetal anomaly	Abnormal fetal genitourinary system morphology	False	0
+HP:0034247	Fetal lower urinary tract obstruction	Fetal anomaly	Abnormal fetal genitourinary system morphology	True	0
+HP:0034217	Sonographic non-visualized fetal bladder	Fetal anomaly	Abnormal fetal genitourinary system morphology	True	2
+HP:0034243	Abnormal fetal pulmonary morphology	Fetal anomaly	Abnormal fetal pulmonary morphology	True	13
+HP:0010959	Congenital pulmonary airway malformation	Fetal anomaly	Abnormal fetal pulmonary morphology	False	4
+HP:6000613	Enlarged fetal lungs	Fetal anomaly	Abnormal fetal pulmonary morphology	True	1
+HP:0025677	Fetal chylothorax	Fetal anomaly	Abnormal fetal pulmonary morphology	True	1
+HP:0025678	Fetal hydrothorax	Fetal anomaly	Abnormal fetal pulmonary morphology	True	1
+HP:6000252	Fetal lung hyperechogenicity	Fetal anomaly	Abnormal fetal pulmonary morphology	True	0
+HP:0025676	Fetal pleural effusion	Fetal anomaly	Abnormal fetal pulmonary morphology	True	8
+HP:6000340	Prenatal flattened diaphragm	Fetal anomaly	Abnormal fetal pulmonary morphology	True	0
+HP:0025725	Type 1 congenital pulmonary airway malformation	Fetal anomaly	Abnormal fetal pulmonary morphology	True	0
+HP:0025726	Type 2 congenital pulmonary airway malformation	Fetal anomaly	Abnormal fetal pulmonary morphology	True	0
+HP:0025727	Type 3 congenital pulmonary airway malformation	Fetal anomaly	Abnormal fetal pulmonary morphology	True	0
+HP:6001418	Abnormal fetal femur length	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:0034072	Abnormal fetal long-bone echogenicity	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:0025705	Abnormal fetal nasal bone visualization	Fetal anomaly	Abnormal fetal skeletal morphology	True	3
+HP:0025662	Abnormal fetal skeletal morphology	Fetal anomaly	Abnormal fetal skeletal morphology	True	13
+HP:0025706	Absent fetal nasal bone	Fetal anomaly	Abnormal fetal skeletal morphology	True	2
+HP:0034226	Champagne cork sign	Fetal anomaly	Abnormal fetal skeletal morphology	True	1
+HP:4000142	Fetal trigonocephaly	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:0025707	Hypoplastic fetal nasal bone	Fetal anomaly	Abnormal fetal skeletal morphology	True	1
+HP:0034074	Increased fetal long bone echogenicity	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:6001389	Intrauterine amputation	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:6001390	Intrauterine digital amputation	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:6001391	Intrauterine limb amputation	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:0032269	Lemon sign	Fetal anomaly	Abnormal fetal skeletal morphology	False	0
+HP:0025663	Reduced fetal femur/foot length ratio	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:0034073	Reduced fetal long bone echogenicity	Fetal anomaly	Abnormal fetal skeletal morphology	True	0
+HP:0025723	Abnormal fetal skin morphology	Fetal anomaly	Abnormal fetal skin morphology	True	21
+HP:0034262	Absent lanugo	Fetal anomaly	Abnormal fetal skin morphology	True	1
+HP:0025724	Caseous vernix-like desquamation	Fetal anomaly	Abnormal fetal skin morphology	True	1
+HP:0007549	Desquamation of skin soon after birth	Fetal anomaly	Abnormal fetal skin morphology	False	16
+HP:0025672	Fetal skin edema	Fetal anomaly	Abnormal fetal skin morphology	True	4
+HP:0025716	Fetal anemia	Fetal anomaly	Fetal anemia	True	0
+HP:0025116	Fetal distress	Fetal anomaly	Fetal distress	False	75
+HP:6001417	Abnormal biparietal diameter	Fetal anomaly	Fetal head anomaly	True	0
+HP:0020305	Abnormal fetal head circumference	Fetal anomaly	Fetal head anomaly	True	0
+HP:0020297	Abnormal occipitofrontal diameter	Fetal anomaly	Fetal head anomaly	True	0
+HP:0020259	Decreased biparietal diameter	Fetal anomaly	Fetal head anomaly	True	0
+HP:0020306	Decreased fetal head circumference	Fetal anomaly	Fetal head anomaly	True	0
+HP:0020298	Decreased occipitofrontal diameter	Fetal anomaly	Fetal head anomaly	True	0
+HP:0034245	Fetal head anomaly	Fetal anomaly	Fetal head anomaly	True	0
+HP:0034246	Fetal scalp mass	Fetal anomaly	Fetal head anomaly	True	0
+HP:6001473	Fixed fetal head flexion	Fetal anomaly	Fetal head anomaly	True	0
+HP:6001478	Greek warrior helmet sign	Fetal anomaly	Fetal head anomaly	True	0
+HP:0020260	Increased biparietal diameter	Fetal anomaly	Fetal head anomaly	True	0
+HP:0020307	Increased fetal head circumference	Fetal anomaly	Fetal head anomaly	True	0
+HP:0020299	Increased occipitofrontal diameter	Fetal anomaly	Fetal head anomaly	True	0
+HP:0025701	Distended jugular lymphatic sacs	Fetal anomaly	Fetal neck anomaly	True	0
+HP:0010878	Fetal cystic hygroma	Fetal anomaly	Fetal neck anomaly	False	2
+HP:0025667	Fetal neck anomaly	Fetal anomaly	Fetal neck anomaly	True	125
+HP:0034240	Fetal neck mass	Fetal anomaly	Fetal neck anomaly	True	0
+HP:0034250	Fetal nuchal edema	Fetal anomaly	Fetal neck anomaly	True	1
+HP:0010880	Increased nuchal translucency	Fetal anomaly	Fetal neck anomaly	False	66
+HP:0010963	Absence of stomach bubble on fetal sonography	Fetal anomaly	Fetal ultrasound soft marker	False	6
+HP:0011129	Bilateral fetal pyelectasis	Fetal anomaly	Fetal ultrasound soft marker	False	3
+HP:0010943	Echogenic fetal bowel	Fetal anomaly	Fetal ultrasound soft marker	False	6
+HP:6000916	Echogenic fetal colon	Fetal anomaly	Fetal ultrasound soft marker	True	0
+HP:0011427	Enlarged fetal cisterna magna	Fetal anomaly	Fetal ultrasound soft marker	False	4
+HP:0011426	Fetal choroid plexus cysts	Fetal anomaly	Fetal ultrasound soft marker	False	1
+HP:0011431	Fetal fifth finger clinodactyly	Fetal anomaly	Fetal ultrasound soft marker	False	2
+HP:0010945	Fetal pyelectasis	Fetal anomaly	Fetal ultrasound soft marker	False	11
+HP:0011425	Fetal ultrasound soft marker	Fetal anomaly	Fetal ultrasound soft marker	False	139
+HP:0011430	Hypoplasia of fetal nasal bone	Fetal anomaly	Fetal ultrasound soft marker	False	0
+HP:0010952	Mild fetal ventriculomegaly	Fetal anomaly	Fetal ultrasound soft marker	False	8
+HP:0011428	Short fetal femur length	Fetal anomaly	Fetal ultrasound soft marker	False	7
+HP:0011429	Short fetal humerus length	Fetal anomaly	Fetal ultrasound soft marker	False	0
+HP:0000474	Thickened nuchal skin fold	Fetal anomaly	Fetal ultrasound soft marker	False	61
+HP:6000770	Fixed fetal extremities	Fetal anomaly	Fixed fetal extremities	True	0
+HP:0001789	Hydrops fetalis	Fetal anomaly	Hydrops fetalis	False	137
+HP:0001790	Nonimmune hydrops fetalis	Fetal anomaly	Hydrops fetalis	False	72
+HP:0034248	Increased fetal lens echogenicity	Fetal anomaly	Increased fetal lens echogenicity	True	0
+HP:0030753	Intrauterine fetal demise of one twin after midgestation	Fetal anomaly	Intrauterine fetal demise of one twin after midgestation	False	0
+HP:0001558	Decreased fetal movement	Fetal anomaly	Prenatal movement abnormality	False	250
+HP:0001989	Fetal akinesia sequence	Fetal anomaly	Prenatal movement abnormality	False	34
+HP:0010519	Increased fetal movement	Fetal anomaly	Prenatal movement abnormality	False	2
+HP:0001557	Prenatal movement abnormality	Fetal anomaly	Prenatal movement abnormality	False	263
+HP:0031110	Twin-to-twin transfusion	Fetal anomaly	Twin-to-twin transfusion	False	0
+HP:0030927	1-minute APGAR score of 0	Low APGAR score		False	1
+HP:0030928	1-minute APGAR score of 1	Low APGAR score		False	2
+HP:0030929	1-minute APGAR score of 2	Low APGAR score		False	0
+HP:0030930	1-minute APGAR score of 3	Low APGAR score		False	0
+HP:0030931	1-minute APGAR score of 4	Low APGAR score		False	0
+HP:0030932	1-minute APGAR score of 5	Low APGAR score		False	0
+HP:0030933	1-minute APGAR score of 6	Low APGAR score		False	0
+HP:0033468	10-minute APGAR score of 0	Low APGAR score		True	0
+HP:0033469	10-minute APGAR score of 1	Low APGAR score		True	0
+HP:0033470	10-minute APGAR score of 2	Low APGAR score		True	0
+HP:0033471	10-minute APGAR score of 3	Low APGAR score		True	0
+HP:0033472	10-minute APGAR score of 4	Low APGAR score		True	0
+HP:0033473	10-minute APGAR score of 5	Low APGAR score		True	0
+HP:0033474	10-minute APGAR score of 6	Low APGAR score		True	0
+HP:0030920	5-minute APGAR score of 0	Low APGAR score		False	0
+HP:0030921	5-minute APGAR score of 1	Low APGAR score		False	2
+HP:0030922	5-minute APGAR score of 2	Low APGAR score		False	0
+HP:0030923	5-minute APGAR score of 3	Low APGAR score		False	0
+HP:0030924	5-minute APGAR score of 4	Low APGAR score		False	0
+HP:0030925	5-minute APGAR score of 5	Low APGAR score		False	1
+HP:0030926	5-minute APGAR score of 6	Low APGAR score		False	0
+HP:0030918	Low 1-minute APGAR score	Low APGAR score		False	14
+HP:0033467	Low 10-minute APGAR score	Low APGAR score		True	0
+HP:0030919	Low 5-minute APGAR score	Low APGAR score		False	13
+HP:0030917	Low APGAR score	Low APGAR score		False	19
+HP:0031169	Postterm pregnancy	Postterm pregnancy		False	5
+HP:0025665	Extremely preterm birth	Premature birth		True	0
+HP:0025664	Moderate to late preterm birth	Premature birth		True	4
+HP:0001622	Premature birth	Premature birth		False	203
+HP:0005100	Premature birth following premature rupture of fetal membranes	Premature birth		False	1
+HP:0005267	Premature delivery because of cervical insufficiency or membrane fragility	Premature birth		False	3
+HP:0025666	Very preterm birth	Premature birth		True	0

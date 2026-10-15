@@ -1,0 +1,93 @@
+{
+ "findings": 513,
+ "fetuses": 229,
+ "finding_exact_2020": [
+  273,
+  53.2
+ ],
+ "fetus_none_exact_2020": [
+  47,
+  20.5,
+  15.8,
+  26.2
+ ],
+ "finding_exact_2026": [
+  288,
+  56.1
+ ],
+ "fetus_none_exact_2026": [
+  41,
+  17.9,
+  13.5,
+  23.4
+ ],
+ "finding_system_2020": [
+  496,
+  96.7
+ ],
+ "fetus_none_system_2020": [
+  3,
+  1.3,
+  0.4,
+  3.8
+ ],
+ "finding_system_2026": [
+  493,
+  96.1
+ ],
+ "fetus_none_system_2026": [
+  3,
+  1.3,
+  0.4,
+  3.8
+ ],
+ "by_branch_exact_2026": {
+  "Abnormality of head or neck": {
+   "size": 94,
+   "mean": 0.617
+  },
+  "Abnormality of the cardiovascular system": {
+   "size": 91,
+   "mean": 0.495
+  },
+  "Abnormality of limbs": {
+   "size": 79,
+   "mean": 0.633
+  },
+  "Abnormality of the nervous system": {
+   "size": 63,
+   "mean": 0.683
+  },
+  "Abnormality of the musculoskeletal system": {
+   "size": 53,
+   "mean": 0.642
+  },
+  "Abnormality of the genitourinary system": {
+   "size": 49,
+   "mean": 0.49
+  },
+  "Abnormality of prenatal development or birth": {
+   "size": 32,
+   "mean": 0.344
+  },
+  "Abnormality of the digestive system": {
+   "size": 17,
+   "mean": 0.353
+  },
+  "Growth abnormality": {
+   "size": 13,
+   "mean": 0.462
+  },
+  "Abnormality of metabolism/homeostasis": {
+   "size": 9,
+   "mean": 0.222
+  }
+ },
+ "leakage": {
+  "diseases": 0,
+  "genes": [],
+  "fetuses_removed": 0,
+  "top10_2020": 13.1,
+  "top10_2026": 14.4
+ }
+}

@@ -1,0 +1,809 @@
+cohort	case	section	genes	inheritance	finding	hpo_id
+fu2022	1	Central nervous	ARX	XL	Agenesis of corpus callosum	HP:0001274
+fu2022	1	Central nervous	ARX	XL	Subependymal cysts	HP:0002416
+fu2022	2	Central nervous	CHD7	AD	Dandy-Walker malformation	HP:0001305
+fu2022	3	Central nervous	TUBA1A	AD	Hydrocephalus	HP:0000238
+fu2022	4	Central nervous	NFIA	AD	Agenesis of corpus callosum	HP:0001274
+fu2022	4	Central nervous	NFIA	AD	Ventriculomegaly	HP:0002119
+fu2022	5	Central nervous	TUBB2B	AD	Agenesis of the corpus callosum	HP:0001274
+fu2022	5	Central nervous	TUBB2B	AD	Subependymal cysts	HP:0002416
+fu2022	5	Central nervous	TUBB2B	AD	Cerebral dysplasia	HP:0002060
+fu2022	6	Central nervous	ASPM	AR	Microcephaly	HP:0000252
+fu2022	7	Central nervous	EZH2	AD	Widened posterior fossa	HP:0005445
+fu2022	8 #	Central nervous	CHD4	AD	Subependymal cysts	HP:0002416
+fu2022	8 #	Central nervous	CHD4	AD	Ventriculomegaly	HP:0002119
+fu2022	9	Central nervous	CSPP1	AR	Dandy-Walker malformation	HP:0001305
+fu2022	10	Central nervous	ANKRD11	AD	Ventriculomegaly	HP:0002119
+fu2022	11	Central nervous	ANKRD11	AD	Hydrocephalus	HP:0000238
+fu2022	12	Central nervous	PPP2R1A	AD	Hypoplasia of the corpus callosum	HP:0002079
+fu2022	12	Central nervous	PPP2R1A	AD	Ventriculomegaly	HP:0002119
+fu2022	13	Central nervous	AHDC1	AD	Hypoplasia of the corpus callosum	HP:0002079
+fu2022	14	Central nervous	PAFAH1B1	AD	Macrogyria	HP:0001302
+fu2022	14	Central nervous	PAFAH1B1	AD	Lissencephaly	HP:0001339
+fu2022	15	Central nervous	AP4M1	AR	Hypoplasia of the corpus callosum	HP:0002079
+fu2022	16	Central nervous	COL4A1	AD	Porencephalic cyst	HP:0002132
+fu2022	16	Central nervous	COL4A1	AD	Posterior fossa cyst	HP:0007291
+fu2022	17	Central nervous	PAFAH1B1	AD	Pachygyria	HP:0001302
+fu2022	18	Central nervous	ARV1	AR	Dilation of lateral ventricles	HP:0006956
+fu2022	18	Central nervous	ARV1	AR	Polyhydramnios	HP:0001561
+fu2022	19	Central nervous	NFIA	AD	Increased nuchal translucency	HP:0010880
+fu2022	19	Central nervous	NFIA	AD	Agenesis of corpus callosum	HP:0001274
+fu2022	19	Central nervous	NFIA	AD	Ventriculomegaly	HP:0002119
+fu2022	20	Central nervous	ARID1B	AD	Hypoplasia of the corpus callosum	HP:0002079
+fu2022	21	Central nervous	ADNP	AD	Increased nuchal translucency	HP:0010880
+fu2022	21	Central nervous	ADNP	AD	Ventriculomegaly	HP:0002119
+fu2022	22	Central nervous	ARID1B	AD	Aplasia of the corpus callosum	HP:0001274
+fu2022	23	Central nervous	COL4A1	AD	Gray matter heterotopias	HP:0002282
+fu2022	23	Central nervous	COL4A1	AD	Porencephalic cyst	HP:0002132
+fu2022	24	Central nervous	FGFR2	AD	Increased nuchal translucency	HP:0010880
+fu2022	24	Central nervous	FGFR2	AD	Hypertelorism	HP:0000316
+fu2022	24	Central nervous	FGFR2	AD	Ventriculomegaly	HP:0002119
+fu2022	25	Central nervous	CC2D2A	AR	Cerebellar vermis hypoplasia	HP:0001320
+fu2022	25	Central nervous	CC2D2A	AR	Dilated fourth ventricle	HP:0002198
+fu2022	25	Central nervous	CC2D2A	AR	Large foramen magnum	HP:0002700
+fu2022	26	Central nervous	DLL1	AD	Ventriculomegaly	HP:0002119
+fu2022	27	Central nervous	PDHA1	AD	Microcephaly	HP:0000252
+fu2022	28	Central nervous	EPG5	AR	Agenesis of corpus callosum	HP:0001274
+fu2022	29	Central nervous	FLNA	XL	Widened posterior fossa	HP:0005445
+fu2022	29	Central nervous	FLNA	XL	Arachnoid cyst	HP:0100702
+fu2022	30	Central nervous	PPP2R1A	AD	Hydrocephalus	HP:0000238
+fu2022	30	Central nervous	PPP2R1A	AD	Hypoplasia of the corpus callosum	HP:0002079
+fu2022	31	Central nervous	ZMYM2	AD	Bilateral choroid plexus cyst	HP:0011426
+fu2022	31	Central nervous	ZMYM2	AD	Single umbilical artery	HP:0001195
+fu2022	32	Central nervous	ASPM	AR	Microcephaly	HP:0000252
+fu2022	32	Central nervous	ASPM	AR	Intrauterine growth retardation	HP:0001511
+fu2022	33	Central nervous	PTCH1	AD	Large for gestational age	HP:0001520
+fu2022	33	Central nervous	PTCH1	AD	Ventriculomegaly	HP:0002119
+fu2022	34	Facial	COL11A1	AD	Micrognathia	HP:0000347
+fu2022	34	Facial	COL11A1	AD	Polyhydramnios	HP:0001561
+fu2022	34	Facial	COL11A1	AD	Cleft palate	HP:0000175
+fu2022	35	Facial	ARHGAP29	AD	Cleft lip	HP:0410030
+fu2022	35	Facial	ARHGAP29	AD	Cleft palate	HP:0000175
+fu2022	36	Facial	IRF6	AD	Cleft lip	HP:0410030
+fu2022	36	Facial	IRF6	AD	Cleft palate	HP:0000175
+fu2022	37	Facial	IRF6	AD	Cleft lip	HP:0410030
+fu2022	37	Facial	IRF6	AD	Cleft palate	HP:0000175
+fu2022	38	Facial	KCNK9	AD	Micrognathia	HP:0000347
+fu2022	38	Facial	KCNK9	AD	Cleft palate	HP:0000175
+fu2022	39	Facial	FOXC2	AD	Hypertelorism	HP:0000316
+fu2022	39	Facial	FOXC2	AD	Increased nuchal translucency	HP:0010880
+fu2022	40	Facial	CRYAA	AD	Congenital cataract	HP:0000519
+fu2022	41	Facial	RUNX2	AD	Agenesis of nasal bones	HP:0010941
+fu2022	41	Facial	RUNX2	AD	Polyhydramnios	HP:0001561
+fu2022	42	Facial	KMT2D	AD	Cleft palate	HP:0000175
+fu2022	42	Facial	KMT2D	AD	Cleft lip	HP:0410030
+fu2022	43	Facial	TCOF1	AD	Micrognathia	HP:0000347
+fu2022	43	Facial	TCOF1	AD	Microtia	HP:0008551
+fu2022	43	Facial	TCOF1	AD	Hypertelorism	HP:0000316
+fu2022	43	Facial	TCOF1	AD	Hypoplasia of the nasal bone	HP:0004646
+fu2022	43	Facial	TCOF1	AD	Polyhydramnios	HP:0001561
+fu2022	44	Facial	SIX3	AD	Unilateral cleft lip	HP:0100333
+fu2022	44	Facial	SIX3	AD	Unilateral cleft palate	HP:0100334
+fu2022	45	Facial	EYA1	AD	Cleft palate	HP:0000175
+fu2022	46	Cardiovascular	ADNP	AD	Tetralogy of Fallot	HP:0001636
+fu2022	47	Cardiovascular	PTPN11	AD	Ventricular septal defect	HP:0001629
+fu2022	48	Cardiovascular	CHD7	AD	Tetralogy of Fallot	HP:0001636
+fu2022	48	Cardiovascular	CHD7	AD	Mitral regurgitation	HP:0001653
+fu2022	48	Cardiovascular	CHD7	AD	Tricuspid regurgitation	HP:0005180
+fu2022	49	Cardiovascular	KMT2D	AD	Mitral atresia	HP:0011560
+fu2022	49	Cardiovascular	KMT2D	AD	Ventricular septal defect	HP:0001629
+fu2022	50	Cardiovascular	FBN1	AD	Dilatation of the ventricular cavity	HP:0006698
+fu2022	50	Cardiovascular	FBN1	AD	Left ventricular pseudoaneurysm	HP:0001711
+fu2022	51	Cardiovascular	PTPN11	AD	Aortic valve stenosis	HP:0001650
+fu2022	52	Cardiovascular	SMARCA4	AD	Persistent left superior vena cava	HP:0005301
+fu2022	52	Cardiovascular	SMARCA4	AD	Ventriclular septal defect	HP:0001629
+fu2022	53	Cardiovascular	ZEB2	AD	Ventricular septal defect	HP:0001629
+fu2022	53	Cardiovascular	ZEB2	AD	Pulmonary artery stenosis	HP:0004415
+fu2022	54	Cardiovascular	FLNA	XL	Ventricular septal defect	HP:0001629
+fu2022	54	Cardiovascular	FLNA	XL	Cardiac enlargement	HP:0001640
+fu2022	55	Cardiovascular	SHOC2	AD	Pulmonic stenosis	HP:0001642
+fu2022	56	Cardiovascular	BRAF	AD	Tetralogy of Fallot	HP:0001636
+fu2022	57	Cardiovascular	HRAS	AD	Pulmonic stenosis	HP:0001642
+fu2022	57	Cardiovascular	HRAS	AD	Ventricular septal defect	HP:0001629
+fu2022	58	Cardiovascular	KMT2D	AD	Coarctation of aorta	HP:0001680
+fu2022	59	Cardiovascular	KMT2D	AD	Coarctation of aorta	HP:0001680
+fu2022	59	Cardiovascular	KMT2D	AD	Double outlet right ventricle	HP:0001719
+fu2022	60	Cardiovascular	MYH7	AD	Dilated cardiomyopathy	HP:0001644
+fu2022	60	Cardiovascular	MYH7	AD	Ventricular septal defect	HP:0001629
+fu2022	61	Cardiovascular	NONO	XL	Noncompaction cardiomyopathy	HP:0012817
+fu2022	62	Cardiovascular	EVC2	AR	Common atrium	HP:0011565
+fu2022	62	Cardiovascular	EVC2	AR	Complete atrioventricular canal defect	HP:0001674
+fu2022	62	Cardiovascular	EVC2	AR	Coarctation of aorta	HP:0001680
+fu2022	63	Cardiovascular	TSC2	AD	Cardiac rhabdomyoma	HP:0009729
+fu2022	64	Cardiovascular	TSC2	AD	Cardiac rhabdomyoma	HP:0009729
+fu2022	65 #	Cardiovascular	MAPK1	AD	Transposition of the great arteries	HP:0001669
+fu2022	66	Cardiovascular	TSC2	AD	Cardiac rhabdomyoma	HP:0009729
+fu2022	67	Cardiovascular	KDM6A	XD	Coarctation of aorta	HP:0001680
+fu2022	67	Cardiovascular	KDM6A	XD	Pulmonary artery stenosis	HP:0004415
+fu2022	68	Cardiovascular	TSC2	AD	Cardiac rhabdomyoma	HP:0009729
+fu2022	69	Cardiovascular	TSC1	AD	Neoplasm of the heart	HP:0100544
+fu2022	70	Cardiovascular	CDH2	AD	Mitral regurgitation	HP:0001653
+fu2022	70	Cardiovascular	CDH2	AD	Tricuspid regurgitation	HP:0005180
+fu2022	70	Cardiovascular	CDH2	AD	Hypoplastic tricuspid valve	HP:0011573
+fu2022	70	Cardiovascular	CDH2	AD	Cardiomegaly	HP:0001640
+fu2022	71	Cardiovascular	TPM1	AD	Cardiomegaly	HP:0001640
+fu2022	71	Cardiovascular	TPM1	AD	Cardiomyopathy	HP:0001638
+fu2022	71	Cardiovascular	TPM1	AD	Right ventricular noncompaction cardiomyopathy	HP:0012816
+fu2022	71	Cardiovascular	TPM1	AD	Hydrops fetalis	HP:0001789
+fu2022	72	Cardiovascular	TSC2	AD	Cardiac rhabdomyoma	HP:0009729
+fu2022	73	Cardiovascular	FBN1	AD	Cardiomegaly	HP:0001640
+fu2022	74	Cardiovascular	PTPN11	AD	Coarctation of aorta	HP:0001680
+fu2022	74	Cardiovascular	PTPN11	AD	Ventricular septal defect	HP:0001629
+fu2022	75	Cardiovascular	EFTUD2	AD	Ventricular septal defect	HP:0001629
+fu2022	75	Cardiovascular	EFTUD2	AD	Pulmonary artery stenosis	HP:0004415
+fu2022	76	Cardiovascular	PTPN11	AD	Pulmonic stenosis	HP:0001642
+fu2022	76	Cardiovascular	PTPN11	AD	Persistent left superior vena cava	HP:0005301
+fu2022	77	Cardiovascular	KMT2D	AD	Coarctation of aorta	HP:0001680
+fu2022	78	Cardiovascular	TSC2	AD	Cardiac rhabdomyoma	HP:0009729
+fu2022	79	Cardiovascular	KMT2D	AD	Coarctation of aorta	HP:0001680
+fu2022	79	Cardiovascular	KMT2D	AD	Anomalous origin of left subclavian artery	HP:0031253
+fu2022	80	Cardiovascular	MYH7	AD	Hypoplasia of right ventricle	HP:0004762
+fu2022	81	Cardiovascular	LZTR1	AR	Increased nuchal translucency	HP:0010880
+fu2022	81	Cardiovascular	LZTR1	AR	Cystic hygroma	HP:0000476
+fu2022	81	Cardiovascular	LZTR1	AR	Hypoplastic left heart	HP:0004383
+fu2022	82	Cardiovascular	NR2F2	AD	Complete atrioventricular canal defect	HP:0001674
+fu2022	82	Cardiovascular	NR2F2	AD	Coarctation of aorta	HP:0001680
+fu2022	82	Cardiovascular	NR2F2	AD	Echogenic fetal bowel	HP:0010943
+fu2022	83 #	Abdominal	FOXF1	AD	Pyloric stenosis	HP:0002021
+fu2022	83 #	Abdominal	FOXF1	AD	Gastrectasia	HP:0002577
+fu2022	84	Abdominal	CDKN1C	AD	Omphalocele	HP:0001539
+fu2022	85	Urogenital	UMOD	AD	Multicystic kidney dysplasia	HP:0000003
+fu2022	86	Urogenital	HNF1B	AD	Hyperechogenic kidneys	HP:0004719
+fu2022	86	Urogenital	HNF1B	AD	Multicystic kidney dysplasia	HP:0000003
+fu2022	87	Urogenital	PKD1	AD	Enlarged kidney	HP:0000105
+fu2022	87	Urogenital	PKD1	AD	Hyperechogenic kidneys	HP:0004719
+fu2022	87	Urogenital	PKD1	AD	Choroid plexus cyst	HP:0002190
+fu2022	88	Urogenital	JAG1	AD	Multicystic kidney dysplasia	HP:0000003
+fu2022	89	Urogenital	ACE	AR	Enlarged kidney	HP:0000105
+fu2022	89	Urogenital	ACE	AR	Hyperechogenic kidneys	HP:0004719
+fu2022	89	Urogenital	ACE	AR	Oligohydramnios	HP:0001562
+fu2022	90	Urogenital	SRD5A2	AR	Micropenis	HP:0000054
+fu2022	90	Urogenital	SRD5A2	AR	Hypospadias	HP:0000047
+fu2022	91	Urogenital	PKD2	AD	Enlarged kidney	HP:0000105
+fu2022	91	Urogenital	PKD2	AD	Hyperechogenic kidneys	HP:0004719
+fu2022	92	Urogenital	HNF1B	AD	Hydronephrosis	HP:0000126
+fu2022	93	Urogenital	PKD2	AD	Hyperechogenic kidneys	HP:0004719
+fu2022	93	Urogenital	PKD2	AD	Enlarged kidney	HP:0000105
+fu2022	94	Urogenital	HNF1B	AD	Hyperechogenic kidneys	HP:0004719
+fu2022	94	Urogenital	HNF1B	AD	Renal cysts	HP:0000107
+fu2022	95	Urogenital	HNF1B	AD	Multicystic kidney dysplasia	HP:0000003
+fu2022	96	Urogenital	PKHD1	AR	Enlarged kidney	HP:0000105
+fu2022	96	Urogenital	PKHD1	AR	Hyperechogenic kidneys	HP:0004719
+fu2022	97	Urogenital	PKHD1	AR	Enlarged kidney	HP:0000105
+fu2022	97	Urogenital	PKHD1	AR	Hyperechogenic kidneys	HP:0004719
+fu2022	97	Urogenital	PKHD1	AR	Oligohydramnios	HP:0001562
+fu2022	98	Urogenital	PKD1	AD	Enlarged kidney	HP:0000105
+fu2022	98	Urogenital	PKD1	AD	Hyperechogenic kidneys	HP:0004719
+fu2022	99	Urogenital	ACTG2	AD	Megacystis	HP:0000021
+fu2022	100	Skeletal	FGFR3	AD	Increased nuchal translucency	HP:0010880
+fu2022	100	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	100	Skeletal	FGFR3	AD	Bowing of the long bones	HP:0006487
+fu2022	100	Skeletal	FGFR3	AD	Narrow chest	HP:0000774
+fu2022	100	Skeletal	FGFR3	AD	Abnormal skull morphology	HP:0000929
+fu2022	101	Skeletal	FGFR3	AD	Abnormal skull morphology	HP:0000929
+fu2022	101	Skeletal	FGFR3	AD	Micromelia	HP:0002983
+fu2022	102	Skeletal	GDF5	AD	Short long bone	HP:0003026
+fu2022	102	Skeletal	GDF5	AD	Wind-swept deformity of the knees	HP:0100531
+fu2022	103	Skeletal	COL1A1	AD	Decreased calvarial ossification	HP:0005474
+fu2022	103	Skeletal	COL1A1	AD	Multiple prenatal fractures	HP:0005855
+fu2022	104	Skeletal	SHOX	AD	Short long bone	HP:0003026
+fu2022	105	Skeletal	FLNB	AD	Talipes equinovarus	HP:0001762
+fu2022	106	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	107	Skeletal	SCN4A	AR	Redundant neck skin	HP:0005989
+fu2022	107	Skeletal	SCN4A	AR	Abnormal posturing	HP:0002533
+fu2022	107	Skeletal	SCN4A	AR	Flexion contracture	HP:0001371
+fu2022	108	Skeletal	EZH2	AD	Hypoplasia of the ulna	HP:0003022
+fu2022	108	Skeletal	EZH2	AD	Radial dysplasia	HP:0006433
+fu2022	108	Skeletal	EZH2	AD	Abnormality of digit	HP:0011297
+fu2022	109	Skeletal	COL1A2	AD	Femoral bowing	HP:0002980
+fu2022	110	Skeletal	PUF60	AD	Abnormality of the middle and the distal phalanx of the 3rd finger	HP:0009316
+fu2022	110	Skeletal	PUF60	AD	Abnormality of the index finger	HP:0004100
+fu2022	110	Skeletal	PUF60	AD	Split foot	HP:0001839
+fu2022	111	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	112	Skeletal	COL2A1	AD	Short long bone	HP:0003026
+fu2022	113	Skeletal	GNPTAB	AR	Short long bone	HP:0003026
+fu2022	114	Skeletal	ZC4H2	XL	Talipes equinovarus	HP:0001762
+fu2022	114	Skeletal	ZC4H2	XL	Abnormality of the hand	HP:0001155
+fu2022	115	Skeletal	TNNI2	AD	Hand clenching	HP:0001188
+fu2022	115	Skeletal	TNNI2	AD	Clinodactyly of hallux	HP:0040018
+fu2022	115	Skeletal	TNNI2	AD	Talipes equinovarus	HP:0001762
+fu2022	116	Skeletal	SMAD4	AD	Short long bone	HP:0003026
+fu2022	117	Skeletal	EBP	XD	Short long bone	HP:0003026
+fu2022	118	Skeletal	TPM2	AD	Talipes equinovarus	HP:0001762
+fu2022	118	Skeletal	TPM2	AD	Hand clenching	HP:0001188
+fu2022	119	Skeletal	KMT2D	AD	Camptodactyly	HP:0012385
+fu2022	119	Skeletal	KMT2D	AD	FGR	HP:0001511
+fu2022	120	Skeletal	ASXL3	AD	Arthrogryposis multiplex congenita	HP:0002804
+fu2022	121	Skeletal	TRPV4	AD	Short femur	HP:0003097
+fu2022	122	Skeletal	COL6A1	AR	Talipes equinovarus	HP:0001762
+fu2022	123	Skeletal	COL1A1	AD	Short femur	HP:0003097
+fu2022	123	Skeletal	COL1A1	AD	femur bowing	HP:0002980
+fu2022	124	Skeletal	FGFR3	AD	Macrocephaly	HP:0000256
+fu2022	124	Skeletal	FGFR3	AD	Micromelia	HP:0002983
+fu2022	125	Skeletal	COL1A2	AD	Short long bone	HP:0003026
+fu2022	125	Skeletal	COL1A2	AD	Bowed humerus	HP:0003865
+fu2022	125	Skeletal	COL1A2	AD	Femoral bowing	HP:0002980
+fu2022	126	Skeletal	ATRX	XR	Hand polydactyly	HP:0001161
+fu2022	126	Skeletal	ATRX	XR	decreased fetal movement	HP:0001558
+fu2022	126	Skeletal	ATRX	XR	FGR	HP:0001511
+fu2022	127	Skeletal	FGFR3	AD	Micromelia	HP:0002983
+fu2022	127	Skeletal	FGFR3	AD	Increased nuchal translucency	HP:0010880
+fu2022	128	Skeletal	COL2A1	AD	Short long bone	HP:0003026
+fu2022	129	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	130	Skeletal	COL1A1	AD	Short long bone	HP:0003026
+fu2022	130	Skeletal	COL1A1	AD	Femoral bowing	HP:0002980
+fu2022	131	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	131	Skeletal	FGFR3	AD	Increased head circumference	HP:0040194
+fu2022	131	Skeletal	FGFR3	AD	Polyhydramnios	HP:0001561
+fu2022	132	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	132	Skeletal	FGFR3	AD	Femoral bowing	HP:0002980
+fu2022	132	Skeletal	FGFR3	AD	Bowed humerus	HP:0003865
+fu2022	133	Skeletal	COL2A1	AD	Short long bone	HP:0003026
+fu2022	133	Skeletal	COL2A1	AD	Femoral bowing	HP:0002980
+fu2022	133	Skeletal	COL2A1	AD	Echogenic fetal bowel	HP:0010943
+fu2022	134	Skeletal	COL1A1	AD	Femur fracture	HP:0031846
+fu2022	135	Skeletal	COL1A1	AD	Multiple prenatal fractures	HP:0005855
+fu2022	136	Skeletal	COL2A1	AD	Short long bone	HP:0003026
+fu2022	137	Skeletal	COL1A2	AD	Short femur	HP:0003097
+fu2022	137	Skeletal	COL1A2	AD	Femoral bowing	HP:0002980
+fu2022	138	Skeletal	COL1A1	AD	Short long bone	HP:0003026
+fu2022	138	Skeletal	COL1A1	AD	Femoral bowing	HP:0002980
+fu2022	139	Skeletal	COL1A1	AD	Short long bone	HP:0003026
+fu2022	139	Skeletal	COL1A1	AD	Femoral bowing	HP:0002980
+fu2022	140	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	140	Skeletal	FGFR3	AD	Bowing of the long bones	HP:0006487
+fu2022	141	Skeletal	OBSL1	AR	Short long bone	HP:0003026
+fu2022	141	Skeletal	OBSL1	AR	Scoliosis	HP:0002650
+fu2022	142	Skeletal	ALPL	AR	Polyhydramnios	HP:0001561
+fu2022	142	Skeletal	ALPL	AR	Abnormality of the vertebral column	HP:0000925
+fu2022	142	Skeletal	ALPL	AR	Femoral bowing	HP:0002980
+fu2022	142	Skeletal	ALPL	AR	Bowed humerus	HP:0003865
+fu2022	143	Skeletal	TP63	AD	Hand oligodactyly	HP:0009380
+fu2022	143	Skeletal	TP63	AD	Toe syndactyly	HP:0001770
+fu2022	144	Skeletal	COL1A1	AD	Femoral bowing	HP:0002980
+fu2022	144	Skeletal	COL1A1	AD	Short femur	HP:0003097
+fu2022	145	Skeletal	COL1A1	AD	Talipes equinovarus	HP:0001762
+fu2022	145	Skeletal	COL1A1	AD	Long bone bowing	HP:0006487
+fu2022	146	Skeletal	FGFR3	AD	Polyhydramnios	HP:0001561
+fu2022	146	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	146	Skeletal	FGFR3	AD	Macrocephaly	HP:0000256
+fu2022	147	Skeletal	DYNC2H1	AR	Short long bone	HP:0003026
+fu2022	147	Skeletal	DYNC2H1	AR	Hypoplasia of the ulna	HP:0003022
+fu2022	147	Skeletal	DYNC2H1	AR	Fibular hypoplasia	HP:0003038
+fu2022	147	Skeletal	DYNC2H1	AR	Thoracic hypoplasia	HP:0005257
+fu2022	148	Skeletal	FGFR3	AD	Increased nuchal translucency	HP:0010880
+fu2022	148	Skeletal	FGFR3	AD	Macrocephaly	HP:0000256
+fu2022	148	Skeletal	FGFR3	AD	Narrow chest	HP:0000774
+fu2022	149	Skeletal	COL2A1	AD	Increased nuchal translucency	HP:0010880
+fu2022	149	Skeletal	COL2A1	AD	Micromelia	HP:0002983
+fu2022	150	Skeletal	COL1A1	AD	Short long bone	HP:0003026
+fu2022	150	Skeletal	COL1A1	AD	Bowing of the long bones	HP:0006487
+fu2022	151	Skeletal	COL1A1	AD	Short long bone	HP:0003026
+fu2022	152	Skeletal	ECEL1	AR	Contractures of elbows	HP:0034391
+fu2022	152	Skeletal	ECEL1	AR	Extension contractures of knees	HP:0034672
+fu2022	153	Skeletal	ARSE	XR	Depressed nasal bridge	HP:0005280
+fu2022	153	Skeletal	ARSE	XR	Epiphyseal stippling	HP:0010655
+fu2022	154	Skeletal	KLHL40	AR	Overlapping fingers	HP:0010557
+fu2022	154	Skeletal	KLHL40	AR	Talipes equinovarus	HP:0001762
+fu2022	155	Skeletal	FGFR3	AD	Short femur	HP:0003097
+fu2022	155	Skeletal	FGFR3	AD	Increased head circumference	HP:0040194
+fu2022	156	Skeletal	FGFR3	AD	Short long bone	HP:0003026
+fu2022	156	Skeletal	FGFR3	AD	Macrocephaly	HP:0000256
+fu2022	157	Skeletal	COL1A2	AD	Short long bone	HP:0003026
+fu2022	158	Skeletal	COL2A1	AD	Increased nuchal translucency	HP:0010880
+fu2022	158	Skeletal	COL2A1	AD	Micrognathia	HP:0000347
+fu2022	158	Skeletal	COL2A1	AD	Talipes equinovarus	HP:0001762
+fu2022	158	Skeletal	COL2A1	AD	Short femur	HP:0003097
+fu2022	159	Skeletal	BRPF1	AD	Talipes equinovarus	HP:0001762
+fu2022	160	Skeletal	COL1A1	AD	Short long bone	HP:0003026
+fu2022	160	Skeletal	COL1A1	AD	Long bone bowing	HP:0006487
+fu2022	161	Skeletal	EVC	AR	Polydactyly	HP:0010442
+fu2022	162	Skeletal	SHOX	AD	Short long bone	HP:0003026
+fu2022	162	Skeletal	SHOX	AD	Bowing of the long bones	HP:0006487
+fu2022	163	FGR	KAT6A	AD	Intrauterine growth retardation	HP:0001511
+fu2022	164	FGR	NIPBL	AD	Intrauterine growth retardation	HP:0001511
+fu2022	165	Isolated Hydrops	PTPN11	AD	Pleural effusion	HP:0002202
+fu2022	165	Isolated Hydrops	PTPN11	AD	ascites	HP:0001541
+fu2022	165	Isolated Hydrops	PTPN11	AD	Hydrops fetalis	HP:0001789
+fu2022	166	Isolated Hydrops	RYR1	AR	Hydrops fetalis	HP:0001789
+fu2022	167	Increased NT and cystic hygroma	SETD5	AD	Increased nuchal translucency	HP:0010880
+fu2022	168	Increased NT and cystic hygroma	PTPN11	AD	Increased nuchal translucency	HP:0010880
+fu2022	168	Increased NT and cystic hygroma	PTPN11	AD	cystic hygroma	HP:0000476
+fu2022	169	Increased NT and cystic hygroma	KMT2C	AD	Increased nuchal translucency	HP:0010880
+fu2022	170	Increased NT and cystic hygroma	KCNT1	AD	Increased nuchal translucency	HP:0010880
+fu2022	170	Increased NT and cystic hygroma	KCNT1	AD	Bilateral choroid plexus cysts	HP:0011426
+fu2022	171	Increased NT and cystic hygroma	HRAS	AD	Increased nuchal translucency	HP:0010880
+fu2022	171	Increased NT and cystic hygroma	HRAS	AD	cystic hygroma	HP:0000476
+fu2022	172	Increased NT and cystic hygroma	NFIB	AD	Increased nuchal translucency	HP:0010880
+fu2022	172	Increased NT and cystic hygroma	NFIB	AD	cystic hygroma	HP:0000476
+fu2022	173	Multisystem	RAF1	AD	Increased nuchal translucency	HP:0010880
+fu2022	173	Multisystem	RAF1	AD	Ventriculomegaly	HP:0002119
+fu2022	173	Multisystem	RAF1	AD	Abnormal posturing of hand	HP:0005922
+fu2022	173	Multisystem	RAF1	AD	Micropenis	HP:0000054
+fu2022	174	Multisystem	FLNB	AD	Spina bifida	HP:0002414
+fu2022	174	Multisystem	FLNB	AD	Hemivertebrae	HP:0002937
+fu2022	175	Multisystem	FLNA	XL	Omphalocele	HP:0001539
+fu2022	175	Multisystem	FLNA	XL	Abnormal foot morphology	HP:0001760
+fu2022	175	Multisystem	FLNA	XL	Short long bone	HP:0003026
+fu2022	175	Multisystem	FLNA	XL	Narrow chest	HP:0000774
+fu2022	175	Multisystem	FLNA	XL	Fibular aplasia	HP:0002990
+fu2022	176	Multisystem	L1CAM	XR	Hydrocephalus	HP:0000238
+fu2022	176	Multisystem	L1CAM	XR	Talipes equinovarus	HP:0001762
+fu2022	177	Multisystem	EFTUD2	AD	Esophageal atresia	HP:0002032
+fu2022	177	Multisystem	EFTUD2	AD	Right aortic arch	HP:0012020
+fu2022	178	Multisystem	KMT2D	AD	Renal agenesis	HP:0000104
+fu2022	178	Multisystem	KMT2D	AD	Pulmonary hypoplasia	HP:0002089
+fu2022	178	Multisystem	KMT2D	AD	Left aortic arch with retroesophageal right subclavian artery	HP:0011595
+fu2022	178	Multisystem	KMT2D	AD	Pericardial effusion	HP:0001698
+fu2022	178	Multisystem	KMT2D	AD	Oligohydramnios	HP:0001562
+fu2022	179	Multisystem	SPECC1L	AD	Diaphragmatic hernia	HP:0000776
+fu2022	179	Multisystem	SPECC1L	AD	Aplasia of the cerebellar vermis	HP:0002335
+fu2022	179	Multisystem	SPECC1L	AD	Enlarged posterior fossa	HP:0005445
+fu2022	180	Multisystem	MRPS22	AR	Hydrocephalus	HP:0000238
+fu2022	180	Multisystem	MRPS22	AR	Ventricular septal defect	HP:0001629
+fu2022	181	Multisystem	MID1	XR	Dandy-Walker malformation	HP:0001305
+fu2022	181	Multisystem	MID1	XR	Cleft palate	HP:0000175
+fu2022	181	Multisystem	MID1	XR	Cleft lip	HP:0410030
+fu2022	182	Multisystem	CHD7	AD	Interrupted aortic arch	HP:0011611
+fu2022	182	Multisystem	CHD7	AD	Esophageal atresia	HP:0002032
+fu2022	182	Multisystem	CHD7	AD	Persistent left superior vena cava	HP:0005301
+fu2022	183	Multisystem	MYH7	AD	Cardiomegaly	HP:0001640
+fu2022	183	Multisystem	MYH7	AD	Pulmonary artery stenosis	HP:0004415
+fu2022	183	Multisystem	MYH7	AD	Ascites	HP:0001541
+fu2022	183	Multisystem	MYH7	AD	Pericardial effusion	HP:0001698
+fu2022	184	Multisystem	NEK8	AR	Transposition of the great arteries	HP:0001669
+fu2022	184	Multisystem	NEK8	AR	Pulmonary hypoplasia	HP:0002089
+fu2022	184	Multisystem	NEK8	AR	Abdominal cystic mass	HP:4000139
+fu2022	184	Multisystem	NEK8	AR	Enlarged kidney	HP:0000105
+fu2022	184	Multisystem	NEK8	AR	Oligohydramnios	HP:0001562
+fu2022	185	Multisystem	FGFR2	AD	Agenesis of the corpus callosum	HP:0001274
+fu2022	185	Multisystem	FGFR2	AD	Overlapping fingers	HP:0010557
+fu2022	185	Multisystem	FGFR2	AD	Overlapping toe	HP:0001845
+fu2022	185	Multisystem	FGFR2	AD	Hand clenching	HP:0001188
+fu2022	186	Multisystem	BBS7	AR	Multicystic kidney dysplasia	HP:0000003
+fu2022	186	Multisystem	BBS7	AR	Polydactyly	HP:0010442
+fu2022	187	Multisystem	FRAS1	AR	Renal agenesis	HP:0000104
+fu2022	187	Multisystem	FRAS1	AR	Pulmonary hypoplasia	HP:0002089
+fu2022	187	Multisystem	FRAS1	AR	Oligohydramnion	HP:0001562
+fu2022	187	Multisystem	FRAS1	AR	Ascites	HP:0001541
+fu2022	188	Multisystem	FGFR2	AD	Micrognathia	HP:0000347
+fu2022	188	Multisystem	FGFR2	AD	Ventricular septal defect	HP:0001629
+fu2022	189	Multisystem	UBA1	XR	Micrognathia	HP:0000347
+fu2022	189	Multisystem	UBA1	XR	Arthrogryposis multiplex congenita	HP:0002804
+fu2022	189	Multisystem	UBA1	XR	FGR	HP:0001511
+fu2022	190	Multisystem	KMT2D	AD	Ventricular septal defect	HP:0001629
+fu2022	190	Multisystem	KMT2D	AD	Cleft palate	HP:0000175
+fu2022	191	Multisystem	NIPBL	AD	Short long bone	HP:0003026
+fu2022	191	Multisystem	NIPBL	AD	Coarctation of aorta	HP:0001680
+fu2022	191	Multisystem	NIPBL	AD	Intrauterine growth retardation	HP:0001511
+fu2022	192	Multisystem	KMT2D	AD	Coarctation of aorta	HP:0001680
+fu2022	192	Multisystem	KMT2D	AD	Cleft palate	HP:0000175
+fu2022	193	Multisystem	NIPBL	AD	Cleft palate	HP:0000175
+fu2022	193	Multisystem	NIPBL	AD	Hypospadias	HP:0000047
+fu2022	193	Multisystem	NIPBL	AD	Micropenis	HP:0000054
+fu2022	194	Multisystem	USP9X	XD	Intraventricular arachnoid cyst	HP:0012488
+fu2022	194	Multisystem	USP9X	XD	Ventricular septal defect	HP:0001629
+fu2022	194	Multisystem	USP9X	XD	Ventriculomegaly	HP:0002119
+fu2022	194	Multisystem	USP9X	XD	Talipes equinovarus	HP:0001762
+fu2022	195	Multisystem	FGFR2	AD	Syndactyly	HP:0001159
+fu2022	195	Multisystem	FGFR2	AD	Cleft palate	HP:0000175
+fu2022	195	Multisystem	FGFR2	AD	Turricephaly	HP:0000262
+fu2022	196	Multisystem	KMT2D	AD	Ventricular septal defect	HP:0001629
+fu2022	196	Multisystem	KMT2D	AD	Coarctation of aorta	HP:0001680
+fu2022	196	Multisystem	KMT2D	AD	Ectopic kidney	HP:0000086
+fu2022	197	Multisystem	NIPBL	AD	Persistent left superior vena cava	HP:0005301
+fu2022	197	Multisystem	NIPBL	AD	Micrognathia	HP:0000347
+fu2022	197	Multisystem	NIPBL	AD	FGR	HP:0001511
+fu2022	197	Multisystem	NIPBL	AD	Polyhydramnios	HP:0001561
+fu2022	198	Multisystem	CEP290	AR	Dandy-Walker malformation	HP:0001305
+fu2022	198	Multisystem	CEP290	AR	Hydrocephalus	HP:0000238
+fu2022	198	Multisystem	CEP290	AR	Enlarged kidney	HP:0000105
+fu2022	198	Multisystem	CEP290	AR	Hyperechogenic kidneys	HP:0004719
+fu2022	199	Multisystem	CEP290	AR	Dandy-Walker malformation	HP:0001305
+fu2022	199	Multisystem	CEP290	AR	Dilation of lateral ventricles	HP:0006956
+fu2022	199	Multisystem	CEP290	AR	Multicystic kidney dysplasia	HP:0000003
+fu2022	199	Multisystem	CEP290	AR	Oligohydramnios	HP:0001562
+fu2022	200	Multisystem	SOX9	AD	Cystic hygroma	HP:0000476
+fu2022	200	Multisystem	SOX9	AD	Arachnoid cyst	HP:0100702
+fu2022	200	Multisystem	SOX9	AD	Ventriculomegaly	HP:0002119
+fu2022	200	Multisystem	SOX9	AD	Micrognathia	HP:0000347
+fu2022	200	Multisystem	SOX9	AD	Ventricular septal defect	HP:0001629
+fu2022	200	Multisystem	SOX9	AD	Talipes equinovarus	HP:0001762
+fu2022	201	Multisystem	FGFR3	AD	Short long bone	HP:0003026
+fu2022	201	Multisystem	FGFR3	AD	Ventriculomegaly	HP:0002119
+fu2022	202	Multisystem	RAF1	AD	Increased nuchal translucency	HP:0010880
+fu2022	202	Multisystem	RAF1	AD	Ventricular septal defect	HP:0001629
+fu2022	202	Multisystem	RAF1	AD	Holoprosencephaly	HP:0001360
+fu2022	202	Multisystem	RAF1	AD	Hypertelorism	HP:0000316
+fu2022	203	Multisystem	MAGEL2	AD	Talipes equinovarus	HP:0001762
+fu2022	203	Multisystem	MAGEL2	AD	Wrist flexion contracture	HP:0001239
+fu2022	203	Multisystem	MAGEL2	AD	Abnormal external genitalia	HP:0000811
+fu2022	203	Multisystem	MAGEL2	AD	Abnormality of the palm	HP:0100871
+fu2022	204	Multisystem	ABCA12	AR	Thickened skin	HP:0001072
+fu2022	204	Multisystem	ABCA12	AR	Abnormal posturing	HP:0002533
+fu2022	204	Multisystem	ABCA12	AR	Open mouth	HP:0000194
+fu2022	205	Multisystem	TMEM231	AR	Dandy-Walker malformation	HP:0001305
+fu2022	205	Multisystem	TMEM231	AR	Dysostosis multiplex	HP:0000943
+fu2022	206	Multisystem	PLOD3	AR	Increased nuchal translucency	HP:0010880
+fu2022	206	Multisystem	PLOD3	AR	Abnormality of the hand	HP:0001155
+fu2022	206	Multisystem	PLOD3	AR	Intracranial hemorrhage	HP:0002170
+fu2022	206	Multisystem	PLOD3	AR	Widened posterior fossa	HP:0005445
+fu2022	206	Multisystem	PLOD3	AR	Porencephalic cyst	HP:0002132
+fu2022	207	Multisystem	CRB2	AR	Urachal cyst	HP:0012618
+fu2022	207	Multisystem	CRB2	AR	Omphalocele	HP:0001539
+fu2022	207	Multisystem	CRB2	AR	Hyperechogenic kidneys	HP:0004719
+fu2022	207	Multisystem	CRB2	AR	Ventriculomegaly	HP:0002119
+fu2022	208	Multisystem	RET	AD	Ectopic kidney	HP:0000086
+fu2022	208	Multisystem	RET	AD	Ventricular septal defect	HP:0001629
+fu2022	209	Multisystem	BBS7	AR	Multicystic kidney dysplasia	HP:0000003
+fu2022	209	Multisystem	BBS7	AR	Polydactyly	HP:0010442
+fu2022	210	Multisystem	WDR60	AR	Omphalocele	HP:0001539
+fu2022	210	Multisystem	WDR60	AR	Hydronephrosis	HP:0000126
+fu2022	210	Multisystem	WDR60	AR	Micromelia	HP:0002983
+fu2022	211	Multisystem	BBS2	AR	Multicystic kidney dysplasia	HP:0000003
+fu2022	211	Multisystem	BBS2	AR	Ascites	HP:0001541
+fu2022	211	Multisystem	BBS2	AR	Oligohydramnios	HP:0001562
+fu2022	212	Multisystem	RAPSN	AR	Pulmonary hypoplasia	HP:0002089
+fu2022	212	Multisystem	RAPSN	AR	Hyperechogenic kidneys	HP:0004719
+fu2022	212	Multisystem	RAPSN	AR	Micrognathia	HP:0000347
+fu2022	212	Multisystem	RAPSN	AR	Hydrops fetalis	HP:0001789
+fu2022	213	Multisystem	ACTA1	AD	Hydrops fetalis	HP:0001789
+fu2022	213	Multisystem	ACTA1	AD	Micrognathia	HP:0000347
+fu2022	213	Multisystem	ACTA1	AD	Talipes equinovarus	HP:0001762
+fu2022	213	Multisystem	ACTA1	AD	Polyhydramnios	HP:0001561
+fu2022	214	Multisystem	MID1	XR	Cleft palate	HP:0000175
+fu2022	214	Multisystem	MID1	XR	Cleft lip	HP:0410030
+fu2022	214	Multisystem	MID1	XR	Persistent left superior vena cava	HP:0005301
+fu2022	214	Multisystem	MID1	XR	Widened posterior fossa	HP:0005445
+fu2022	215	Multisystem	FLNA	XL	Increased nuchal translucency	HP:0010880
+fu2022	215	Multisystem	FLNA	XL	Ascites	HP:0001541
+fu2022	215	Multisystem	FLNA	XL	Hyperechogenic kidneys	HP:0004719
+fu2022	215	Multisystem	FLNA	XL	Tricuspid regurgitation	HP:0005180
+fu2022	216	Multisystem	GBA	AR	Intrauterine growth retardation	HP:0001511
+fu2022	216	Multisystem	GBA	AR	Pleural effusion	HP:0002202
+fu2022	216	Multisystem	GBA	AR	Decreased fetal movement	HP:0001558
+fu2022	217	Multisystem	FANCI	AR	Ventriculomegaly	HP:0002119
+fu2022	217	Multisystem	FANCI	AR	Right renal agenesis	HP:0000122
+fu2022	217	Multisystem	FANCI	AR	Left renal duplication	HP:0000075
+fu2022	217	Multisystem	FANCI	AR	Ventricular septal defect	HP:0001629
+fu2022	217	Multisystem	FANCI	AR	Persistent left superior vena cava	HP:0005301
+fu2022	217	Multisystem	FANCI	AR	Small for gestational age	HP:0001518
+fu2022	218	Multisystem	MTOR	AD	Ventriculomegaly	HP:0002119
+fu2022	218	Multisystem	MTOR	AD	Tetralogy of Fallot	HP:0001636
+fu2022	218	Multisystem	MTOR	AD	Right aortic arch	HP:0012020
+fu2022	219	Multisystem	KMT2A	AD	Polyhydramnios	HP:0001561
+fu2022	219	Multisystem	KMT2A	AD	Short long bone	HP:0003026
+fu2022	219	Multisystem	KMT2A	AD	Cardiomegaly	HP:0001640
+fu2022	220	Multisystem	PEX1	AR	Dilation of lateral ventricles	HP:0006956
+fu2022	220	Multisystem	PEX1	AR	Ventricular septal defect	HP:0001629
+fu2022	220	Multisystem	PEX1	AR	Dilated third ventricle	HP:0007082
+fu2022	221	Multisystem	ARID1A	AD	Aplasia of the nasal bone	HP:0010941
+fu2022	221	Multisystem	ARID1A	AD	Abnormality of ductus venosus blood flow	HP:0010947
+fu2022	221	Multisystem	ARID1A	AD	Single umbilical artery	HP:0001195
+fu2022	221	Multisystem	ARID1A	AD	Ventriculomegaly	HP:0002119
+fu2022	221	Multisystem	ARID1A	AD	Dandy-Walker malformation	HP:0001305
+fu2022	221	Multisystem	ARID1A	AD	Congenital diaphragmatic hernia	HP:0000776
+fu2022	222	Multisystem	FGFR2	AD	Ventriculomegaly	HP:0002119
+fu2022	222	Multisystem	FGFR2	AD	Frontal bossing	HP:0002007
+fu2022	222	Multisystem	FGFR2	AD	Lemon sign	HP:0032269
+fu2022	222	Multisystem	FGFR2	AD	Talipes equinovarus	HP:0001762
+fu2022	222	Multisystem	FGFR2	AD	Renal agenesis	HP:0000104
+fu2022	222	Multisystem	FGFR2	AD	Aplasia/Hypoplasia involving the vertebral column	HP:0008518
+fu2022	223	Multisystem	MYH3	AD	Cleft palate	HP:0000175
+fu2022	223	Multisystem	MYH3	AD	Short femur	HP:0003097
+fu2022	224	Multisystem	KRAS	AD	Ventriculomegaly	HP:0002119
+fu2022	224	Multisystem	KRAS	AD	Pleural effusion	HP:0002202
+fu2022	225	Multisystem	CSNK2A1	AD	Supraventricular tachycardia	HP:0004755
+fu2022	225	Multisystem	CSNK2A1	AD	Enlarged cisterna magna	HP:0002280
+fu2022	225	Multisystem	CSNK2A1	AD	Ascites	HP:0001541
+fu2022	225	Multisystem	CSNK2A1	AD	Pleural effusion	HP:0002202
+fu2022	225	Multisystem	CSNK2A1	AD	Polyhydramnios	HP:0001561
+fu2022	226	Multisystem	PBX1	AD	Pulmonary hypoplasia	HP:0002089
+fu2022	226	Multisystem	PBX1	AD	Right renal agenesis	HP:0000122
+fu2022	226	Multisystem	PBX1	AD	Left renal dysplasia	HP:0008718
+fu2022	226	Multisystem	PBX1	AD	Oligohydramnios	HP:0001562
+fu2022	227	Multisystem	CDKN1C	AD	Omphalocele	HP:0001539
+fu2022	227	Multisystem	CDKN1C	AD	Tricuspid regurgitation	HP:0005180
+fu2022	227	Multisystem	CDKN1C	AD	Polyhydramnios	HP:0001561
+fu2022	227	Multisystem	CDKN1C	AD	Short long bone	HP:0003026
+fu2022	227	Multisystem	CDKN1C	AD	Hepatomegaly	HP:0002240
+fu2022	228	Multisystem	ZEB2	AD	Microcephaly	HP:0000252
+fu2022	228	Multisystem	ZEB2	AD	Transverse facial cleft	HP:0100731
+fu2022	228	Multisystem	ZEB2	AD	FGR	HP:0001511
+fu2022	229	Others	CLCN5	XR	Large for gestational age	HP:0001520
+fu2022	229	Others	CLCN5	XR	Polyhydramnios	HP:0001561
+graham2026	1		ALPL	AD; Maternal	Short long bone	HP:0003026
+graham2026	2		CNOT1	AD; Maternal	Polyhydramnios	HP:0001561
+graham2026	2		CNOT1	AD; Maternal	Abnormal cerebellum morphology	HP:0001317
+graham2026	2		CNOT1	AD; Maternal	Abnormality of the fourth ventricle	HP:0010950
+graham2026	3		COL1A1	AD; Paternal	Short femur	HP:0003097
+graham2026	3		COL1A1	AD; Paternal	Femoral bowing	HP:0002980
+graham2026	4		COL1A1	AD; Maternal mosaic, VAF 17%	Fetal trigonocephaly	HP:4000142
+graham2026	4		COL1A1	AD; Maternal mosaic, VAF 17%	Thoracic hypoplasia	HP:0005257
+graham2026	4		COL1A1	AD; Maternal mosaic, VAF 17%	Short long bone	HP:0003026
+graham2026	4		COL1A1	AD; Maternal mosaic, VAF 17%	Bowing of the long bones	HP:0006487
+graham2026	5		COL1A1	AD; Possible paternal low level mosaic, VAF <1%	Short long bone	HP:0003026
+graham2026	5		COL1A1	AD; Possible paternal low level mosaic, VAF <1%	Femoral bowing	HP:0002980
+graham2026	5		COL1A1	AD; Possible paternal low level mosaic, VAF <1%	Femur fracture	HP:0031846
+graham2026	6		COL1A2	AD; Paternal mosaic, VAF 12%	Short long bone	HP:0003026
+graham2026	6		COL1A2	AD; Paternal mosaic, VAF 12%	Abnormal rib cage morphology	HP:0001547
+graham2026	6		COL1A2	AD; Paternal mosaic, VAF 12%	Femoral bowing	HP:0002980
+graham2026	6		COL1A2	AD; Paternal mosaic, VAF 12%	Femur fracture	HP:0031846
+graham2026	7		COL1A2	AD; Paternal	Short long bone	HP:0003026
+graham2026	7		COL1A2	AD; Paternal	Asymmetric growth	HP:0100555
+graham2026	7		COL1A2	AD; Paternal	Short ribs	HP:0000773
+graham2026	7		COL1A2	AD; Paternal	Bowing of the legs	HP:0002979
+graham2026	8		COL2A1	AD; Maternal	Short long bone	HP:0003026
+graham2026	8		COL2A1	AD; Maternal	Micrognathia	HP:0000347
+graham2026	8		COL2A1	AD; Maternal	Hemivertebrae	HP:0002937
+graham2026	9		COL2A1	AD; Possible maternal low level mosaic, VAF 1%	Short long bone	HP:0003026
+graham2026	9		COL2A1	AD; Possible maternal low level mosaic, VAF 1%	Increased nuchal translucency	HP:0010880
+graham2026	10		COL2A1	AD; Maternal	Short long bone	HP:0003026
+graham2026	10		COL2A1	AD; Maternal	Micrognathia	HP:0000347
+graham2026	11		COL2A1	AD; Maternal mosaic, VAF 10%	Short long bone	HP:0003026
+graham2026	12		EPHB4	AD; Maternal	Thickened nuchal skin fold	HP:0000474
+graham2026	12		EPHB4	AD; Maternal	Pleural effusion	HP:0002202
+graham2026	13		FBN1	AD; Paternal	Progressive microcephaly	HP:0000253
+graham2026	13		FBN1	AD; Paternal	Partial agenesis of the corpus callosum	HP:0001338
+graham2026	13		FBN1	AD; Paternal	Knee extension contracture	HP:0034672
+graham2026	13		FBN1	AD; Paternal	Cerebellar hypoplasia	HP:0001321
+graham2026	13		FBN1	AD; Paternal	Hypospadias	HP:0000047
+graham2026	14		KRAS	AD; Possible paternal low level mosaic, VAF <1%	Increased nuchal translucency	HP:0010880
+graham2026	14		KRAS	AD; Possible paternal low level mosaic, VAF <1%	Pleural effusion	HP:0002202
+graham2026	14		KRAS	AD; Possible paternal low level mosaic, VAF <1%	Fetal ascites	HP:0001791
+graham2026	14		KRAS	AD; Possible paternal low level mosaic, VAF <1%	Fetal skin edema	HP:0025672
+graham2026	15		KRAS	AD; Possible maternal low level mosaic, VAF <1%	Short long bone	HP:0003026
+graham2026	15		KRAS	AD; Possible maternal low level mosaic, VAF <1%	Fetal nuchal edema	HP:0034250
+graham2026	15		KRAS	AD; Possible maternal low level mosaic, VAF <1%	Supravalvar pulmonary stenosis	HP:0034349
+graham2026	15		KRAS	AD; Possible maternal low level mosaic, VAF <1%	Fetal cystic hygroma	HP:0010878
+graham2026	15		KRAS	AD; Possible maternal low level mosaic, VAF <1%	Ventricular septal defect	HP:0001629
+graham2026	15		KRAS	AD; Possible maternal low level mosaic, VAF <1%	Abnormal aortic valve morphology	HP:0001646
+graham2026	16		MYH7	AD; Paternal	Ventricular septal defect	HP:0001629
+graham2026	16		MYH7	AD; Paternal	Coarctation of aorta	HP:0001680
+graham2026	16		MYH7	AD; Paternal	Hypoplastic aortic arch	HP:0012304
+graham2026	16		MYH7	AD; Paternal	Pericardial effusion	HP:0001698
+graham2026	17		MYH7	AD; Paternal	Increased nuchal translucency	HP:0010880
+graham2026	17		MYH7	AD; Paternal	Ventricular septal defect	HP:0001629
+graham2026	17		MYH7	AD; Paternal	Coarctation of aorta	HP:0001680
+graham2026	18		PIEZO1;GLI2	AD; Maternal (PIEZO1); GLI2 de novo LP per main Table 2	Ventricular septal defect	HP:0001629
+graham2026	18		PIEZO1;GLI2	AD; Maternal (PIEZO1); GLI2 de novo LP per main Table 2	Fetal ascites	HP:0001791
+graham2026	18		PIEZO1;GLI2	AD; Maternal (PIEZO1); GLI2 de novo LP per main Table 2	Pleural effusion	HP:0002202
+graham2026	18		PIEZO1;GLI2	AD; Maternal (PIEZO1); GLI2 de novo LP per main Table 2	Fetal skin edema	HP:0025672
+graham2026	18		PIEZO1;GLI2	AD; Maternal (PIEZO1); GLI2 de novo LP per main Table 2	Echogenic fetal bowel	HP:0010943
+graham2026	18		PIEZO1;GLI2	AD; Maternal (PIEZO1); GLI2 de novo LP per main Table 2	Single umbilical artery	HP:0001195
+graham2026	19		PKD1	AD; Maternal	Hyperechogenic kidneys	HP:0004719
+graham2026	19		PKD1	AD; Maternal	Agenesis of corpus callosum	HP:0001274
+graham2026	19		PKD1	AD; Maternal	Ventriculomegaly	HP:0002119
+graham2026	19		PKD1	AD; Maternal	Bilateral microphthalmos	HP:0007633
+graham2026	19		PKD1	AD; Maternal	Truncus arteriosus	HP:0001660
+graham2026	19		PKD1	AD; Maternal	Pulmonary valve defects	HP:0005148
+graham2026	19		PKD1	AD; Maternal	Ventricular septal defect	HP:0001629
+graham2026	20		PLAG1	AD; Maternal	Short long bone	HP:0003026
+graham2026	20		PLAG1	AD; Maternal	Intrauterine growth retardation	HP:0001511
+graham2026	21		POLR1A	AD; Paternal	Omphalocele	HP:0001539
+graham2026	21		POLR1A	AD; Paternal	Ventricular septal defect	HP:0001629
+graham2026	22		PTPN11	AD; Maternal	Fetal cystic hygroma	HP:0010878
+graham2026	22		PTPN11	AD; Maternal	Short long bone	HP:0003026
+graham2026	22		PTPN11	AD; Maternal	Hypertelorism	HP:0000316
+graham2026	23		PTPN11	AD; Possible paternal low level mosaic, VAF <1%	Fetal cystic hygroma	HP:0010878
+graham2026	23		PTPN11	AD; Possible paternal low level mosaic, VAF <1%	Fetal hydrothorax	HP:0025678
+graham2026	23		PTPN11	AD; Possible paternal low level mosaic, VAF <1%	Edema	HP:0000969
+graham2026	23		PTPN11	AD; Possible paternal low level mosaic, VAF <1%	Pericardial effusion	HP:0001698
+graham2026	23		PTPN11	AD; Possible paternal low level mosaic, VAF <1%	Echogenic fetal bowel	HP:0010943
+graham2026	23		PTPN11	AD; Possible paternal low level mosaic, VAF <1%	Renal agenesis	HP:0000104
+graham2026	23		PTPN11	AD; Possible paternal low level mosaic, VAF <1%	Hypertrophic cardiomyopathy	HP:0001639
+graham2026	24		PTPN11	AD; Maternal	Polyhydramnios	HP:0001561
+graham2026	24		PTPN11	AD; Maternal	Large for gestational age	HP:0001520
+graham2026	24		PTPN11	AD; Maternal	Macrocephaly	HP:0000256
+graham2026	25		RAF1	AD; Maternal	Fetal cystic hygroma	HP:0010878
+graham2026	25		RAF1	AD; Maternal	Abnormality of the vertebral column	HP:0000925
+graham2026	25		RAF1	AD; Maternal	Double outlet right ventricle	HP:0001719
+graham2026	25		RAF1	AD; Maternal	Ventricular septal defect	HP:0001629
+graham2026	25		RAF1	AD; Maternal	Overriding aorta	HP:0002623
+graham2026	26		RASA1	AD; Maternal	Pericardial effusion	HP:0001698
+graham2026	26		RASA1	AD; Maternal	Thickened nuchal skin fold	HP:0000474
+graham2026	27		RASA1	AD; Maternal	Thickened nuchal skin fold	HP:0000474
+graham2026	27		RASA1	AD; Maternal	Cardiomegaly	HP:0001640
+graham2026	27		RASA1	AD; Maternal	Ductus venosus agenesis	HP:0034196
+graham2026	27		RASA1	AD; Maternal	Flat face	HP:0012368
+graham2026	27		RASA1	AD; Maternal	Absent fetal nasal bone	HP:0025706
+graham2026	28		RASA1	AD; Maternal	Nonimmune hydrops fetalis	HP:0001790
+graham2026	28		RASA1	AD; Maternal	Fetal pleural effusion	HP:0025676
+graham2026	29		RIT1	AD; Maternal	Pericardial effusion	HP:0001698
+graham2026	29		RIT1	AD; Maternal	Fetal cystic hygroma	HP:0010878
+graham2026	29		RIT1	AD; Maternal	Fetal skin edema	HP:0025672
+graham2026	30		RUNX2	AD; Paternal mosaic, VAF 24%	Short long bone	HP:0003026
+graham2026	30		RUNX2	AD; Paternal mosaic, VAF 24%	Short ribs	HP:0000773
+graham2026	30		RUNX2	AD; Paternal mosaic, VAF 24%	Polyhydramnios	HP:0001561
+graham2026	31		SHH	AD; Maternal	Semilobar holoprosencephaly	HP:0002507
+graham2026	32		SOS1	AD; Maternal	Fetal pleural effusion	HP:0025676
+graham2026	32		SOS1	AD; Maternal	Fetal nuchal edema	HP:0034250
+graham2026	32		SOS1	AD; Maternal	Hydronephrosis	HP:0000126
+graham2026	33		SOX9	AD; Presumed germline mosaicism	Micrognathia	HP:0000347
+graham2026	34		TCF12	AD; Maternal	Mild fetal ventriculomegaly	HP:0010952
+graham2026	34		TCF12	AD; Maternal	Inferior cerebellar vermis hypoplasia	HP:0007068
+graham2026	34		TCF12	AD; Maternal	Abnormal posterior cranial fossa morphology	HP:0000932
+graham2026	34		TCF12	AD; Maternal	Hyperechogenic kidneys	HP:0004719
+graham2026	35		TFAP2A	AD; Paternal	Bilateral cleft lip	HP:0100336
+graham2026	35		TFAP2A	AD; Paternal	Bilateral cleft palate	HP:0100337
+graham2026	36		TUBB2B	AD; Paternal	Dysplastic corpus callosum	HP:0006989
+graham2026	36		TUBB2B	AD; Paternal	Ventriculomegaly	HP:0002119
+graham2026	36		TUBB2B	AD; Paternal	Abnormal cortical gyration	HP:0002536
+graham2026	36		TUBB2B	AD; Paternal	Microcephaly	HP:0000252
+graham2026	36		TUBB2B	AD; Paternal	Bilateral superior vena cava	HP:0033379
+graham2026	37		ZFHX4	AD; Paternal	Fetal skin edema	HP:0025672
+graham2026	37		ZFHX4	AD; Paternal	Pleural effusion	HP:0002202
+graham2026	37		ZFHX4	AD; Paternal	Hydrops fetalis	HP:0001789
+graham2026	37		ZFHX4	AD; Paternal	Abnormal lung morphology	HP:0002088
+graham2026	37		ZFHX4	AD; Paternal	Short long bone	HP:0003026
+graham2026	38		ZIC2	AD; Maternal mosaic, VAF 5%	Holoprosencephaly	HP:0001360
+graham2026	38		ZIC2	AD; Maternal mosaic, VAF 5%	Ventriculomegaly	HP:0002119
+graham2026	38		ZIC2	AD; Maternal mosaic, VAF 5%	Dysplastic corpus callosum	HP:0006989
+graham2026	38		ZIC2	AD; Maternal mosaic, VAF 5%	Colpocephaly	HP:0030048
+graham2026	39		ZIC2	AD; Paternal mosaic, VAF 25%	Alobar holoprosencephaly	HP:0006988
+smogavec2022	1		SF3B4	het, AD, unknown	NT > 3,5 mm	HP:0010880
+smogavec2022	1		SF3B4	het, AD, unknown	microgenia	HP:0000306
+smogavec2022	1		SF3B4	het, AD, unknown	mesomelia	HP:0003027
+smogavec2022	1		SF3B4	het, AD, unknown	syndactyly of fingers	HP:0006101
+smogavec2022	2		MPDZ	comp het, AR	Hydrocephalus	HP:0000238
+smogavec2022	3		ANOS1	hemi, XL, mat inherited	Bilateral renal agenesia	HP:0010958
+smogavec2022	4		PTPN11	het, AD, de novo	Left-sided diaphragmatic hernia	HP:0000776
+smogavec2022	4		PTPN11	het, AD, de novo	ascites	HP:0001541
+smogavec2022	4		PTPN11	het, AD, de novo	pleural efussion	HP:0002202
+smogavec2022	4		PTPN11	het, AD, de novo	susp. duplex kidneys	HP:0000075
+smogavec2022	5		COL1A2	het, AD, de novo	Shortened limbs	HP:0009826
+smogavec2022	5		COL1A2	het, AD, de novo	multiple fractures	HP:0005855
+smogavec2022	6		COL27A1;PKD1	COL27A1 hom, AR; PKD1 hom, AD (hypomorphic)	NT > 7 mm	HP:0010880
+smogavec2022	6		COL27A1;PKD1	COL27A1 hom, AR; PKD1 hom, AD (hypomorphic)	heart defect	HP:0001627
+smogavec2022	6		COL27A1;PKD1	COL27A1 hom, AR; PKD1 hom, AD (hypomorphic)	multicystic dysplastic kidneys	HP:0000003
+smogavec2022	6		COL27A1;PKD1	COL27A1 hom, AR; PKD1 hom, AD (hypomorphic)	shortened long bones	HP:0003026
+smogavec2022	6		COL27A1;PKD1	COL27A1 hom, AR; PKD1 hom, AD (hypomorphic)	bilateral clubfoot	HP:0001776
+smogavec2022	6		COL27A1;PKD1	COL27A1 hom, AR; PKD1 hom, AD (hypomorphic)	abnormal skull configuration	HP:0000929
+smogavec2022	7		GUSB	comp het, AR	Fetal hydrops	HP:0001789
+smogavec2022	8		CUL7	hom, AR	Skeletal dysplasia	HP:0002652
+smogavec2022	8		CUL7	hom, AR	IUGR	HP:0001511
+smogavec2022	8		CUL7	hom, AR	length of long bones < 3rd percentile	HP:0003026
+smogavec2022	8		CUL7	hom, AR	small thorax	HP:0005257
+smogavec2022	9		COG6	hom, AR	Agenesis of corpus callosum	HP:0001274
+smogavec2022	9		COG6	hom, AR	cerebellar hypoplasia	HP:0001321
+smogavec2022	9		COG6	hom, AR	colpocephaly	HP:0030048
+smogavec2022	9		COG6	hom, AR	transposition of great vessels	HP:0001669
+smogavec2022	9		COG6	hom, AR	micropenis	HP:0000054
+smogavec2022	9		COG6	hom, AR	fingers closed in fists	HP:0001188
+smogavec2022	9		COG6	hom, AR	asymmetric shortened legs	HP:0006385
+smogavec2022	9		COG6	hom, AR	malformed feet	HP:0001760
+smogavec2022	10		SLC26A2	comp het, AR	Skeletal dysplasia	HP:0002652
+smogavec2022	10		SLC26A2	comp het, AR	shortened long bones	HP:0003026
+smogavec2022	10		SLC26A2	comp het, AR	bilateral clubfoot	HP:0001776
+smogavec2022	11		SLC26A2	comp het, AR	Skeletal dysplasia	HP:0002652
+smogavec2022	11		SLC26A2	comp het, AR	shortened long bones	HP:0003026
+smogavec2022	12		HNF1B	het, AD, de novo	Polycystic kidneys	HP:0000113
+smogavec2022	12		HNF1B	het, AD, de novo	polyhydramnios	HP:0001561
+smogavec2022	13		KAT6B	het, AD, de novo	Agenesis of corpus callosum	HP:0001274
+smogavec2022	13		KAT6B	het, AD, de novo	hydronephrosis	HP:0000126
+smogavec2022	13		KAT6B	het, AD, de novo	bilateral clubfoot	HP:0001776
+smogavec2022	13		KAT6B	het, AD, de novo	abnormal hand position	HP:0005922
+smogavec2022	14		KMT2D	het, AD, de novo	Multicystic, dysplastic [enlarged] kidneys	HP:0000003
+smogavec2022	14		KMT2D	het, AD, de novo	enlarged kidneys	HP:0000105
+smogavec2022	14		KMT2D	het, AD, de novo	extreme oligohydramnios	HP:0001562
+smogavec2022	15		BBS2	hom, AR	Polycystic kidneys	HP:0000113
+smogavec2022	15		BBS2	hom, AR	dextrocardia	HP:0001651
+smogavec2022	16		COL2A1	het, AD, de novo	Thanatophoric dysplasia	HP:0005716
+smogavec2022	17		VANGL1	het, AD, de novo	Brain malformation	HP:0012443
+smogavec2022	17		VANGL1	het, AD, de novo	bilateral clubfoot	HP:0001776
+smogavec2022	17		VANGL1	het, AD, de novo	pericardial effusion	HP:0001698
+smogavec2022	18		MN1	het, AD, de novo	Shortened long bones (< 3 percentille)	HP:0003026
+smogavec2022	19		GPC3	hemi, XL, mat inherited	NT > 3.5 mm	HP:0010880
+smogavec2022	19		GPC3	hemi, XL, mat inherited	hydronephrosis	HP:0000126
+smogavec2022	19		GPC3	hemi, XL, mat inherited	polycystic kidney	HP:0000113
+smogavec2022	19		GPC3	hemi, XL, mat inherited	clubfoot	HP:0001762
+smogavec2022	19		GPC3	hemi, XL, mat inherited	macrosomia	HP:0001520
+smogavec2022	20		NBN	hom, AR	Microcephaly	HP:0000252
+smogavec2022	20		NBN	hom, AR	agenesis of the right kidney	HP:0000122
+smogavec2022	21		TREX1	hom, AR	Brain malformations	HP:0012443
+smogavec2022	21		TREX1	hom, AR	cardiomegaly	HP:0001640
+smogavec2022	22		EXOC3L2	hom, AR	cerebellar vermis hypoplasia	HP:0001320
+smogavec2022	22		EXOC3L2	hom, AR	hyperechogenic [enlarged] kidneys	HP:0004719
+smogavec2022	22		EXOC3L2	hom, AR	enlarged kidneys	HP:0000105
+smogavec2022	22		EXOC3L2	hom, AR	oligohydramnios	HP:0001562
+smogavec2022	23		PEX1	comp het, AR	Lissencephaly	HP:0001339
+smogavec2022	24		FRAS1	comp het, AR	Fetal hydrops	HP:0001789
+smogavec2022	24		FRAS1	comp het, AR	mild ventriculomegaly	HP:0010952
+smogavec2022	24		FRAS1	comp het, AR	microstomia	HP:0000160
+smogavec2022	24		FRAS1	comp het, AR	short fingers	HP:0009381
+smogavec2022	24		FRAS1	comp het, AR	syndyctyly of all fingers on the one hand side	HP:0006101
+smogavec2022	24		FRAS1	comp het, AR	heart malformation	HP:0001627
+smogavec2022	24		FRAS1	comp het, AR	shortend long bones	HP:0003026
+smogavec2022	24		FRAS1	comp het, AR	bilateral curved femur bones	HP:0002980
+smogavec2022	25		PTPN11;PTEN	PTPN11 het, AD, de novo; PTEN het, AD, mat inherited	Suspected brain malformations	HP:0012443
+smogavec2022	25		PTPN11;PTEN	PTPN11 het, AD, de novo; PTEN het, AD, mat inherited	Suspected brain vessel malformations	HP:0100659
+smogavec2022	26		CDK10	hom, AR	Fetal hydrops	HP:0001789
+smogavec2022	26		CDK10	hom, AR	hydrocephalus	HP:0000238
+smogavec2022	26		CDK10	hom, AR	multicystic, dysplastic kidneys	HP:0000003
+smogavec2022	26		CDK10	hom, AR	lung hypoplasia	HP:0002089
+smogavec2022	26		CDK10	hom, AR	cardiomyopathy	HP:0001638
+smogavec2022	26		CDK10	hom, AR	retrognathia	HP:0000278
+smogavec2022	27		KMT2D	het, AD, de novo	Complex heart defect	HP:0001627
+smogavec2022	28		COL1A1	het, AD, de novo	Suspected skeletal dysplasia	HP:0002652
+smogavec2022	28		COL1A1	het, AD, de novo	shortened long bones	HP:0003026
+smogavec2022	28		COL1A1	het, AD, de novo	bilateral curved femurs	HP:0002980
+smogavec2022	28		COL1A1	het, AD, de novo	malformed thorax	HP:0000765
+smogavec2022	28		COL1A1	het, AD, de novo	bowed rips	HP:0000772
+smogavec2022	29		DCC	het, AD, mat inherited	Agenesis of corpus callosum	HP:0001274
+smogavec2022	30		COL1A1	het, AD, de novo	Skeletal dysplasia	HP:0002652
+smogavec2022	31		NEB	hom, AR	contraction of distal muscles of the hands	HP:0009473
+smogavec2022	31		NEB	hom, AR	bilateral clubfoot	HP:0001776
+smogavec2022	31		NEB	hom, AR	minimal skin edema	HP:0025672
+aogs2026	1		CPLANE1	AR; Het mat + Het pat	Agenesis of cerebellar vermis	HP:0002335
+aogs2026	2		PDHA1	XLD; Het	Agenesis of corpus callosum	HP:0001274
+aogs2026	3		ASPM	AR; Het mat + Het pat	Microcephaly (HC: −7.0 SD)	HP:0000252
+aogs2026	4		CEP135	AR; Het pat + Het mat	Microcephaly (HC: −4.0 SD)	HP:0000252
+aogs2026	5		DLL1	AD; Het (de novo)	Bilateral ventriculomegaly	HP:0002119
+aogs2026	6		PPP1R12A	AD; Het (de novo)	Exencephaly	HP:0030769
+aogs2026	7		AR	XLR; Het mat	Left ventriculomegaly	HP:0002119
+aogs2026	7		AR	XLR; Het mat	irregular skull shape	HP:0000929
+aogs2026	7		AR	XLR; Het mat	left hydronephrosis	HP:0000126
+aogs2026	7		AR	XLR; Het mat	polyhydramnios	HP:0001561
+aogs2026	8		CC2D2A	AR; Het pat + Het mat	Meningocele	HP:0002435
+aogs2026	8		CC2D2A	AR; Het pat + Het mat	polycystic kidney	HP:0000113
+aogs2026	8		CC2D2A	AR; Het pat + Het mat	oligohydramnios	HP:0001562
+aogs2026	8		CC2D2A	AR; Het pat + Het mat	polydactyly	HP:0010442
+aogs2026	9		TMEM67	AR; Het mat + Het pat	Encephalocele	HP:0002084
+aogs2026	9		TMEM67	AR; Het mat + Het pat	bilateral polycystic kidney	HP:0000113
+aogs2026	9		TMEM67	AR; Het mat + Het pat	abnormal finger morphology	HP:0001167
+aogs2026	10		FAM111A	AD; Het (de novo)	Thin brain sulci and gyri	HP:0002536
+aogs2026	10		FAM111A	AD; Het (de novo)	irregular skull shape	HP:0000929
+aogs2026	11		COL4A1	AD; Het (de novo)	Hydrocephalus	HP:0000238
+aogs2026	11		COL4A1	AD; Het (de novo)	hydrops fetalis	HP:0001789
+aogs2026	11		COL4A1	AD; Het (de novo)	cardiac structure Malformation	HP:0001627
+aogs2026	11		COL4A1	AD; Het (de novo)	pericardial effusion	HP:0001698
+aogs2026	11		COL4A1	AD; Het (de novo)	right talipes equinovarus	HP:0001762
+aogs2026	12		CHD7	AD; Het (de novo)	Bilateral ventriculomegaly	HP:0002119
+aogs2026	12		CHD7	AD; Het (de novo)	cleft palate	HP:0000175
+aogs2026	12		CHD7	AD; Het (de novo)	alveolar cleft	HP:0010289
+aogs2026	12		CHD7	AD; Het (de novo)	congenital heart defect	HP:0001627
+aogs2026	13		TMEM231	AR; Het pat + Het pat (as printed)	Occipital encephalocele	HP:0002085
+aogs2026	13		TMEM231	AR; Het pat + Het pat (as printed)	polycystic kidney	HP:0000113
+aogs2026	13		TMEM231	AR; Het pat + Het pat (as printed)	polydactyly	HP:0010442
+aogs2026	14		TREX1	AR; Het mat + Het pat	Left ventriculomegaly	HP:0002119
+aogs2026	14		TREX1	AR; Het mat + Het pat	abnormal signals of corpus callosum	HP:0001273
+aogs2026	14		TREX1	AR; Het mat + Het pat	thick blood vessels	HP:0025015
+aogs2026	14		TREX1	AR; Het mat + Het pat	intracranial high‐level echo point	HP:0012443
+aogs2026	15		TREX1	AD (as printed); Homo	Enlarged posterior fossa	HP:0005445
+aogs2026	15		TREX1	AD (as printed); Homo	echo heterogeneity of thalamus	HP:0010663
+aogs2026	16		SMC1A	XLD; Het (de novo)	Agenesis of cavum septum pellucidum	HP:4000138
+aogs2026	16		SMC1A	XLD; Het (de novo)	agenesis of corpus callosum	HP:0001274
+aogs2026	16		SMC1A	XLD; Het (de novo)	cortical dysplasia	HP:0002539
+aogs2026	16		SMC1A	XLD; Het (de novo)	narrowing or atresia of the digestive tract	HP:0012718
+aogs2026	16		SMC1A	XLD; Het (de novo)	polyhydramnios	HP:0001561
+aogs2026	16		SMC1A	XLD; Het (de novo)	enlarged of the left adrenal gland	HP:0011732
+aogs2026	17		VANGL2	AD; Het mat	Spina bifida meningocele	HP:0002414
+aogs2026	17		VANGL2	AD; Het mat	Spina bifida meningocele	HP:0002435
+aogs2026	17		VANGL2	AD; Het mat	abdominal wall defect	HP:0010866
+aogs2026	17		VANGL2	AD; Het mat	cystocele	HP:0100645
+aogs2026	17		VANGL2	AD; Het mat	nuchal translucency thickness	HP:0010880
+aogs2026	18		PIK3CA	AD; Het (de novo)	Bilateral ventriculomegaly	HP:0002119
+aogs2026	19		ACO2	AR; Het mat	Bilateral ventriculomegaly	HP:0002119
+aogs2026	20		AP5Z1	AR; Het pat	Bilateral ventriculomegaly	HP:0002119
+aogs2026	21		FGFR3	AR (as printed); Het pat	Unilateral ventriculomegaly	HP:0002119
+aogs2026	22		L1CAM	XLR; Hemi mat	Agenesis of corpus callosum	HP:0001274
+aogs2026	23		SMC1A	XLR (as printed); Het (de novo)	Agenesis of corpus callosum	HP:0001274
+aogs2026	24		PEX6	AR; Homo	Thin brain sulci and gyri	HP:0002536
+aogs2026	24		PEX6	AR; Homo	cortical dysplasia	HP:0002539
+aogs2026	25		OCRL	XLR; Homo (as printed)	Bilateral ventriculomegaly	HP:0002119
+aogs2026	25		OCRL	XLR; Homo (as printed)	bilateral lens opacities	HP:0000518
+aogs2026	26		FGFR3	AD; Het (de novo)	Bilateral ventriculomegaly	HP:0002119
+aogs2026	26		FGFR3	AD; Het (de novo)	short femur	HP:0003097
+aogs2026	27		SMS	XLR; Hemi mat	Bilateral ventriculomegaly	HP:0002119
+aogs2026	27		SMS	XLR; Hemi mat	crossed ectopic kidney	HP:0000086
+aogs2026	28		CHD7	AD; Het (de novo)	Bilateral ventriculomegaly	HP:0002119
+aogs2026	28		CHD7	AD; Het (de novo)	vertebral cleft	HP:0008428
+aogs2026	29		RARS2	AR; Het mat	Bilateral ventriculomegaly	HP:0002119
+aogs2026	30		NOTCH2	AD; Het (de novo)	Unilateral ventriculomegaly	HP:0002119
+aogs2026	31		KMT2A	AD; Het mat	Agenesis of corpus callosum	HP:0001274
+aogs2026	32		KCNQ1	AD; Het mat	Enlarged posterior fossa	HP:0005445
+aogs2026	33		TCF12	AD; Het (de novo)	Enlarged posterior fossa	HP:0005445
+aogs2026	34		COL4A1	AD; Het (de novo)	Agenesis of cerebellar vermis	HP:0002335
+aogs2026	35		TSC2	AD; Het (de novo)	Cardiac rhabdomyomas	HP:0009729
+aogs2026	35		TSC2	AD; Het (de novo)	cerebral cortical tubers	HP:0009717
+aogs2026	36		PTPN11	AD; Het (de novo)	Agenesis of corpus callosum	HP:0001274

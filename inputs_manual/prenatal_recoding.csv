@@ -1,0 +1,12 @@
+term,name,fetal_term,fetal_name,rule
+HP:0003097,Short femur,HP:0011428,Short fetal femur length,fetal counterpart with the same meaning
+HP:0000252,Microcephaly,HP:0020306,Decreased fetal head circumference,fetal counterpart with the same meaning
+HP:0000256,Macrocephaly,HP:0020307,Increased fetal head circumference,fetal counterpart with the same meaning
+HP:0040194,Increased head circumference,HP:0020307,Increased fetal head circumference,fetal counterpart with the same meaning
+HP:0002202,Pleural effusion,HP:0025676,Fetal pleural effusion,fetal counterpart with the same meaning
+HP:0001698,Pericardial effusion,HP:0025671,Fetal pericardial effusion,fetal counterpart with the same meaning
+HP:0001541,Ascites,HP:0001791,Fetal ascites,fetal counterpart with the same meaning
+HP:0000476,Cystic hygroma,HP:0010878,Fetal cystic hygroma,fetal counterpart with the same meaning
+HP:0002280,Enlarged cisterna magna,HP:0011427,Enlarged fetal cisterna magna,fetal counterpart with the same meaning
+HP:0002170,Intracranial hemorrhage,HP:0034208,Fetal intracranial hemorrhage,fetal counterpart with the same meaning
+HP:0005792,Short humerus,HP:0011429,Short fetal humerus length,fetal counterpart with the same meaning

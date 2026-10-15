@@ -1,0 +1,42 @@
+{
+ "r6": {
+  "fetuses": 49,
+  "top10_original": 8,
+  "top10_fetal": 4,
+  "top10_dual": 7,
+  "median_original": 64.0,
+  "median_fetal": 87.0,
+  "median_dual": 69.5,
+  "dual_vs_original": {
+   "gained": 1,
+   "lost": 2,
+   "p": 1.0
+  },
+  "dual_worse": 22,
+  "dual_better": 23,
+  "dual_wilcoxon_p": 0.6556611337241154
+ },
+ "r7": {
+  "case": "167",
+  "gene": "SETD5",
+  "findings": [
+   "Increased nuchal translucency"
+  ],
+  "rank_2020": 16.0,
+  "rank_2026": 714.5,
+  "terms": [
+   {
+    "query": "HP:0010880",
+    "query_name": "Increased nuchal translucency",
+    "best_2020": "HP:0010880",
+    "best_name_2020": "Increased nuchal translucency",
+    "ic_2020": 4.97,
+    "genes_with_query_2020": 31,
+    "best_2026": "HP:0025668",
+    "best_name_2026": "Abnormal neck morphology",
+    "ic_2026": 2.02,
+    "genes_with_query_2026": 66
+   }
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "x1": {
+  "fetuses": 47,
+  "median_all": 81.5,
+  "median_structural": 98.5,
+  "top10_all": 8,
+  "top10_structural": 3,
+  "worse_with_prenatal": 20,
+  "better_with_prenatal": 25,
+  "wilcoxon_p": 0.07360013095012786,
+  "mcnemar": {
+   "gained": 5,
+   "lost": 0,
+   "p": 0.0625
+  }
+ },
+ "x2": {
+  "case_findings": 513,
+  "findings_new_after_2020": 3,
+  "new_terms": [
+   "HP:0034391",
+   "HP:0034672",
+   "HP:4000139"
+  ],
+  "prenatal_terms": 266,
+  "other_terms": 18912,
+  "prenatal_terms_with_no_gene": 142,
+  "other_terms_with_no_gene": 7204,
+  "median_genes_closed_prenatal": 0.0,
+  "median_genes_closed_other": 1.0,
+  "mean_genes_direct_prenatal": 7.18,
+  "mean_genes_direct_other": 13.62
+ },
+ "x3": {
+  "fetuses": 131,
+  "genes": 37,
+  "median_before": 59.0,
+  "median_after": 46.5,
+  "top10_before": 26,
+  "top10_after": 35,
+  "wilcoxon_p": 5.554043141119863e-06,
+  "mcnemar": {
+   "gained": 9,
+   "lost": 0,
+   "p": 0.00390625
+  }
+ },
+ "x4": {
+  "max": {
+   "top10_2020": 6.6,
+   "top10_2026": 6.1,
+   "median_2020": 132.0,
+   "median_2026": 133.5,
+   "mcnemar": {
+    "gained": 2,
+    "lost": 3,
+    "p": 1.0
+   }
+  }
+ }
+}

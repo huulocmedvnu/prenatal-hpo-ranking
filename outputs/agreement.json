@@ -1,0 +1,44 @@
+{
+ "aogs2026": {
+  "fetuses_first": 36,
+  "fetuses_second": 36,
+  "fetuses_both": 36,
+  "gene_identical": 36,
+  "term_mentions": 144,
+  "terms_identical": 136,
+  "terms_related": 4,
+  "terms_unmatched": 4,
+  "pct_terms_identical": 94.4,
+  "pct_terms_identical_or_related": 97.2
+ },
+ "graham2026": {
+  "fetuses_first": 39,
+  "fetuses_second": 39,
+  "fetuses_both": 39,
+  "gene_identical": 38,
+  "term_mentions": 258,
+  "terms_identical": 258,
+  "terms_related": 0,
+  "terms_unmatched": 0,
+  "pct_terms_identical": 100.0,
+  "pct_terms_identical_or_related": 100.0
+ },
+ "smogavec2022": {
+  "fetuses_first": 31,
+  "fetuses_second": 31,
+  "fetuses_both": 31,
+  "gene_identical": 31,
+  "term_mentions": 183,
+  "terms_identical": 168,
+  "terms_related": 12,
+  "terms_unmatched": 3,
+  "pct_terms_identical": 91.8,
+  "pct_terms_identical_or_related": 98.4
+ },
+ "fu2022_labels": {
+  "labels": 23,
+  "identical": 19,
+  "related": 1,
+  "unmatched": 3
+ }
+}

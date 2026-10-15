@@ -1,0 +1,346 @@
+{
+ "p1": {
+  "fu2022": {
+   "fetuses": 229,
+   "2020": {
+    "top1": [
+     2,
+     0.9
+    ],
+    "top5": [
+     19,
+     8.3
+    ],
+    "top10": [
+     30,
+     13.1
+    ],
+    "top20": [
+     37,
+     16.2
+    ],
+    "top50": [
+     75,
+     32.8
+    ],
+    "median": 90.0,
+    "q1": 34.0,
+    "q3": 286.0
+   },
+   "2026": {
+    "top1": [
+     1,
+     0.4
+    ],
+    "top5": [
+     20,
+     8.7
+    ],
+    "top10": [
+     33,
+     14.4
+    ],
+    "top20": [
+     42,
+     18.3
+    ],
+    "top50": [
+     72,
+     31.4
+    ],
+    "median": 91.5,
+    "q1": 38.5,
+    "q3": 296.5
+   }
+  },
+  "further": {
+   "fetuses": 106,
+   "2020": {
+    "top1": [
+     1,
+     0.9
+    ],
+    "top5": [
+     6,
+     5.7
+    ],
+    "top10": [
+     8,
+     7.5
+    ],
+    "top20": [
+     12,
+     11.3
+    ],
+    "top50": [
+     26,
+     24.5
+    ],
+    "median": 170.0,
+    "q1": 53.0,
+    "q3": 628.5
+   },
+   "2026": {
+    "top1": [
+     0,
+     0.0
+    ],
+    "top5": [
+     6,
+     5.7
+    ],
+    "top10": [
+     10,
+     9.4
+    ],
+    "top20": [
+     11,
+     10.4
+    ],
+    "top50": [
+     26,
+     24.5
+    ],
+    "median": 150.0,
+    "q1": 52.625,
+    "q3": 588.0
+   }
+  }
+ },
+ "p2": {
+  "terms": 266,
+  "no_gene": 142,
+  "new": 136,
+  "new_no_gene": 88,
+  "fetal_anomaly_terms": 128,
+  "fetal_anomaly_no_gene": 68,
+  "by_sub_branch": {
+   "Abnormal delivery": {
+    "terms": 20,
+    "no_gene": 11,
+    "new": 2
+   },
+   "Abnormal embryonic development": {
+    "terms": 7,
+    "no_gene": 0,
+    "new": 6
+   },
+   "Abnormalities of placenta or umbilical cord": {
+    "terms": 68,
+    "no_gene": 41,
+    "new": 19
+   },
+   "Abnormality of the amniotic fluid": {
+    "terms": 10,
+    "no_gene": 2,
+    "new": 4
+   },
+   "Delayed passage of meconium": {
+    "terms": 1,
+    "no_gene": 0,
+    "new": 1
+   },
+   "Fetal anomaly": {
+    "terms": 128,
+    "no_gene": 68,
+    "new": 93
+   },
+   "Low APGAR score": {
+    "terms": 25,
+    "no_gene": 18,
+    "new": 8
+   },
+   "Postterm pregnancy": {
+    "terms": 1,
+    "no_gene": 0,
+    "new": 0
+   },
+   "Premature birth": {
+    "terms": 6,
+    "no_gene": 2,
+    "new": 3
+   }
+  },
+  "by_fetal_sub_branch": {
+   "Abnormal fetal cardiovascular morphology": {
+    "terms": 10,
+    "no_gene": 4
+   },
+   "Abnormal fetal cardiovascular physiology": {
+    "terms": 9,
+    "no_gene": 5
+   },
+   "Abnormal fetal central nervous system morphology": {
+    "terms": 13,
+    "no_gene": 9
+   },
+   "Abnormal fetal gastrointestinal system morphology": {
+    "terms": 14,
+    "no_gene": 10
+   },
+   "Abnormal fetal genitourinary system morphology": {
+    "terms": 4,
+    "no_gene": 2
+   },
+   "Abnormal fetal pulmonary morphology": {
+    "terms": 11,
+    "no_gene": 5
+   },
+   "Abnormal fetal skeletal morphology": {
+    "terms": 15,
+    "no_gene": 10
+   },
+   "Abnormal fetal skin morphology": {
+    "terms": 5,
+    "no_gene": 0
+   },
+   "Abnormal umbilical blood flow measurement": {
+    "terms": 6,
+    "no_gene": 3
+   },
+   "Fetal anemia": {
+    "terms": 1,
+    "no_gene": 1
+   },
+   "Fetal distress": {
+    "terms": 1,
+    "no_gene": 0
+   },
+   "Fetal head anomaly": {
+    "terms": 13,
+    "no_gene": 13
+   },
+   "Fetal neck anomaly": {
+    "terms": 6,
+    "no_gene": 2
+   },
+   "Fetal ultrasound soft marker": {
+    "terms": 14,
+    "no_gene": 3
+   },
+   "Fixed fetal extremities": {
+    "terms": 1,
+    "no_gene": 1
+   },
+   "Hydrops fetalis": {
+    "terms": 2,
+    "no_gene": 0
+   },
+   "Increased fetal lens echogenicity": {
+    "terms": 1,
+    "no_gene": 1
+   },
+   "Intrauterine fetal demise of one twin after midgestation": {
+    "terms": 1,
+    "no_gene": 1
+   },
+   "Prenatal movement abnormality": {
+    "terms": 4,
+    "no_gene": 0
+   },
+   "Twin-to-twin transfusion": {
+    "terms": 1,
+    "no_gene": 1
+   }
+  },
+  "examples_genes": {
+   "Microcephaly": 1445,
+   "Decreased fetal head circumference": 0,
+   "Decreased biparietal diameter": 0,
+   "Abnormality of ductus venosus blood flow": 0,
+   "Fixed fetal head flexion": 0
+  }
+ },
+ "p3": [
+  {
+   "gene": "HNF1B",
+   "case": "86",
+   "before": 79.0,
+   "after": 3.0,
+   "findings": [
+    "Hyperechogenic kidneys",
+    "Multicystic kidney dysplasia"
+   ],
+   "other_fetuses": 3
+  },
+  {
+   "gene": "HNF1B",
+   "case": "94",
+   "before": 154.0,
+   "after": 10.0,
+   "findings": [
+    "Hyperechogenic kidneys",
+    "Renal cysts"
+   ],
+   "other_fetuses": 3
+  },
+  {
+   "gene": "COL1A1",
+   "case": "123",
+   "before": 58.5,
+   "after": 5.0,
+   "findings": [
+    "Short femur",
+    "femur bowing"
+   ],
+   "other_fetuses": 11
+  },
+  {
+   "gene": "COL1A1",
+   "case": "144",
+   "before": 58.5,
+   "after": 5.0,
+   "findings": [
+    "Femoral bowing",
+    "Short femur"
+   ],
+   "other_fetuses": 11
+  },
+  {
+   "gene": "PKD1",
+   "case": "98",
+   "before": 52.5,
+   "after": 4.5,
+   "findings": [
+    "Enlarged kidney",
+    "Hyperechogenic kidneys"
+   ],
+   "other_fetuses": 1
+  }
+ ],
+ "p4": {
+  "pairs": 389,
+  "genes": 140,
+  "pairs_two_or_more": 19,
+  "genes_absent_from_hpo": 4
+ },
+ "p5": {
+  "aogs2026": {
+   "findings": 73,
+   "findings_new": 1,
+   "fetuses_new": 1
+  },
+  "fu2022": {
+   "findings": 513,
+   "findings_new": 3,
+   "fetuses_new": 2
+  },
+  "graham2026": {
+   "findings": 129,
+   "findings_new": 15,
+   "fetuses_new": 12
+  },
+  "smogavec2022": {
+   "findings": 93,
+   "findings_new": 1,
+   "fetuses_new": 1
+  },
+  "further_fullterms_top10": [
+   10,
+   9.4,
+   5.2,
+   16.5
+  ],
+  "further_fullterms_median": 140.0
+ }
+}

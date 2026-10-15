@@ -1,0 +1,129 @@
+{
+ "check_max_abs_diff": 0.0,
+ "r1": {
+  "fetuses": 49,
+  "findings_recoded": 55,
+  "top10_before": 8,
+  "top10_after": 4,
+  "mcnemar": {
+   "gained": 0,
+   "lost": 4,
+   "p": 0.125
+  },
+  "median_before": 64.0,
+  "median_after": 87.0,
+  "worse": 27,
+  "better": 18,
+  "wilcoxon_p": 0.3016346147847301
+ },
+ "r2": {
+  "symmetric": {
+   "top10_2020": 37,
+   "top10_2026": 37,
+   "median_2020": 88.0,
+   "median_2026": 79.0,
+   "mcnemar": {
+    "gained": 7,
+    "lost": 7,
+    "p": 1.0
+   }
+  },
+  "lin": {
+   "top10_2020": 29,
+   "top10_2026": 34,
+   "median_2020": 91.0,
+   "median_2026": 81.0,
+   "mcnemar": {
+    "gained": 7,
+    "lost": 2,
+    "p": 0.1796875
+   }
+  }
+ },
+ "r3": {
+  "fu2022": {
+   "fetuses": 229,
+   "genes_2020": 4479,
+   "genes_2026": 5269,
+   "top10_2020": 31,
+   "top10_2026": 28,
+   "mcnemar": {
+    "gained": 4,
+    "lost": 7,
+    "p": 0.548828125
+   },
+   "median_pct_2020": 2.01,
+   "median_pct_2026": 2.02,
+   "only_2026": 1,
+   "only_2020": 1,
+   "neither": 2
+  },
+  "further": {
+   "fetuses": 106,
+   "genes_2020": 4479,
+   "genes_2026": 5269,
+   "top10_2020": 8,
+   "top10_2026": 10,
+   "mcnemar": {
+    "gained": 2,
+    "lost": 0,
+    "p": 0.5
+   },
+   "median_pct_2020": 3.85,
+   "median_pct_2026": 2.99,
+   "only_2026": 1,
+   "only_2020": 1,
+   "neither": 0
+  }
+ },
+ "r4": {
+  "fetuses": 225,
+  "worse": 165,
+  "score_lower_2026": 159,
+  "score_higher_2026": 66,
+  "median_score_2020": 2.618,
+  "median_score_2026": 2.59,
+  "median_above_2020": 19.0,
+  "median_above_2026": 20.0,
+  "median_query_ic_2020": 3.685,
+  "median_query_ic_2026": 3.474,
+  "worse_score_lower": 152,
+  "worse_more_above": 89,
+  "wilcoxon_score_p": 0.0005776522765066662
+ },
+ "r5a": {
+  "fetuses": 51,
+  "top10_before": 7,
+  "top10_after": 12,
+  "mcnemar": {
+   "gained": 5,
+   "lost": 0,
+   "p": 0.0625
+  },
+  "median_before": 118.0,
+  "median_after": 87.5,
+  "better": 14,
+  "worse": 0
+ },
+ "r5b": {
+  "fetuses": 131,
+  "top10_before": 26,
+  "top10_observed": 35,
+  "perm_mean": 28.6,
+  "perm_q95": 31.0,
+  "perm_p": 0.000999000999000999,
+  "n_perm": 1000
+ },
+ "r5c": {
+  "fetuses": 131,
+  "top10_before": 26,
+  "top10_after": 31,
+  "mcnemar": {
+   "gained": 8,
+   "lost": 3,
+   "p": 0.2265625
+  },
+  "median_before": 59.0,
+  "median_after": 48.0
+ }
+}

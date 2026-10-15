@@ -1,0 +1,24 @@
+finding,hpo_id,hpo_name,rule,notes
+Long bone bowing,HP:0006487,Bowing of the long bones,synonym wording,synonym 'Bowing of long bones'
+Right renal agenesis,HP:0000122,Unilateral renal agenesis,more general (side dropped),right side folded into unilateral term
+Cerebral dysplasia,HP:0002060,Abnormal cerebral morphology,more general,no cerebral dysplasia term; Cortical dysplasia is narrower (cortex only)
+Left renal duplication,HP:0000075,Renal duplication,more general (side dropped),no unilateral renal duplication term
+Oligohydramnion,HP:0001562,Oligohydramnios,spelling,
+Abdominal cystic mass,HP:4000139,Fetal abdominal cyst,synonym wording,synonym 'Fetal cystic abdominal mass'; alternative HP:0031500 Abdominal mass
+Aplasia of the cerebellar vermis,HP:0002335,Agenesis of cerebellar vermis,synonym wording,synonym 'Cerebellar vermis aplasia'
+Abnormal posturing of hand,HP:0002533,Abnormal posturing,more general,hand dropped; alternative HP:0005922 Abnormal hand morphology
+Bilateral choroid plexus cysts,HP:0002190,Choroid plexus cyst,more general (side dropped),no bilateral term; alternative HP:0011426 Fetal choroid plexus cysts
+Bilateral choroid plexus cyst,HP:0002190,Choroid plexus cyst,more general (side dropped),no bilateral term; alternative HP:0011426 Fetal choroid plexus cysts
+Extension contractures of knees,HP:0034672,Knee extension contracture,synonym wording,plural and word order
+Contractures of elbows,HP:0034391,Elbow contracture,synonym wording,plural and word order
+femur bowing,HP:0002980,Femoral bowing,synonym wording,synonym 'Bowed femur'
+Aplasia of the corpus callosum,HP:0001274,Agenesis of corpus callosum,synonym wording,synonym 'Agenesis of the corpus callosum'
+Abnormality of the index finger,HP:0004100,Abnormal 2nd finger morphology,synonym wording,synonym 'Abnormality of index finger'
+Abnormality of the middle and the distal phalanx of the 3rd finger,HP:0009316,Abnormal 3rd finger phalanx morphology,more general,common parent of HP:0004172 (middle) and HP:0009357 (distal)
+Gastrectasia,HP:0002577,Abnormal stomach morphology,more general,"no stomach dilatation term; Gastric hypertrophy is wall hypertrophy, not dilatation"
+Hypoplastic left heart,HP:0004383,Hypoplastic left ventricle,synonym wording,synonym 'Underdeveloped left heart'; no HLHS term; alternative HP:0045017 Congenital malformation of the left heart
+Cardiac enlargement,HP:0001640,Cardiomegaly,synonym wording,synonym 'Enlarged heart'
+Ventriclular septal defect,HP:0001629,Ventricular septal defect,spelling,
+Left ventricular pseudoaneurysm,HP:0001711,Abnormal left ventricle morphology,more general,pseudoaneurysm is not a true aneurysm; alternative HP:6000144 Left ventricular aneurysm
+Agenesis of nasal bones,HP:0010941,Aplasia of the nasal bone,synonym wording,synonym 'Agenesis of the nasal bone' (NARROW); alternative HP:0025706 Absent fetal nasal bone
+Left renal dysplasia,HP:0008718,Unilateral renal dysplasia,more general (side dropped),left side folded into unilateral term

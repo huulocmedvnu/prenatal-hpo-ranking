@@ -1,0 +1,29 @@
+level	cohort	case	only_in	finding	hpo_id	hpo_name	other_terms	first	second
+term (related)	aogs2026	14	first	thick blood vessels	HP:0002597	Abnormality of the vasculature	HP:0001273 Abnormal corpus callosum morphology; HP:0002119 Ventriculomegaly; HP:0012443 Abnormal brain morphology; HP:0025015 Abnormal vascular morphology		
+term (related)	aogs2026	14	second	thick blood vessels	HP:0025015	Abnormal vascular morphology	HP:0001273 Abnormal corpus callosum morphology; HP:0002119 Ventriculomegaly; HP:0002597 Abnormality of the vasculature; HP:0012443 Abnormal brain morphology		
+term (unmatched)	aogs2026	16	first	Agenesis of cavum septum pellucidum	HP:0001331	Absent septum pellucidum	HP:0001274 Agenesis of corpus callosum; HP:0001561 Polyhydramnios; HP:0002539 Cortical dysplasia; HP:0008221 Adrenal hyperplasia; HP:0012718 Abnormal gastrointestinal tract morphology; HP:4000138 Absent cavum septum pellucidum		
+term (related)	aogs2026	16	first	enlarged of the left adrenal gland	HP:0011732	Abnormal adrenal morphology	HP:0001274 Agenesis of corpus callosum; HP:0001561 Polyhydramnios; HP:0002539 Cortical dysplasia; HP:0008221 Adrenal hyperplasia; HP:0012718 Abnormal gastrointestinal tract morphology; HP:4000138 Absent cavum septum pellucidum		
+term (related)	aogs2026	16	second	enlarged of the left adrenal gland	HP:0008221	Adrenal hyperplasia	HP:0001274 Agenesis of corpus callosum; HP:0001331 Absent septum pellucidum; HP:0001561 Polyhydramnios; HP:0002539 Cortical dysplasia; HP:0011732 Abnormal adrenal morphology; HP:0012718 Abnormal gastrointestinal tract morphology		
+term (unmatched)	aogs2026	16	second	Agenesis of cavum septum pellucidum	HP:4000138	Absent cavum septum pellucidum	HP:0001274 Agenesis of corpus callosum; HP:0001331 Absent septum pellucidum; HP:0001561 Polyhydramnios; HP:0002539 Cortical dysplasia; HP:0011732 Abnormal adrenal morphology; HP:0012718 Abnormal gastrointestinal tract morphology		
+term (unmatched)	aogs2026	17	first	Spina bifida meningocele	HP:0002414	Spina bifida	HP:0002435 Meningocele; HP:0010866 Abdominal wall defect; HP:0010880 Increased nuchal translucency; HP:0100645 Cystocele		
+term (unmatched)	aogs2026	17	second	Spina bifida meningocele	HP:0002435	Meningocele	HP:0002414 Spina bifida; HP:0010866 Abdominal wall defect; HP:0010880 Increased nuchal translucency; HP:0100645 Cystocele		
+gene	graham2026	18						GLI2;PIEZO1	PIEZO1
+term (related)	smogavec2022	13	first	abnormal hand position	HP:0001155	Abnormality of the hand	HP:0000126 Hydronephrosis; HP:0001274 Agenesis of corpus callosum; HP:0001776 Bilateral talipes equinovarus; HP:0005922 Abnormal hand morphology		
+term (related)	smogavec2022	13	second	abnormal hand position	HP:0005922	Abnormal hand morphology	HP:0000126 Hydronephrosis; HP:0001155 Abnormality of the hand; HP:0001274 Agenesis of corpus callosum; HP:0001776 Bilateral talipes equinovarus		
+term (unmatched)	smogavec2022	14	first	enlarged kidneys	HP:0000105	Enlarged kidney	HP:0000003 Multicystic kidney dysplasia; HP:0001562 Oligohydramnios		
+term (related)	smogavec2022	16	first	Thanatophoric dysplasia	HP:0002652	Skeletal dysplasia	HP:0005716 Lethal skeletal dysplasia		
+term (related)	smogavec2022	16	second	Thanatophoric dysplasia	HP:0005716	Lethal skeletal dysplasia	HP:0002652 Skeletal dysplasia		
+term (related)	smogavec2022	25	first	Suspected brain vessel malformations	HP:0100659	Abnormal cerebral vascular morphology	HP:0012443 Abnormal brain morphology		
+term (related)	smogavec2022	28	first	bowed rips	HP:0000772	Abnormal rib morphology	HP:0000765 Abnormal thorax morphology; HP:0002652 Skeletal dysplasia; HP:0002980 Femoral bowing; HP:0003026 Short long bone		
+term (related)	smogavec2022	31	first	contraction of distal muscles of the hands	HP:0001155	Abnormality of the hand	HP:0001776 Bilateral talipes equinovarus; HP:0009473 Joint contracture of the hand; HP:0025672 Fetal skin edema		
+term (related)	smogavec2022	31	second	contraction of distal muscles of the hands	HP:0009473	Joint contracture of the hand	HP:0001155 Abnormality of the hand; HP:0001776 Bilateral talipes equinovarus; HP:0025672 Fetal skin edema		
+term (related)	smogavec2022	4	first	Left-sided diaphragmatic hernia	HP:0000776	Congenital diaphragmatic hernia	HP:0000075 Renal duplication; HP:0001541 Ascites; HP:0002202 Pleural effusion; HP:0009112 Aplasia of the left hemidiaphragm		
+term (related)	smogavec2022	4	second	Left-sided diaphragmatic hernia	HP:0009112	Aplasia of the left hemidiaphragm	HP:0000075 Renal duplication; HP:0000776 Congenital diaphragmatic hernia; HP:0001541 Ascites; HP:0002202 Pleural effusion		
+term (unmatched)	smogavec2022	5	first	multiple fractures	HP:0002757	Recurrent fractures	HP:0005855 Multiple prenatal fractures; HP:0009826 Limb undergrowth		
+term (related)	smogavec2022	5	first	Shortened limbs	HP:0009815	Aplasia/hypoplasia of the extremities	HP:0005855 Multiple prenatal fractures; HP:0009826 Limb undergrowth		
+term (unmatched)	smogavec2022	5	second	multiple fractures	HP:0005855	Multiple prenatal fractures	HP:0002757 Recurrent fractures; HP:0009815 Aplasia/hypoplasia of the extremities		
+term (related)	smogavec2022	5	second	Shortened limbs	HP:0009826	Limb undergrowth	HP:0002757 Recurrent fractures; HP:0009815 Aplasia/hypoplasia of the extremities		
+fu label (unmatched)	fu2022			Abnormal posturing of hand				HP:0005922 Abnormal hand morphology	HP:0002533 Abnormal posturing
+fu label (unmatched)	fu2022			Bilateral choroid plexus cyst				HP:0011426 Fetal choroid plexus cysts	HP:0002190 Choroid plexus cyst
+fu label (unmatched)	fu2022			Bilateral choroid plexus cysts				HP:0011426 Fetal choroid plexus cysts	HP:0002190 Choroid plexus cyst
+fu label (related)	fu2022			Left ventricular pseudoaneurysm				HP:6000144 Left ventricular aneurysm	HP:0001711 Abnormal left ventricle morphology

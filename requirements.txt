@@ -1,0 +1,11 @@
+# Python 3.12
+numpy
+pandas
+scipy
+statsmodels
+plotly
+kaleido
+openpyxl
+pypdf
+jupyterlab
+nbformat

@@ -1,0 +1,514 @@
+cohort	case	term	branch	exact_2020	system_2020	exact_2026	system_2026
+fu2022	1	HP:0001274	Abnormality of the nervous system	True	True	True	True
+fu2022	1	HP:0002416	Abnormality of the nervous system	False	True	False	True
+fu2022	2	HP:0001305	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	3	HP:0000238	Abnormality of the nervous system	False	True	False	True
+fu2022	4	HP:0001274	Abnormality of the nervous system	True	True	True	True
+fu2022	4	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	5	HP:0001274	Abnormality of the nervous system	True	True	True	True
+fu2022	5	HP:0002416	Abnormality of the nervous system	False	True	False	True
+fu2022	5	HP:0002060	Abnormality of the nervous system	True	True	True	True
+fu2022	6	HP:0000252	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	7	HP:0005445	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	8 #	HP:0002416	Abnormality of the nervous system	False	True	False	True
+fu2022	8 #	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	9	HP:0001305	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	10	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	11	HP:0000238	Abnormality of the nervous system	False	True	False	True
+fu2022	12	HP:0002079	Abnormality of the nervous system	True	True	True	True
+fu2022	12	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	13	HP:0002079	Abnormality of the nervous system	True	True	True	True
+fu2022	14	HP:0001302	Abnormality of the nervous system	True	True	True	True
+fu2022	14	HP:0001339	Abnormality of the nervous system	True	True	True	True
+fu2022	15	HP:0002079	Abnormality of the nervous system	True	True	True	True
+fu2022	16	HP:0002132	Abnormality of the nervous system	True	True	True	True
+fu2022	16	HP:0007291	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	False	True	False	True
+fu2022	17	HP:0001302	Abnormality of the nervous system	True	True	True	True
+fu2022	18	HP:0006956	Abnormality of the nervous system	False	True	False	True
+fu2022	18	HP:0001561	Abnormality of prenatal development or birth	False	True	False	False
+fu2022	19	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	19	HP:0001274	Abnormality of the nervous system	True	True	True	True
+fu2022	19	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	20	HP:0002079	Abnormality of the nervous system	True	True	True	True
+fu2022	21	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	21	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	22	HP:0001274	Abnormality of the nervous system	True	True	True	True
+fu2022	23	HP:0002282	Abnormality of the nervous system	False	True	False	True
+fu2022	23	HP:0002132	Abnormality of the nervous system	True	True	True	True
+fu2022	24	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	24	HP:0000316	Abnormality of the eye	True	True	True	True
+fu2022	24	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	25	HP:0001320	Abnormality of the nervous system	True	True	True	True
+fu2022	25	HP:0002198	Abnormality of the nervous system	True	True	True	True
+fu2022	25	HP:0002700	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	26	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	27	HP:0000252	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	28	HP:0001274	Abnormality of the nervous system	True	True	True	True
+fu2022	29	HP:0005445	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	29	HP:0100702	Abnormality of the nervous system	False	True	False	True
+fu2022	30	HP:0000238	Abnormality of the nervous system	True	True	True	True
+fu2022	30	HP:0002079	Abnormality of the nervous system	True	True	True	True
+fu2022	31	HP:0011426	Abnormality of prenatal development or birth	False	False	False	False
+fu2022	31	HP:0001195	Abnormality of prenatal development or birth;Abnormality of the cardiovascular system	False	False	False	True
+fu2022	32	HP:0000252	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	32	HP:0001511	Growth abnormality	False	True	False	True
+fu2022	33	HP:0001520	Growth abnormality	True	True	True	True
+fu2022	33	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	34	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	34	HP:0001561	Abnormality of prenatal development or birth	False	True	False	True
+fu2022	34	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	35	HP:0410030	Abnormality of head or neck	False	True	False	True
+fu2022	35	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	36	HP:0410030	Abnormality of head or neck	True	True	True	True
+fu2022	36	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	37	HP:0410030	Abnormality of head or neck	True	True	True	True
+fu2022	37	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	38	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	38	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	39	HP:0000316	Abnormality of the eye	False	True	False	True
+fu2022	39	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	40	HP:0000519	Abnormality of the eye	True	True	True	True
+fu2022	41	HP:0010941	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	41	HP:0001561	Abnormality of prenatal development or birth	False	False	False	False
+fu2022	42	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	42	HP:0410030	Abnormality of head or neck	False	True	True	True
+fu2022	43	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	43	HP:0008551	Abnormality of the ear	True	True	True	True
+fu2022	43	HP:0000316	Abnormality of the eye	True	True	True	True
+fu2022	43	HP:0004646	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	43	HP:0001561	Abnormality of prenatal development or birth	False	False	False	False
+fu2022	44	HP:0100333	Abnormality of head or neck	False	True	False	True
+fu2022	44	HP:0100334	Abnormality of head or neck	False	True	False	True
+fu2022	45	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	46	HP:0001636	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	47	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	48	HP:0001636	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	48	HP:0001653	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	48	HP:0005180	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	49	HP:0011560	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	49	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	50	HP:0006698	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	50	HP:0001711	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	51	HP:0001650	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	52	HP:0005301	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	52	HP:0001629	Abnormality of the cardiovascular system	False	True	True	True
+fu2022	53	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	53	HP:0004415	Abnormality of the cardiovascular system;Abnormality of the respiratory system	True	True	True	True
+fu2022	54	HP:0001629	Abnormality of the cardiovascular system	False	True	True	True
+fu2022	54	HP:0001640	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	55	HP:0001642	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	56	HP:0001636	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	57	HP:0001642	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	57	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	58	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	59	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	59	HP:0001719	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	60	HP:0001644	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	60	HP:0001629	Abnormality of the cardiovascular system	False	True	True	True
+fu2022	61	HP:0012817	Abnormality of the cardiovascular system	False	True	True	True
+fu2022	62	HP:0011565	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	62	HP:0001674	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	62	HP:0001680	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	63	HP:0009729	Abnormality of the cardiovascular system;Abnormality of the musculoskeletal system;Neoplasm	True	True	True	True
+fu2022	64	HP:0009729	Abnormality of the cardiovascular system;Abnormality of the musculoskeletal system;Neoplasm	True	True	True	True
+fu2022	65 #	HP:0001669	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	66	HP:0009729	Abnormality of the cardiovascular system;Abnormality of the musculoskeletal system;Neoplasm	True	True	True	True
+fu2022	67	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	67	HP:0004415	Abnormality of the cardiovascular system;Abnormality of the respiratory system	False	True	False	True
+fu2022	68	HP:0009729	Abnormality of the cardiovascular system;Abnormality of the musculoskeletal system;Neoplasm	True	True	True	True
+fu2022	69	HP:0100544	Abnormality of the cardiovascular system;Neoplasm	True	True	True	True
+fu2022	70	HP:0001653	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	70	HP:0005180	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	70	HP:0011573	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	70	HP:0001640	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	71	HP:0001640	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	71	HP:0001638	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	71	HP:0012816	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	71	HP:0001789	Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	72	HP:0009729	Abnormality of the cardiovascular system;Abnormality of the musculoskeletal system;Neoplasm	True	True	True	True
+fu2022	73	HP:0001640	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	74	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	74	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	75	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	75	HP:0004415	Abnormality of the cardiovascular system;Abnormality of the respiratory system	False	True	False	True
+fu2022	76	HP:0001642	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	76	HP:0005301	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	77	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	78	HP:0009729	Abnormality of the cardiovascular system;Abnormality of the musculoskeletal system;Neoplasm	True	True	True	True
+fu2022	79	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	79	HP:0031253	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	80	HP:0004762	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	81	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	True	True
+fu2022	81	HP:0000476	Abnormality of head or neck	True	True	True	True
+fu2022	81	HP:0004383	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	82	HP:0001674	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	82	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	82	HP:0010943	Abnormality of prenatal development or birth	False	False	False	False
+fu2022	83 #	HP:0002021	Abnormality of the digestive system	False	True	False	True
+fu2022	83 #	HP:0002577	Abnormality of the digestive system	False	True	False	True
+fu2022	84	HP:0001539	Abnormality of the digestive system;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	85	HP:0000003	Abnormality of the genitourinary system	False	True	False	True
+fu2022	86	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	86	HP:0000003	Abnormality of the genitourinary system	True	True	True	True
+fu2022	87	HP:0000105	Abnormality of the genitourinary system	True	True	True	True
+fu2022	87	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	87	HP:0002190	Abnormality of the nervous system	False	True	False	True
+fu2022	88	HP:0000003	Abnormality of the genitourinary system	False	True	False	True
+fu2022	89	HP:0000105	Abnormality of the genitourinary system	False	True	False	True
+fu2022	89	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	89	HP:0001562	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	90	HP:0000054	Abnormality of the genitourinary system	True	True	True	True
+fu2022	90	HP:0000047	Abnormality of the genitourinary system	True	True	True	True
+fu2022	91	HP:0000105	Abnormality of the genitourinary system	True	True	True	True
+fu2022	91	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	92	HP:0000126	Abnormality of the genitourinary system	False	True	False	True
+fu2022	93	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	93	HP:0000105	Abnormality of the genitourinary system	True	True	True	True
+fu2022	94	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	94	HP:0000107	Abnormality of the genitourinary system	True	True	True	True
+fu2022	95	HP:0000003	Abnormality of the genitourinary system	True	True	True	True
+fu2022	96	HP:0000105	Abnormality of the genitourinary system	True	True	True	True
+fu2022	96	HP:0004719	Abnormality of the genitourinary system	False	True	True	True
+fu2022	97	HP:0000105	Abnormality of the genitourinary system	True	True	True	True
+fu2022	97	HP:0004719	Abnormality of the genitourinary system	False	True	True	True
+fu2022	97	HP:0001562	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	98	HP:0000105	Abnormality of the genitourinary system	True	True	True	True
+fu2022	98	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	99	HP:0000021	Abnormality of the genitourinary system	True	True	True	True
+fu2022	100	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	True	True	True	True
+fu2022	100	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	100	HP:0006487	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	100	HP:0000774	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	100	HP:0000929	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	101	HP:0000929	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	101	HP:0002983	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	102	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	102	HP:0100531	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	103	HP:0005474	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	103	HP:0005855	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	104	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	105	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	106	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	107	HP:0005989	Abnormality of head or neck;Abnormality of the integument	False	True	False	True
+fu2022	107	HP:0002533	Abnormality of the nervous system	False	True	False	True
+fu2022	107	HP:0001371	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	108	HP:0003022	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	108	HP:0006433	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	108	HP:0011297	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	109	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	110	HP:0009316	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	110	HP:0004100	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	110	HP:0001839	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	111	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	112	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	113	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	114	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	114	HP:0001155	Abnormality of limbs	True	True	True	True
+fu2022	115	HP:0001188	Abnormality of limbs	False	True	False	True
+fu2022	115	HP:0040018	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	115	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	116	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	117	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	118	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	118	HP:0001188	Abnormality of limbs	True	True	True	True
+fu2022	119	HP:0012385	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	119	HP:0001511	Growth abnormality	False	True	True	True
+fu2022	120	HP:0002804	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	121	HP:0003097	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	122	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	123	HP:0003097	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	123	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	124	HP:0000256	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	124	HP:0002983	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	125	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	125	HP:0003865	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	125	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	126	HP:0001161	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	126	HP:0001558	Abnormality of prenatal development or birth	False	True	False	False
+fu2022	126	HP:0001511	Growth abnormality	False	True	False	True
+fu2022	127	HP:0002983	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	127	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	True	True	True	True
+fu2022	128	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	129	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	130	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	130	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	131	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	131	HP:0040194	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	131	HP:0001561	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	132	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	132	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	132	HP:0003865	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	133	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	133	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	133	HP:0010943	Abnormality of prenatal development or birth	False	True	False	True
+fu2022	134	HP:0031846	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	135	HP:0005855	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	136	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	137	HP:0003097	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	137	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	138	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	138	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	139	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	139	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	140	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	140	HP:0006487	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	141	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	141	HP:0002650	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	142	HP:0001561	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	142	HP:0000925	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	142	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	142	HP:0003865	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	143	HP:0009380	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	True	True
+fu2022	143	HP:0001770	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	144	HP:0002980	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	144	HP:0003097	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	145	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	145	HP:0006487	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	146	HP:0001561	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	146	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	146	HP:0000256	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	147	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	147	HP:0003022	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	147	HP:0003038	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	147	HP:0005257	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	148	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	True	True	True	True
+fu2022	148	HP:0000256	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	148	HP:0000774	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	149	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	149	HP:0002983	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	150	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	150	HP:0006487	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	151	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	152	HP:0034391	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	152	HP:0034672	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	True	True
+fu2022	153	HP:0005280	Abnormality of head or neck	False	False	False	False
+fu2022	153	HP:0010655	Abnormality of the musculoskeletal system	False	False	False	False
+fu2022	154	HP:0010557	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	154	HP:0001762	Abnormality of limbs	False	True	True	True
+fu2022	155	HP:0003097	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	155	HP:0040194	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	156	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	156	HP:0000256	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	157	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	158	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	158	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	158	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	158	HP:0003097	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	159	HP:0001762	Abnormality of limbs	True	True	False	True
+fu2022	160	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	160	HP:0006487	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	161	HP:0010442	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	162	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	162	HP:0006487	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	163	HP:0001511	Growth abnormality	True	True	True	True
+fu2022	164	HP:0001511	Growth abnormality	True	True	True	True
+fu2022	165	HP:0002202	Abnormality of metabolism/homeostasis;Abnormality of the respiratory system	False	True	True	True
+fu2022	165	HP:0001541	Abnormality of the digestive system	False	True	False	True
+fu2022	165	HP:0001789	Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	166	HP:0001789	Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	True	True	True	True
+fu2022	167	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	True	True	False	True
+fu2022	168	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	168	HP:0000476	Abnormality of head or neck	True	True	True	True
+fu2022	169	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	170	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	170	HP:0011426	Abnormality of prenatal development or birth	False	False	False	False
+fu2022	171	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	171	HP:0000476	Abnormality of head or neck	False	True	False	True
+fu2022	172	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	172	HP:0000476	Abnormality of head or neck	False	True	False	True
+fu2022	173	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	173	HP:0002119	Abnormality of the nervous system	False	True	False	True
+fu2022	173	HP:0005922	Abnormality of limbs	False	True	True	True
+fu2022	173	HP:0000054	Abnormality of the genitourinary system	False	True	False	True
+fu2022	174	HP:0002414	Abnormality of the nervous system	True	True	True	True
+fu2022	174	HP:0002937	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	175	HP:0001539	Abnormality of the digestive system;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	175	HP:0001760	Abnormality of limbs	True	True	True	True
+fu2022	175	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	175	HP:0000774	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	175	HP:0002990	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	176	HP:0000238	Abnormality of the nervous system	True	True	True	True
+fu2022	176	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	177	HP:0002032	Abnormality of the digestive system	True	True	True	True
+fu2022	177	HP:0012020	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	178	HP:0000104	Abnormality of the genitourinary system	False	True	True	True
+fu2022	178	HP:0002089	Abnormality of the respiratory system	False	True	False	True
+fu2022	178	HP:0011595	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	178	HP:0001698	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	178	HP:0001562	Abnormality of prenatal development or birth	False	False	False	True
+fu2022	179	HP:0000776	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	179	HP:0002335	Abnormality of the nervous system	False	True	False	True
+fu2022	179	HP:0005445	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	180	HP:0000238	Abnormality of the nervous system	False	True	False	True
+fu2022	180	HP:0001629	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	181	HP:0001305	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	False	True	True	True
+fu2022	181	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	181	HP:0410030	Abnormality of head or neck	True	True	True	True
+fu2022	182	HP:0011611	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	182	HP:0002032	Abnormality of the digestive system	True	True	True	True
+fu2022	182	HP:0005301	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	183	HP:0001640	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	183	HP:0004415	Abnormality of the cardiovascular system;Abnormality of the respiratory system	False	True	False	True
+fu2022	183	HP:0001541	Abnormality of the digestive system	False	True	False	False
+fu2022	183	HP:0001698	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	184	HP:0001669	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	184	HP:0002089	Abnormality of the respiratory system	True	True	True	True
+fu2022	184	HP:4000139	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	184	HP:0000105	Abnormality of the genitourinary system	True	True	True	True
+fu2022	184	HP:0001562	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	185	HP:0001274	Abnormality of the nervous system	True	True	True	True
+fu2022	185	HP:0010557	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	185	HP:0001845	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	True	True
+fu2022	185	HP:0001188	Abnormality of limbs	False	True	False	True
+fu2022	186	HP:0000003	Abnormality of the genitourinary system	True	True	False	True
+fu2022	186	HP:0010442	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	187	HP:0000104	Abnormality of the genitourinary system	False	True	False	True
+fu2022	187	HP:0002089	Abnormality of the respiratory system	True	True	True	True
+fu2022	187	HP:0001562	Abnormality of prenatal development or birth	False	False	False	True
+fu2022	187	HP:0001541	Abnormality of the digestive system	False	True	False	True
+fu2022	188	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	188	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	189	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	189	HP:0002804	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	189	HP:0001511	Growth abnormality	False	True	False	False
+fu2022	190	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	190	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	191	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	191	HP:0001680	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	191	HP:0001511	Growth abnormality	True	True	True	True
+fu2022	192	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	192	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	193	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	193	HP:0000047	Abnormality of the genitourinary system	True	True	True	True
+fu2022	193	HP:0000054	Abnormality of the genitourinary system	False	True	False	True
+fu2022	194	HP:0012488	Abnormality of the nervous system	False	True	False	True
+fu2022	194	HP:0001629	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	194	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	194	HP:0001762	Abnormality of limbs	False	True	False	True
+fu2022	195	HP:0001159	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	195	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	195	HP:0000262	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	196	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	196	HP:0001680	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	196	HP:0000086	Abnormality of the genitourinary system	True	True	True	True
+fu2022	197	HP:0005301	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	197	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	197	HP:0001511	Growth abnormality	True	True	True	True
+fu2022	197	HP:0001561	Abnormality of prenatal development or birth	False	True	False	True
+fu2022	198	HP:0001305	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	198	HP:0000238	Abnormality of the nervous system	True	True	True	True
+fu2022	198	HP:0000105	Abnormality of the genitourinary system	False	True	False	True
+fu2022	198	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	199	HP:0001305	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	199	HP:0006956	Abnormality of the nervous system	False	True	False	True
+fu2022	199	HP:0000003	Abnormality of the genitourinary system	True	True	True	True
+fu2022	199	HP:0001562	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	200	HP:0000476	Abnormality of head or neck	False	True	False	True
+fu2022	200	HP:0100702	Abnormality of the nervous system	False	True	False	True
+fu2022	200	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	200	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	200	HP:0001629	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	200	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	201	HP:0003026	Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	201	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	202	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	202	HP:0001629	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	202	HP:0001360	Abnormality of the nervous system	False	True	False	True
+fu2022	202	HP:0000316	Abnormality of the eye	True	True	True	True
+fu2022	203	HP:0001762	Abnormality of limbs	False	True	False	True
+fu2022	203	HP:0001239	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	203	HP:0000811	Abnormality of the genitourinary system	True	True	True	True
+fu2022	203	HP:0100871	Abnormality of limbs	True	True	True	True
+fu2022	204	HP:0001072	Abnormality of the integument	True	True	True	True
+fu2022	204	HP:0002533	Abnormality of the nervous system	False	True	False	True
+fu2022	204	HP:0000194	Abnormality of head or neck	False	True	False	True
+fu2022	205	HP:0001305	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	205	HP:0000943	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	206	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	206	HP:0001155	Abnormality of limbs	True	True	True	True
+fu2022	206	HP:0002170	Abnormality of blood and blood-forming tissues;Abnormality of the cardiovascular system;Abnormality of the nervous system	False	True	False	True
+fu2022	206	HP:0005445	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	206	HP:0002132	Abnormality of the nervous system	False	True	True	True
+fu2022	207	HP:0012618	Abnormality of the genitourinary system	False	True	False	True
+fu2022	207	HP:0001539	Abnormality of the digestive system;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	207	HP:0004719	Abnormality of the genitourinary system	False	True	True	True
+fu2022	207	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	208	HP:0000086	Abnormality of the genitourinary system	False	True	False	True
+fu2022	208	HP:0001629	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	209	HP:0000003	Abnormality of the genitourinary system	True	True	False	True
+fu2022	209	HP:0010442	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	210	HP:0001539	Abnormality of the digestive system;Abnormality of the musculoskeletal system	False	False	False	False
+fu2022	210	HP:0000126	Abnormality of the genitourinary system	False	False	False	False
+fu2022	210	HP:0002983	Abnormality of limbs;Abnormality of the musculoskeletal system	False	False	False	False
+fu2022	211	HP:0000003	Abnormality of the genitourinary system	True	True	True	True
+fu2022	211	HP:0001541	Abnormality of the digestive system	False	True	False	True
+fu2022	211	HP:0001562	Abnormality of prenatal development or birth	False	False	False	False
+fu2022	212	HP:0002089	Abnormality of the respiratory system	True	True	True	True
+fu2022	212	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	212	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	212	HP:0001789	Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	213	HP:0001789	Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	213	HP:0000347	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	213	HP:0001762	Abnormality of limbs	True	True	True	True
+fu2022	213	HP:0001561	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	214	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	214	HP:0410030	Abnormality of head or neck	True	True	True	True
+fu2022	214	HP:0005301	Abnormality of the cardiovascular system	False	True	True	True
+fu2022	214	HP:0005445	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	True	True
+fu2022	215	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/homeostasis;Abnormality of prenatal development or birth	False	True	False	True
+fu2022	215	HP:0001541	Abnormality of the digestive system	False	True	False	True
+fu2022	215	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
+fu2022	215	HP:0005180	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	216	HP:0001511	Growth abnormality	True	True	False	False
+fu2022	216	HP:0002202	Abnormality of metabolism/homeostasis;Abnormality of the respiratory system	False	True	False	False
+fu2022	216	HP:0001558	Abnormality of prenatal development or birth	True	True	False	False
+fu2022	217	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	217	HP:0000122	Abnormality of the genitourinary system	False	True	False	True
+fu2022	217	HP:0000075	Abnormality of the digestive system;Abnormality of the genitourinary system	False	True	False	True
+fu2022	217	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	217	HP:0005301	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	217	HP:0001518	Growth abnormality	False	True	False	True
+fu2022	218	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	218	HP:0001636	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	218	HP:0012020	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	219	HP:0001561	Abnormality of prenatal development or birth	False	True	False	False
+fu2022	219	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	219	HP:0001640	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	220	HP:0006956	Abnormality of the nervous system	False	True	False	True
+fu2022	220	HP:0001629	Abnormality of the cardiovascular system	True	True	True	True
+fu2022	220	HP:0007082	Abnormality of the nervous system	False	True	False	True
+fu2022	221	HP:0010941	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	221	HP:0010947	Abnormality of prenatal development or birth;Abnormality of the cardiovascular system	False	True	False	True
+fu2022	221	HP:0001195	Abnormality of prenatal development or birth;Abnormality of the cardiovascular system	False	True	False	True
+fu2022	221	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	221	HP:0001305	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	221	HP:0000776	Abnormality of the musculoskeletal system	True	True	False	True
+fu2022	222	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	222	HP:0002007	Abnormality of head or neck;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	222	HP:0032269	Abnormality of prenatal development or birth;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	222	HP:0001762	Abnormality of limbs	False	True	False	True
+fu2022	222	HP:0000104	Abnormality of the genitourinary system	True	True	True	True
+fu2022	222	HP:0008518	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	223	HP:0000175	Abnormality of head or neck	True	True	True	True
+fu2022	223	HP:0003097	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	224	HP:0002119	Abnormality of the nervous system	True	True	True	True
+fu2022	224	HP:0002202	Abnormality of metabolism/homeostasis;Abnormality of the respiratory system	False	True	False	True
+fu2022	225	HP:0004755	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	225	HP:0002280	Abnormality of head or neck;Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	225	HP:0001541	Abnormality of the digestive system	False	True	False	True
+fu2022	225	HP:0002202	Abnormality of metabolism/homeostasis;Abnormality of the respiratory system	False	True	False	True
+fu2022	225	HP:0001561	Abnormality of prenatal development or birth	False	False	True	True
+fu2022	226	HP:0002089	Abnormality of the respiratory system	False	True	False	True
+fu2022	226	HP:0000122	Abnormality of the genitourinary system	True	True	True	True
+fu2022	226	HP:0008718	Abnormality of the genitourinary system	False	True	False	True
+fu2022	226	HP:0001562	Abnormality of prenatal development or birth	True	True	True	True
+fu2022	227	HP:0001539	Abnormality of the digestive system;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	227	HP:0005180	Abnormality of the cardiovascular system	False	True	False	True
+fu2022	227	HP:0001561	Abnormality of prenatal development or birth	False	False	False	True
+fu2022	227	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
+fu2022	227	HP:0002240	Abnormality of the digestive system	True	True	True	True
+fu2022	228	HP:0000252	Abnormality of head or neck;Abnormality of the musculoskeletal system;Abnormality of the nervous system	True	True	True	True
+fu2022	228	HP:0100731	Abnormality of head or neck	False	True	False	True
+fu2022	228	HP:0001511	Growth abnormality	False	True	False	True
+fu2022	229	HP:0001520	Growth abnormality	False	True	False	True
+fu2022	229	HP:0001561	Abnormality of prenatal development or birth	False	False	False	False

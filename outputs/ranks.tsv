@@ -1,0 +1,336 @@
+cohort	case	section	genes	inheritance	n_terms	n_terms_changed	annotated_2020	annotated_2026	rank_2020	rank_all_2020	rank_2026	rank_all_2026	rank_2026onto_2020ann	rank_all_2026onto_2020ann	rank_2026_fullterms
+fu2022	1	Central nervous	ARX	XL	2	0	True	True	197.5	203.0	239.5	284.0	191.0	196.5	239.5
+fu2022	2	Central nervous	CHD7	AD	1	0	True	True	60.0	61.0	69.0	75.5	60.0	61.0	69.0
+fu2022	3	Central nervous	TUBA1A	AD	1	0	True	True	640.5	676.0	803.5	957.0	643.0	678.5	803.5
+fu2022	4	Central nervous	NFIA	AD	2	0	True	True	79.5	81.5	98.5	117.0	79.5	81.5	98.5
+fu2022	5	Central nervous	TUBB2B	AD	3	0	True	True	197.5	203.0	239.5	284.0	191.0	196.5	239.5
+fu2022	6	Central nervous	ASPM	AR	1	0	True	True	534.0	541.5	588.0	723.0	534.0	541.5	588.0
+fu2022	7	Central nervous	EZH2	AD	1	0	True	True	1062.5	1081.5	1170.5	1406.5	1063.0	1082.0	1170.5
+fu2022	8 #	Central nervous	CHD4	AD	2	0	True	True	364.5	374.0	455.5	537.5	369.5	379.0	455.5
+fu2022	9	Central nervous	CSPP1	AR	1	0	True	True	60.0	61.0	69.0	75.5	60.0	61.0	69.0
+fu2022	10	Central nervous	ANKRD11	AD	1	0	True	True	278.5	286.0	341.5	406.0	278.5	286.0	341.5
+fu2022	11	Central nervous	ANKRD11	AD	1	0	True	True	640.5	676.0	803.5	957.0	643.0	678.5	803.5
+fu2022	12	Central nervous	PPP2R1A	AD	2	0	True	True	87.0	87.0	119.5	129.5	87.0	87.0	119.5
+fu2022	13	Central nervous	AHDC1	AD	1	0	True	True	202.0	212.5	212.5	245.0	202.0	212.5	212.5
+fu2022	14	Central nervous	PAFAH1B1	AD	2	0	True	True	65.5	66.0	74.5	85.0	66.5	67.0	74.5
+fu2022	15	Central nervous	AP4M1	AR	1	0	True	True	202.0	212.5	212.5	245.0	202.0	212.5	212.5
+fu2022	16	Central nervous	COL4A1	AD	2	0	True	True	4.5	4.5	5.0	5.5	3.5	3.5	5.0
+fu2022	17	Central nervous	PAFAH1B1	AD	1	0	True	True	65.5	66.0	74.5	85.0	66.5	67.0	74.5
+fu2022	18	Central nervous	ARV1	AR	2	0	True	True	645.0	657.0	3175.0	3810.0	649.0	661.0	3175.0
+fu2022	19	Central nervous	NFIA	AD	3	0	True	True	392.5	400.0	519.0	623.0	389.0	397.5	519.0
+fu2022	20	Central nervous	ARID1B	AD	1	0	True	True	202.0	212.5	212.5	245.0	202.0	212.5	212.5
+fu2022	21	Central nervous	ADNP	AD	2	0	True	True	1282.0	1304.0	478.0	573.5	1208.0	1229.0	478.0
+fu2022	22	Central nervous	ARID1B	AD	1	0	True	True	133.5	143.5	154.0	191.0	133.5	143.5	154.0
+fu2022	23	Central nervous	COL4A1	AD	2	0	True	True	5.5	5.5	8.0	8.5	5.5	5.5	8.0
+fu2022	24	Central nervous	FGFR2	AD	3	0	True	True	346.5	352.5	186.0	230.0	525.5	534.5	186.0
+fu2022	25	Central nervous	CC2D2A	AR	3	0	True	True	71.5	72.5	85.0	94.5	71.5	72.5	85.0
+fu2022	26	Central nervous	DLL1	AD	1	0	True	True	278.5	286.0	341.5	406.0	278.5	286.0	341.5
+fu2022	27	Central nervous	PDHA1	AD	1	0	True	True	534.0	541.5	588.0	723.0	534.0	541.5	588.0
+fu2022	28	Central nervous	EPG5	AR	1	0	True	True	133.5	143.5	154.0	191.0	133.5	143.5	154.0
+fu2022	29	Central nervous	FLNA	XL	2	0	True	True	25.5	25.5	326.0	378.0	29.5	29.5	326.0
+fu2022	30	Central nervous	PPP2R1A	AD	2	0	True	True	24.5	24.5	37.0	40.5	24.5	24.5	37.0
+fu2022	31	Central nervous	ZMYM2	AD	2	0	False	True	4354.0	4479.0	4354.0	1787.5	4354.0	4479.0	4354.0
+fu2022	32	Central nervous	ASPM	AR	2	0	True	True	661.5	672.5	787.5	946.0	661.5	672.5	787.5
+fu2022	33	Central nervous	PTCH1	AD	2	0	True	True	4.5	4.5	7.0	7.0	4.5	4.5	7.0
+fu2022	34	Facial	COL11A1	AD	3	0	True	True	255.0	257.5	296.5	333.5	256.5	259.0	296.5
+fu2022	35	Facial	ARHGAP29	AD	2	0	True	True	373.0	376.5	507.5	584.5	663.0	670.0	507.5
+fu2022	36	Facial	IRF6	AD	2	0	True	True	90.5	91.5	91.5	106.5	90.5	91.5	91.5
+fu2022	37	Facial	IRF6	AD	2	0	True	True	90.5	91.5	91.5	106.5	90.5	91.5	91.5
+fu2022	38	Facial	KCNK9	AD	2	0	True	True	154.0	154.5	181.5	202.0	154.0	154.5	181.5
+fu2022	39	Facial	FOXC2	AD	2	0	True	True	538.5	544.0	592.5	704.0	793.5	805.0	592.5
+fu2022	40	Facial	CRYAA	AD	1	0	True	True	57.0	65.5	63.5	80.0	57.0	65.5	63.5
+fu2022	41	Facial	RUNX2	AD	2	0	True	True	1314.0	1339.5	1342.0	1600.0	1242.0	1266.0	1342.0
+fu2022	42	Facial	KMT2D	AD	2	0	True	True	373.0	376.5	91.5	106.5	275.5	278.0	91.5
+fu2022	43	Facial	TCOF1	AD	5	0	True	True	319.5	323.5	333.5	392.5	253.5	256.5	333.5
+fu2022	44	Facial	SIX3	AD	2	0	True	True	92.5	93.5	11.5	19.0	92.5	93.5	11.5
+fu2022	45	Facial	EYA1	AD	1	0	True	True	265.0	267.5	287.0	329.0	265.0	267.5	287.0
+fu2022	46	Cardiovascular	ADNP	AD	1	0	True	True	1087.0	1124.0	1366.5	1626.0	1177.5	1221.5	1366.5
+fu2022	47	Cardiovascular	PTPN11	AD	1	0	True	True	189.0	191.5	225.0	280.5	189.0	191.5	225.0
+fu2022	48	Cardiovascular	CHD7	AD	3	0	True	True	112.5	115.5	144.5	180.5	112.5	115.5	144.5
+fu2022	49	Cardiovascular	KMT2D	AD	2	0	True	True	502.5	514.0	42.5	55.5	502.5	514.0	42.5
+fu2022	50	Cardiovascular	FBN1	AD	2	0	True	True	120.5	137.5	384.0	477.5	309.0	328.0	384.0
+fu2022	51	Cardiovascular	PTPN11	AD	1	0	True	True	208.5	213.5	253.0	310.5	208.5	213.5	253.0
+fu2022	52	Cardiovascular	SMARCA4	AD	2	0	True	True	1224.0	1268.5	274.5	328.5	1199.5	1240.0	274.5
+fu2022	53	Cardiovascular	ZEB2	AD	2	0	True	True	17.0	18.0	23.5	32.0	17.0	18.0	23.5
+fu2022	54	Cardiovascular	FLNA	XL	2	0	True	True	506.0	522.0	324.5	404.0	507.5	523.5	324.5
+fu2022	55	Cardiovascular	SHOC2	AD	1	0	True	True	50.5	51.0	60.0	77.5	50.5	51.0	60.0
+fu2022	56	Cardiovascular	BRAF	AD	1	0	True	True	69.0	71.0	81.5	97.5	69.0	71.0	81.5
+fu2022	57	Cardiovascular	HRAS	AD	2	0	True	True	32.0	32.5	38.0	51.0	32.0	32.5	38.0
+fu2022	58	Cardiovascular	KMT2D	AD	1	0	True	True	56.0	56.5	71.5	81.0	56.0	56.5	71.5
+fu2022	59	Cardiovascular	KMT2D	AD	2	0	True	True	203.5	208.5	48.5	60.0	203.5	208.5	48.5
+fu2022	60	Cardiovascular	MYH7	AD	2	0	True	True	37.0	44.0	9.5	12.0	39.0	46.0	9.5
+fu2022	61	Cardiovascular	NONO	XL	1	0	True	True	452.0	482.5	9.5	11.0	452.0	482.5	9.5
+fu2022	62	Cardiovascular	EVC2	AR	3	0	True	True	8.5	8.5	12.5	15.5	11.5	11.5	12.5
+fu2022	63	Cardiovascular	TSC2	AD	1	0	True	True	4.0	4.0	3.0	3.0	4.0	4.0	3.0
+fu2022	64	Cardiovascular	TSC2	AD	1	0	True	True	4.0	4.0	3.0	3.0	4.0	4.0	3.0
+fu2022	65 #	Cardiovascular	MAPK1	AD	1	0	True	True	294.5	302.5	359.0	433.5	294.5	302.5	359.0
+fu2022	66	Cardiovascular	TSC2	AD	1	0	True	True	4.0	4.0	3.0	3.0	4.0	4.0	3.0
+fu2022	67	Cardiovascular	KDM6A	XD	2	0	True	True	158.5	162.0	52.5	70.0	158.5	162.0	52.5
+fu2022	68	Cardiovascular	TSC2	AD	1	0	True	True	4.0	4.0	3.0	3.0	4.0	4.0	3.0
+fu2022	69	Cardiovascular	TSC1	AD	1	0	True	True	7.0	7.0	8.0	8.0	7.0	7.0	8.0
+fu2022	70	Cardiovascular	CDH2	AD	4	0	True	True	112.5	114.5	146.0	183.0	112.5	114.5	146.0
+fu2022	71	Cardiovascular	TPM1	AD	4	0	True	True	477.5	507.5	16.0	19.0	528.0	558.0	16.0
+fu2022	72	Cardiovascular	TSC2	AD	1	0	True	True	4.0	4.0	3.0	3.0	4.0	4.0	3.0
+fu2022	73	Cardiovascular	FBN1	AD	1	0	True	True	44.0	46.0	59.0	76.0	44.0	46.0	59.0
+fu2022	74	Cardiovascular	PTPN11	AD	2	0	True	True	36.0	36.0	46.5	53.5	36.0	36.0	46.5
+fu2022	75	Cardiovascular	EFTUD2	AD	2	0	True	True	605.5	618.5	733.0	911.0	625.0	649.5	733.0
+fu2022	76	Cardiovascular	PTPN11	AD	2	0	True	True	44.0	44.5	69.0	89.5	44.0	44.5	69.0
+fu2022	77	Cardiovascular	KMT2D	AD	1	0	True	True	56.0	56.5	71.5	81.0	56.0	56.5	71.5
+fu2022	78	Cardiovascular	TSC2	AD	1	0	True	True	4.0	4.0	3.0	3.0	4.0	4.0	3.0
+fu2022	79	Cardiovascular	KMT2D	AD	2	0	True	True	61.0	61.5	79.5	91.0	61.0	61.5	79.5
+fu2022	80	Cardiovascular	MYH7	AD	1	0	True	True	18.5	18.5	37.5	40.5	22.5	22.5	37.5
+fu2022	81	Cardiovascular	LZTR1	AR	3	0	True	True	44.0	44.5	12.0	14.0	16.0	16.0	12.0
+fu2022	82	Cardiovascular	NR2F2	AD	3	0	True	True	38.0	38.0	99.5	122.5	67.0	67.0	99.5
+fu2022	83 #	Abdominal	FOXF1	AD	2	0	True	True	574.0	597.0	554.0	654.0	575.5	598.5	554.0
+fu2022	84	Abdominal	CDKN1C	AD	1	0	True	True	34.5	35.0	40.5	43.0	34.5	35.0	40.5
+fu2022	85	Urogenital	UMOD	AD	1	0	True	True	171.0	174.0	177.5	200.5	171.0	174.0	177.5
+fu2022	86	Urogenital	HNF1B	AD	2	0	True	True	67.5	68.0	79.0	94.5	67.5	68.0	79.0
+fu2022	87	Urogenital	PKD1	AD	3	0	True	True	42.0	43.0	62.0	76.5	42.0	43.0	62.0
+fu2022	88	Urogenital	JAG1	AD	1	0	True	True	171.0	174.0	177.5	200.5	171.0	174.0	177.5
+fu2022	89	Urogenital	ACE	AR	3	0	True	True	62.0	62.0	100.0	120.5	62.0	62.0	100.0
+fu2022	90	Urogenital	SRD5A2	AR	2	0	True	True	43.5	44.0	48.0	52.0	43.5	44.0	48.0
+fu2022	91	Urogenital	PKD2	AD	2	0	True	True	27.5	28.5	52.5	66.5	27.5	28.5	52.5
+fu2022	92	Urogenital	HNF1B	AD	1	0	True	True	538.5	554.5	634.0	761.5	538.5	554.5	634.0
+fu2022	93	Urogenital	PKD2	AD	2	0	True	True	27.5	28.5	52.5	66.5	27.5	28.5	52.5
+fu2022	94	Urogenital	HNF1B	AD	2	0	True	True	128.0	130.5	154.0	183.5	128.0	130.5	154.0
+fu2022	95	Urogenital	HNF1B	AD	1	0	True	True	54.5	55.0	48.0	52.0	54.5	55.0	48.0
+fu2022	96	Urogenital	PKHD1	AR	2	0	True	True	27.5	28.5	4.0	4.5	27.5	28.5	4.0
+fu2022	97	Urogenital	PKHD1	AR	3	0	True	True	12.5	12.5	3.0	3.0	12.5	12.5	3.0
+fu2022	98	Urogenital	PKD1	AD	2	0	True	True	27.5	28.5	52.5	66.5	27.5	28.5	52.5
+fu2022	99	Urogenital	ACTG2	AD	1	0	True	True	4.5	4.5	5.0	5.5	4.5	4.5	5.0
+fu2022	100	Skeletal	FGFR3	AD	5	0	True	True	1.0	1.0	2.0	2.0	1.0	1.0	2.0
+fu2022	101	Skeletal	FGFR3	AD	2	0	True	True	46.5	46.5	42.0	43.0	46.5	46.5	42.0
+fu2022	102	Skeletal	GDF5	AD	2	0	True	True	72.5	73.5	104.0	115.5	76.5	78.5	104.0
+fu2022	103	Skeletal	COL1A1	AD	2	0	True	True	2.5	2.5	3.0	3.0	2.5	2.5	3.0
+fu2022	104	Skeletal	SHOX	AD	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	105	Skeletal	FLNB	AD	1	0	True	True	142.0	145.0	189.5	216.0	142.0	145.0	189.5
+fu2022	106	Skeletal	FGFR3	AD	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	107	Skeletal	SCN4A	AR	3	0	True	True	567.5	573.0	243.0	276.0	570.5	576.0	243.0
+fu2022	108	Skeletal	EZH2	AD	3	0	True	True	231.0	232.0	298.0	329.5	261.0	262.5	298.0
+fu2022	109	Skeletal	COL1A2	AD	1	0	True	True	20.5	21.0	24.5	26.0	20.5	21.0	24.5
+fu2022	110	Skeletal	PUF60	AD	3	0	True	True	304.0	308.5	326.5	373.5	305.5	310.0	326.5
+fu2022	111	Skeletal	FGFR3	AD	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	112	Skeletal	COL2A1	AD	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	113	Skeletal	GNPTAB	AR	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	114	Skeletal	ZC4H2	XL	2	0	True	True	108.5	110.0	150.0	167.5	109.5	111.5	150.0
+fu2022	115	Skeletal	TNNI2	AD	3	0	True	True	234.0	242.0	407.5	487.5	357.0	366.0	407.5
+fu2022	116	Skeletal	SMAD4	AD	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	117	Skeletal	EBP	XD	1	0	True	True	396.5	400.5	497.5	558.5	436.0	440.5	497.5
+fu2022	118	Skeletal	TPM2	AD	2	0	True	True	6.5	7.0	10.0	11.0	6.5	7.0	10.0
+fu2022	119	Skeletal	KMT2D	AD	2	0	True	True	910.0	924.5	411.5	473.5	911.5	926.0	411.5
+fu2022	120	Skeletal	ASXL3	AD	1	0	True	True	2541.0	2624.5	392.0	442.5	2546.0	2630.0	392.0
+fu2022	121	Skeletal	TRPV4	AD	1	0	True	True	35.0	35.5	48.5	57.0	35.0	35.5	48.5
+fu2022	122	Skeletal	COL6A1	AR	1	0	True	True	142.0	145.0	189.5	216.0	142.0	145.0	189.5
+fu2022	123	Skeletal	COL1A1	AD	2	0	True	True	57.0	57.5	58.5	66.5	58.0	59.0	58.5
+fu2022	124	Skeletal	FGFR3	AD	2	0	True	True	19.5	19.5	20.5	20.5	19.5	19.5	20.5
+fu2022	125	Skeletal	COL1A2	AD	3	0	True	True	75.5	76.0	93.5	101.5	67.0	68.0	93.5
+fu2022	126	Skeletal	ATRX	XR	3	0	True	True	396.0	401.0	1409.5	1644.0	474.0	482.0	1409.5
+fu2022	127	Skeletal	FGFR3	AD	2	0	True	True	6.0	6.0	6.5	7.0	6.0	6.0	6.5
+fu2022	128	Skeletal	COL2A1	AD	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	129	Skeletal	FGFR3	AD	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	130	Skeletal	COL1A1	AD	2	0	True	True	29.0	29.5	38.5	41.5	30.0	31.0	38.5
+fu2022	131	Skeletal	FGFR3	AD	3	0	True	True	7.5	7.5	10.0	13.0	8.0	8.0	10.0
+fu2022	132	Skeletal	FGFR3	AD	3	0	True	True	32.0	32.0	8.5	10.0	32.5	33.0	8.5
+fu2022	133	Skeletal	COL2A1	AD	3	0	True	True	7.5	7.5	38.5	48.5	13.5	13.5	38.5
+fu2022	134	Skeletal	COL1A1	AD	1	0	True	True	114.5	116.0	155.5	179.5	120.0	121.5	155.5
+fu2022	135	Skeletal	COL1A1	AD	1	0	True	True	8.5	8.5	9.0	10.0	8.5	8.5	9.0
+fu2022	136	Skeletal	COL2A1	AD	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+fu2022	137	Skeletal	COL1A2	AD	2	0	True	True	57.0	57.5	58.5	66.5	58.0	59.0	58.5
+fu2022	138	Skeletal	COL1A1	AD	2	0	True	True	29.0	29.5	38.5	41.5	30.0	31.0	38.5
+fu2022	139	Skeletal	COL1A1	AD	2	0	True	True	29.0	29.5	38.5	41.5	30.0	31.0	38.5
+fu2022	140	Skeletal	FGFR3	AD	2	0	True	True	30.5	30.5	51.0	56.5	34.5	35.0	51.0
+fu2022	141	Skeletal	OBSL1	AR	2	0	True	True	54.0	54.0	82.5	92.0	63.0	63.5	82.5
+fu2022	142	Skeletal	ALPL	AR	4	0	True	True	43.5	43.5	71.5	80.0	41.5	41.5	71.5
+fu2022	143	Skeletal	TP63	AD	2	0	True	True	83.0	85.5	21.5	23.5	86.5	89.0	21.5
+fu2022	144	Skeletal	COL1A1	AD	2	0	True	True	57.0	57.5	58.5	66.5	58.0	59.0	58.5
+fu2022	145	Skeletal	COL1A1	AD	2	0	True	True	28.0	28.5	41.5	45.0	28.0	28.5	41.5
+fu2022	146	Skeletal	FGFR3	AD	3	0	True	True	7.5	7.5	10.0	13.0	8.0	8.0	10.0
+fu2022	147	Skeletal	DYNC2H1	AR	4	0	True	True	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+fu2022	148	Skeletal	FGFR3	AD	3	0	True	True	1.5	1.5	2.5	2.5	1.5	1.5	2.5
+fu2022	149	Skeletal	COL2A1	AD	2	0	True	True	41.5	41.5	28.0	31.0	14.0	14.0	28.0
+fu2022	150	Skeletal	COL1A1	AD	2	0	True	True	263.5	265.5	355.0	398.5	297.5	300.0	355.0
+fu2022	151	Skeletal	COL1A1	AD	1	0	True	True	396.5	400.5	497.5	558.5	436.0	440.5	497.5
+fu2022	152	Skeletal	ECEL1	AR	2	2	True	True	145.5	146.5	69.5	78.5	147.0	148.0	85.0
+fu2022	153	Skeletal	ARSE	XR	2	0	False	False	4354.0	4479.0	4354.0	5269.0	4354.0	4479.0	4354.0
+fu2022	154	Skeletal	KLHL40	AR	2	0	True	True	1332.0	1356.0	310.0	347.5	1440.5	1468.0	310.0
+fu2022	155	Skeletal	FGFR3	AD	2	0	True	True	3.5	3.5	5.0	5.5	3.5	3.5	5.0
+fu2022	156	Skeletal	FGFR3	AD	2	0	True	True	18.5	18.5	34.0	38.0	25.0	25.0	34.0
+fu2022	157	Skeletal	COL1A2	AD	1	0	True	True	396.5	400.5	497.5	558.5	436.0	440.5	497.5
+fu2022	158	Skeletal	COL2A1	AD	4	0	True	True	4.0	4.0	6.5	8.5	1.5	1.5	6.5
+fu2022	159	Skeletal	BRPF1	AD	1	0	True	True	142.0	145.0	1951.0	2284.5	142.0	145.0	1951.0
+fu2022	160	Skeletal	COL1A1	AD	2	0	True	True	263.5	265.5	355.0	398.5	297.5	300.0	355.0
+fu2022	161	Skeletal	EVC	AR	1	0	True	True	111.0	112.5	121.5	139.5	111.0	112.5	121.5
+fu2022	162	Skeletal	SHOX	AD	2	0	True	True	30.5	30.5	51.0	56.5	34.5	35.0	51.0
+fu2022	163	FGR	KAT6A	AD	1	0	True	True	236.0	241.0	285.0	333.5	236.0	241.0	285.0
+fu2022	164	FGR	NIPBL	AD	1	0	True	True	236.0	241.0	285.0	333.5	236.0	241.0	285.0
+fu2022	165	Isolated Hydrops	PTPN11	AD	3	0	True	True	223.5	225.0	64.0	70.0	134.0	135.0	64.0
+fu2022	166	Isolated Hydrops	RYR1	AR	1	0	True	True	45.0	45.5	60.5	69.0	45.0	45.5	60.5
+fu2022	167	Increased NT and cystic hygroma	SETD5	AD	1	0	True	True	16.0	16.0	714.5	842.5	16.0	16.0	714.5
+fu2022	168	Increased NT and cystic hygroma	PTPN11	AD	2	0	True	True	36.0	36.5	14.0	15.5	10.5	10.5	14.0
+fu2022	169	Increased NT and cystic hygroma	KMT2C	AD	1	0	True	True	3386.5	3486.0	3208.0	3836.0	3027.5	3114.0	3208.0
+fu2022	170	Increased NT and cystic hygroma	KCNT1	AD	2	0	True	True	3386.5	3486.0	3208.0	3836.0	3027.5	3114.0	3208.0
+fu2022	171	Increased NT and cystic hygroma	HRAS	AD	2	0	True	True	227.0	229.0	111.5	140.0	87.0	88.5	111.5
+fu2022	172	Increased NT and cystic hygroma	NFIB	AD	2	0	True	True	3021.0	3107.5	2987.0	3547.0	2721.5	2797.0	2987.0
+fu2022	173	Multisystem	RAF1	AD	4	0	True	True	439.0	445.0	47.0	64.0	117.0	120.0	47.0
+fu2022	174	Multisystem	FLNB	AD	2	0	True	True	35.5	35.5	37.5	46.0	37.5	37.5	37.5
+fu2022	175	Multisystem	FLNA	XL	5	0	True	True	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+fu2022	176	Multisystem	L1CAM	XR	2	0	True	True	27.5	28.5	37.5	41.0	27.5	28.5	37.5
+fu2022	177	Multisystem	EFTUD2	AD	2	0	True	True	76.0	77.0	73.5	88.0	78.0	79.0	73.5
+fu2022	178	Multisystem	KMT2D	AD	5	0	True	True	333.5	336.5	34.0	45.0	374.5	381.5	34.0
+fu2022	179	Multisystem	SPECC1L	AD	3	0	True	True	182.0	184.0	1304.5	1519.5	185.0	187.0	1304.5
+fu2022	180	Multisystem	MRPS22	AR	2	0	True	True	1146.5	1187.5	1397.5	1690.5	1153.5	1194.5	1397.5
+fu2022	181	Multisystem	MID1	XR	3	0	True	True	319.0	323.0	16.0	18.0	240.0	243.0	16.0
+fu2022	182	Multisystem	CHD7	AD	3	0	True	True	3.0	3.0	5.0	5.0	3.0	3.0	5.0
+fu2022	183	Multisystem	MYH7	AD	4	0	True	True	229.0	236.0	416.0	492.0	233.0	240.0	416.0
+fu2022	184	Multisystem	NEK8	AR	5	1	True	True	2.5	2.5	5.0	5.0	4.5	4.5	3.5
+fu2022	185	Multisystem	FGFR2	AD	4	0	True	True	73.5	75.0	25.5	31.0	83.0	85.0	25.5
+fu2022	186	Multisystem	BBS7	AR	2	0	True	True	24.5	25.0	63.5	70.5	24.5	25.0	63.5
+fu2022	187	Multisystem	FRAS1	AR	4	0	True	True	235.5	238.5	99.0	111.0	241.5	244.5	99.0
+fu2022	188	Multisystem	FGFR2	AD	2	0	True	True	98.0	98.5	122.5	151.5	98.0	98.5	122.5
+fu2022	189	Multisystem	UBA1	XR	3	0	True	True	69.0	70.0	228.0	257.5	69.0	70.0	228.0
+fu2022	190	Multisystem	KMT2D	AD	2	0	True	True	82.5	84.0	105.5	125.5	82.5	84.0	105.5
+fu2022	191	Multisystem	NIPBL	AD	3	0	True	True	127.0	128.0	77.5	82.0	145.5	146.5	77.5
+fu2022	192	Multisystem	KMT2D	AD	2	0	True	True	34.0	34.5	39.5	44.0	34.0	34.5	39.5
+fu2022	193	Multisystem	NIPBL	AD	3	0	True	True	52.0	52.0	65.5	68.5	52.0	52.0	65.5
+fu2022	194	Multisystem	USP9X	XD	4	0	True	True	332.0	336.0	145.5	166.5	112.5	113.5	145.5
+fu2022	195	Multisystem	FGFR2	AD	3	0	True	True	2.5	2.5	2.5	3.0	2.5	2.5	2.5
+fu2022	196	Multisystem	KMT2D	AD	3	0	True	True	6.0	6.0	6.0	7.0	6.0	6.0	6.0
+fu2022	197	Multisystem	NIPBL	AD	4	0	True	True	279.0	285.5	178.5	208.5	285.5	292.0	178.5
+fu2022	198	Multisystem	CEP290	AR	4	0	True	True	45.0	46.0	57.5	69.5	45.0	46.0	57.5
+fu2022	199	Multisystem	CEP290	AR	4	0	True	True	10.5	10.5	13.0	13.5	10.5	10.5	13.0
+fu2022	200	Multisystem	SOX9	AD	6	0	True	True	109.0	111.0	125.5	145.5	117.0	119.0	125.5
+fu2022	201	Multisystem	FGFR3	AD	2	0	True	True	27.5	27.5	49.0	53.5	35.0	35.0	49.0
+fu2022	202	Multisystem	RAF1	AD	4	0	True	True	143.0	144.0	95.0	110.5	84.5	85.5	95.0
+fu2022	203	Multisystem	MAGEL2	AD	4	0	True	True	286.0	288.0	196.0	214.0	299.0	302.0	196.0
+fu2022	204	Multisystem	ABCA12	AR	3	0	True	True	407.0	415.0	459.5	521.0	408.5	416.5	459.5
+fu2022	205	Multisystem	TMEM231	AR	2	0	True	True	79.0	80.0	90.0	96.5	79.0	80.0	90.0
+fu2022	206	Multisystem	PLOD3	AR	5	0	True	True	782.5	793.5	48.0	55.0	827.5	840.5	48.0
+fu2022	207	Multisystem	CRB2	AR	4	0	True	True	732.0	743.0	91.0	111.0	732.0	743.0	91.0
+fu2022	208	Multisystem	RET	AD	2	0	True	True	770.5	797.5	774.0	941.0	779.5	806.5	774.0
+fu2022	209	Multisystem	BBS7	AR	2	0	True	True	24.5	25.0	63.5	70.5	24.5	25.0	63.5
+fu2022	210	Multisystem	WDR60	AR	3	0	False	False	4354.0	4479.0	4354.0	5269.0	4354.0	4479.0	4354.0
+fu2022	211	Multisystem	BBS2	AR	3	0	True	True	405.0	413.5	451.0	525.5	418.0	426.5	451.0
+fu2022	212	Multisystem	RAPSN	AR	4	0	True	True	96.0	97.0	120.5	135.5	91.0	92.0	120.5
+fu2022	213	Multisystem	ACTA1	AD	4	0	True	True	27.0	28.0	68.0	76.0	41.0	42.0	68.0
+fu2022	214	Multisystem	MID1	XR	4	0	True	True	243.5	246.0	1.5	1.5	263.5	266.5	1.5
+fu2022	215	Multisystem	FLNA	XL	4	0	True	True	158.5	160.5	17.5	22.5	102.5	103.5	17.5
+fu2022	216	Multisystem	GBA	AR	3	0	True	False	4354.0	8.0	4354.0	5269.0	4354.0	17.0	4354.0
+fu2022	217	Multisystem	FANCI	AR	6	0	True	True	88.0	90.0	136.5	165.5	94.5	96.5	136.5
+fu2022	218	Multisystem	MTOR	AD	3	0	True	True	864.5	887.5	1082.5	1274.5	865.0	888.0	1082.5
+fu2022	219	Multisystem	KMT2A	AD	3	0	True	True	537.5	546.0	1384.0	1612.5	145.5	146.5	1384.0
+fu2022	220	Multisystem	PEX1	AR	3	0	True	True	251.0	252.5	154.5	192.5	251.0	252.5	154.5
+fu2022	221	Multisystem	ARID1A	AD	6	0	True	True	61.0	61.0	372.5	442.5	118.0	120.0	372.5
+fu2022	222	Multisystem	FGFR2	AD	6	0	True	True	58.0	58.0	81.5	95.5	46.0	46.0	81.5
+fu2022	223	Multisystem	MYH3	AD	2	0	True	True	298.0	301.0	360.0	402.0	307.0	310.0	360.0
+fu2022	224	Multisystem	KRAS	AD	2	0	True	True	110.5	111.5	189.5	215.0	127.5	128.5	189.5
+fu2022	225	Multisystem	CSNK2A1	AD	5	0	True	True	2071.0	2129.5	1051.0	1212.0	2078.0	2136.5	1051.0
+fu2022	226	Multisystem	PBX1	AD	4	0	True	True	9.0	9.0	16.0	19.0	10.0	10.0	16.0
+fu2022	227	Multisystem	CDKN1C	AD	5	0	True	True	189.0	191.0	59.0	69.0	200.0	202.0	59.0
+fu2022	228	Multisystem	ZEB2	AD	3	0	True	True	101.5	104.5	280.5	315.0	242.5	246.5	280.5
+fu2022	229	Others	CLCN5	XR	2	0	True	True	2135.5	2202.5	2246.0	2646.5	2136.0	2203.0	2246.0
+graham2026	1		ALPL	AD; Maternal	1	0	True	True	396.5	400.5	497.5	558.5	436.0	440.5	497.5
+graham2026	2		CNOT1	AD; Maternal	3	0	True	True	1985.0	2034.5	2174.5	2608.5	1997.0	2047.0	2174.5
+graham2026	3		COL1A1	AD; Paternal	2	0	True	True	57.0	57.5	58.5	66.5	58.0	59.0	58.5
+graham2026	4		COL1A1	AD; Maternal mosaic, VAF 17%	4	1	True	True	211.0	212.0	85.0	91.5	231.5	232.5	31.0
+graham2026	5		COL1A1	AD; Possible paternal low level mosaic, VAF <1%	3	0	True	True	30.0	30.5	54.5	59.5	37.0	38.0	54.5
+graham2026	6		COL1A2	AD; Paternal mosaic, VAF 12%	4	0	True	True	23.0	23.0	41.0	46.0	30.0	31.0	41.0
+graham2026	7		COL1A2	AD; Paternal	4	0	True	True	171.0	171.0	197.5	220.5	176.0	177.0	197.5
+graham2026	8		COL2A1	AD; Maternal	3	0	True	True	17.5	17.5	24.5	29.0	21.5	21.5	24.5
+graham2026	9		COL2A1	AD; Possible maternal low level mosaic, VAF 1%	2	0	True	True	46.5	46.5	53.0	71.0	12.5	12.5	53.0
+graham2026	10		COL2A1	AD; Maternal	2	0	True	True	54.0	54.0	78.5	85.5	64.0	64.0	78.5
+graham2026	11		COL2A1	AD; Maternal mosaic, VAF 10%	1	0	True	True	90.0	90.0	133.5	146.5	109.0	109.5	133.5
+graham2026	12		EPHB4	AD; Maternal	2	0	True	True	312.0	314.5	9.5	10.5	179.0	180.5	9.5
+graham2026	13		FBN1	AD; Paternal	5	1	True	True	397.0	402.0	521.5	612.5	389.0	394.0	256.5
+graham2026	14		KRAS	AD; Possible paternal low level mosaic, VAF <1%	4	1	True	True	175.0	176.5	110.5	141.0	80.5	81.5	129.5
+graham2026	15		KRAS	AD; Possible maternal low level mosaic, VAF <1%	6	2	True	True	12.0	12.0	9.0	10.0	6.0	6.0	9.0
+graham2026	16		MYH7	AD; Paternal	4	0	True	True	136.5	137.5	117.0	144.5	136.5	137.5	117.0
+graham2026	17		MYH7	AD; Paternal	3	0	True	True	81.0	81.0	68.5	89.5	89.0	89.0	68.5
+graham2026	18		PIEZO1;GLI2	AD; Maternal (PIEZO1); GLI2 de novo LP per main Table 2	6	1	True	True	23.0	23.0	31.5	38.5	11.0	11.0	38.5
+graham2026	19		PKD1	AD; Maternal	7	0	True	True	696.0	722.0	781.5	942.0	694.0	722.0	781.5
+graham2026	20		PLAG1	AD; Maternal	2	0	True	True	1531.5	1559.0	473.0	530.5	1539.5	1567.0	473.0
+graham2026	21		POLR1A	AD; Paternal	2	0	True	True	1013.0	1044.0	146.5	169.0	1015.5	1046.5	146.5
+graham2026	22		PTPN11	AD; Maternal	3	0	True	True	17.5	17.5	26.0	30.5	24.0	24.0	26.0
+graham2026	23		PTPN11	AD; Possible paternal low level mosaic, VAF <1%	7	1	True	True	1.0	1.0	3.0	3.0	2.0	2.0	6.0
+graham2026	24		PTPN11	AD; Maternal	3	0	True	True	652.0	666.0	217.5	256.5	703.0	718.0	217.5
+graham2026	25		RAF1	AD; Maternal	5	0	True	True	48.5	48.5	45.5	60.0	50.5	50.5	45.5
+graham2026	26		RASA1	AD; Maternal	2	0	True	True	2241.5	2305.5	2523.5	3000.0	2255.0	2319.5	2523.5
+graham2026	27		RASA1	AD; Maternal	5	2	True	True	2508.5	2579.5	2534.0	3019.0	2470.0	2542.5	2534.0
+graham2026	28		RASA1	AD; Maternal	2	1	True	True	3386.5	3486.0	2344.5	2769.5	3392.5	3492.0	2344.5
+graham2026	29		RIT1	AD; Maternal	3	1	True	True	91.5	93.5	43.5	50.0	30.5	32.5	47.5
+graham2026	30		RUNX2	AD; Paternal mosaic, VAF 24%	3	0	True	True	243.0	244.0	118.0	131.0	136.0	136.0	118.0
+graham2026	31		SHH	AD; Maternal	1	0	True	True	39.0	39.5	43.5	47.0	39.0	39.5	43.5
+graham2026	32		SOS1	AD; Maternal	3	2	True	True	282.0	283.0	36.0	42.5	290.5	291.5	24.0
+graham2026	33		SOX9	AD; Presumed germline mosaicism	1	0	True	True	340.0	343.0	377.5	444.0	340.0	343.0	377.5
+graham2026	34		TCF12	AD; Maternal	4	0	True	True	3129.0	3219.0	1775.0	2116.0	3150.0	3240.0	1775.0
+graham2026	35		TFAP2A	AD; Paternal	2	0	True	True	28.0	28.0	39.0	55.5	28.0	28.0	39.0
+graham2026	36		TUBB2B	AD; Paternal	5	1	True	True	346.0	356.0	454.5	549.0	376.0	388.0	454.5
+graham2026	37		ZFHX4	AD; Paternal	5	1	True	False	4354.0	4135.0	4354.0	5269.0	4354.0	4138.5	4354.0
+graham2026	38		ZIC2	AD; Maternal mosaic, VAF 5%	4	0	True	True	73.5	74.0	12.5	14.0	73.5	74.0	12.5
+graham2026	39		ZIC2	AD; Paternal mosaic, VAF 25%	1	0	True	True	2.0	2.0	4.5	5.5	2.0	2.0	4.5
+smogavec2022	1		SF3B4	het, AD, unknown	4	0	True	True	97.5	97.5	188.5	225.5	145.0	145.0	188.5
+smogavec2022	2		MPDZ	comp het, AR	1	0	True	True	169.0	174.0	193.0	221.5	169.0	174.0	193.0
+smogavec2022	3		ANOS1	hemi, XL, mat inherited	1	0	True	True	85.0	86.0	101.0	117.0	85.0	86.0	101.0
+smogavec2022	4		PTPN11	het, AD, de novo	4	0	True	True	250.5	255.0	61.0	76.0	145.0	146.0	61.0
+smogavec2022	5		COL1A2	het, AD, de novo	2	0	True	True	9.5	9.5	4.0	4.0	9.5	9.5	4.0
+smogavec2022	6		COL27A1;PKD1	COL27A1 hom, AR; PKD1 hom, AD (hypomorphic)	6	0	True	True	1440.0	1484.0	1742.0	2007.0	1589.0	1635.0	1742.0
+smogavec2022	7		GUSB	comp het, AR	1	0	True	True	45.0	45.5	60.5	69.0	45.0	45.5	60.5
+smogavec2022	8		CUL7	hom, AR	4	0	True	True	142.0	142.0	72.0	73.5	152.0	153.0	72.0
+smogavec2022	9		COG6	hom, AR	8	0	True	True	496.0	502.0	599.0	698.0	487.0	493.0	599.0
+smogavec2022	10		SLC26A2	comp het, AR	3	0	True	True	1.5	1.5	3.5	3.5	1.5	1.5	3.5
+smogavec2022	11		SLC26A2	comp het, AR	2	0	True	True	26.0	26.0	37.0	37.5	30.5	30.5	37.0
+smogavec2022	12		HNF1B	het, AD, de novo	2	0	True	True	70.5	71.5	88.0	95.0	71.0	72.0	88.0
+smogavec2022	13		KAT6B	het, AD, de novo	4	0	True	True	23.5	23.5	24.5	27.0	12.0	12.0	24.5
+smogavec2022	14		KMT2D	het, AD, de novo	3	0	True	True	880.5	903.5	62.0	65.0	891.0	914.0	62.0
+smogavec2022	15		BBS2	hom, AR	2	0	True	True	196.5	203.5	229.5	271.0	196.5	203.5	229.5
+smogavec2022	16		COL2A1	het, AD, de novo	1	0	True	True	5.5	5.5	5.5	5.5	5.5	5.5	5.5
+smogavec2022	17		VANGL1	het, AD, de novo	3	0	True	True	250.5	254.0	48.0	54.0	250.5	254.0	48.0
+smogavec2022	18		MN1	het, AD, de novo	1	0	True	True	2072.5	2111.5	2242.5	2654.0	2073.5	2113.0	2242.5
+smogavec2022	19		GPC3	hemi, XL, mat inherited	5	0	True	True	53.0	53.0	112.5	137.5	59.0	59.0	112.5
+smogavec2022	20		NBN	hom, AR	2	0	True	True	380.0	385.5	432.5	517.5	380.0	385.5	432.5
+smogavec2022	21		TREX1	hom, AR	2	0	True	True	33.0	35.0	44.0	58.0	33.0	35.0	44.0
+smogavec2022	22		EXOC3L2	hom, AR	4	0	False	True	4354.0	4479.0	4354.0	10.0	4354.0	4479.0	4354.0
+smogavec2022	23		PEX1	comp het, AR	1	0	True	True	228.0	233.0	259.5	306.0	229.0	234.0	259.5
+smogavec2022	24		FRAS1	comp het, AR	8	0	True	True	573.0	582.0	224.0	263.0	595.0	604.0	224.0
+smogavec2022	25		PTPN11;PTEN	PTPN11 het, AD, de novo; PTEN het, AD, mat inherited	2	0	True	True	142.0	152.0	164.0	198.5	142.0	152.0	164.0
+smogavec2022	26		CDK10	hom, AR	6	0	True	True	2587.5	2657.5	2112.0	2474.0	2601.5	2671.5	2112.0
+smogavec2022	27		KMT2D	het, AD, de novo	1	0	True	True	597.0	620.0	692.5	839.0	597.0	620.0	692.5
+smogavec2022	28		COL1A1	het, AD, de novo	5	0	True	True	96.0	96.0	116.0	121.0	94.5	95.5	116.0
+smogavec2022	29		DCC	het, AD, mat inherited	1	0	True	True	133.5	143.5	154.0	191.0	133.5	143.5	154.0
+smogavec2022	30		COL1A1	het, AD, de novo	1	0	True	True	1394.5	1421.0	1489.5	1759.5	1395.0	1421.5	1489.5
+smogavec2022	31		NEB	hom, AR	3	1	True	True	26.0	26.0	52.5	53.5	26.0	26.0	132.0
+aogs2026	1		CPLANE1	AR; Het mat + Het pat	1	0	True	True	121.0	122.0	153.5	182.5	121.0	122.0	153.5
+aogs2026	2		PDHA1	XLD; Het	1	0	True	True	133.5	143.5	154.0	191.0	133.5	143.5	154.0
+aogs2026	3		ASPM	AR; Het mat + Het pat	1	0	True	True	534.0	541.5	588.0	723.0	534.0	541.5	588.0
+aogs2026	4		CEP135	AR; Het pat + Het mat	1	0	True	True	534.0	541.5	588.0	723.0	534.0	541.5	588.0
+aogs2026	5		DLL1	AD; Het (de novo)	1	0	True	True	278.5	286.0	341.5	406.0	278.5	286.0	341.5
+aogs2026	6		PPP1R12A	AD; Het (de novo)	1	0	True	True	1278.5	1316.5	1406.5	1681.0	1328.0	1366.5	1406.5
+aogs2026	7		AR	XLR; Het mat	4	0	True	True	1192.5	1212.0	1996.5	2366.5	1202.5	1222.0	1996.5
+aogs2026	8		CC2D2A	AR; Het pat + Het mat	4	0	True	True	47.0	47.0	30.5	31.5	25.0	25.0	30.5
+aogs2026	9		TMEM67	AR; Het mat + Het pat	3	0	True	True	17.5	17.5	29.0	31.5	27.5	27.5	29.0
+aogs2026	10		FAM111A	AD; Het (de novo)	2	0	True	True	902.0	916.0	1136.0	1382.0	1046.0	1076.0	1136.0
+aogs2026	11		COL4A1	AD; Het (de novo)	5	0	True	True	537.5	550.5	712.0	821.0	641.5	659.5	712.0
+aogs2026	12		CHD7	AD; Het (de novo)	4	0	True	True	76.5	77.5	87.5	100.5	75.0	76.0	87.5
+aogs2026	13		TMEM231	AR; Het pat + Het pat (as printed)	3	0	True	True	2.0	2.0	3.0	4.0	2.0	2.0	3.0
+aogs2026	14		TREX1	AR; Het mat + Het pat	4	0	True	True	53.0	54.0	85.5	105.0	57.0	58.0	85.5
+aogs2026	15		TREX1	AD (as printed); Homo	2	0	True	True	828.0	841.0	938.5	1141.5	835.0	848.0	938.5
+aogs2026	16		SMC1A	XLD; Het (de novo)	6	1	True	True	209.0	214.5	153.5	173.5	115.5	118.0	95.5
+aogs2026	17		VANGL2	AD; Het mat	5	0	True	True	23.5	23.5	114.0	126.0	43.0	43.0	114.0
+aogs2026	18		PIK3CA	AD; Het (de novo)	1	0	True	True	278.5	286.0	341.5	406.0	278.5	286.0	341.5
+aogs2026	19		ACO2	AR; Het mat	1	0	True	True	1457.5	1497.5	1598.0	1924.0	1458.5	1499.0	1598.0
+aogs2026	20		AP5Z1	AR; Het pat	1	0	True	True	1457.5	1497.5	1598.0	1924.0	1458.5	1499.0	1598.0
+aogs2026	21		FGFR3	AR (as printed); Het pat	1	0	True	True	278.5	286.0	341.5	406.0	278.5	286.0	341.5
+aogs2026	22		L1CAM	XLR; Hemi mat	1	0	True	True	133.5	143.5	154.0	191.0	133.5	143.5	154.0
+aogs2026	23		SMC1A	XLR (as printed); Het (de novo)	1	0	True	True	133.5	143.5	154.0	191.0	133.5	143.5	154.0
+aogs2026	24		PEX6	AR; Homo	2	0	True	True	202.5	208.0	212.5	253.5	202.5	208.0	212.5
+aogs2026	25		OCRL	XLR; Homo (as printed)	2	0	True	True	80.5	81.0	98.5	111.5	80.5	81.0	98.5
+aogs2026	26		FGFR3	AD; Het (de novo)	2	0	True	True	2.5	2.5	6.0	7.0	2.5	2.5	6.0
+aogs2026	27		SMS	XLR; Hemi mat	2	0	True	True	92.5	92.5	112.5	129.0	92.5	92.5	112.5
+aogs2026	28		CHD7	AD; Het (de novo)	2	0	True	True	62.5	63.0	76.0	84.5	62.5	63.0	76.0
+aogs2026	29		RARS2	AR; Het mat	1	0	True	True	1457.5	1497.5	1598.0	1924.0	1458.5	1499.0	1598.0
+aogs2026	30		NOTCH2	AD; Het (de novo)	1	0	True	True	639.0	655.5	774.0	921.0	639.0	655.5	774.0
+aogs2026	31		KMT2A	AD; Het mat	1	0	True	True	683.0	712.5	768.5	962.5	689.0	718.5	768.5
+aogs2026	32		KCNQ1	AD; Het mat	1	0	True	True	70.0	71.0	92.5	109.5	70.0	71.0	92.5
+aogs2026	33		TCF12	AD; Het (de novo)	1	0	True	True	1062.5	1081.5	1170.5	1406.5	1063.0	1082.0	1170.5
+aogs2026	34		COL4A1	AD; Het (de novo)	1	0	True	True	121.0	122.0	153.5	182.5	121.0	122.0	153.5
+aogs2026	35		TSC2	AD; Het (de novo)	2	0	True	True	2.0	2.0	2.0	2.0	2.0	2.0	2.0
+aogs2026	36		PTPN11	AD; Het (de novo)	1	0	True	True	2288.0	2356.0	2432.5	2933.5	2289.5	2358.0	2432.5

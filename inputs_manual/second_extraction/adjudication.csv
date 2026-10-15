@@ -1,0 +1,18 @@
+item,cohort,case,finding,first,second,recommendation,reason,decision
+1,aogs2026,14,thick blood vessels,HP:0002597 Abnormality of the vasculature,HP:0025015 Abnormal vascular morphology,second,more specific and still equal or more general,second
+2,aogs2026,16,Agenesis of cavum septum pellucidum,HP:0001331 Absent septum pellucidum,HP:4000138 Absent cavum septum pellucidum,second,exact prenatal term,second
+3,aogs2026,16,enlarged of the left adrenal gland,HP:0011732 Abnormal adrenal morphology,HP:0008221 Adrenal hyperplasia,first,enlargement on ultrasound is not proof of hyperplasia,first
+4,aogs2026,17,Spina bifida meningocele,HP:0002414 Spina bifida,HP:0002435 Meningocele,both terms,the finding states both,both terms
+5,graham2026,18,(gene),GLI2;PIEZO1,PIEZO1,check source,Table S1 family 18,"first (source: PIEZO1 partially explains, additional de novo LP GLI2 variant; both genes kept)"
+6,smogavec2022,13,abnormal hand position,HP:0001155 Abnormality of the hand,HP:0005922 Abnormal hand morphology,second,more specific,second
+7,smogavec2022,14,enlarged kidneys,HP:0000105 Enlarged kidney,(not coded),check source,second extraction has no enlarged kidney for this case,"first (source: ""Multicystic, dysplastic enlarged kidneys"")"
+8,smogavec2022,16,Thanatophoric dysplasia,HP:0002652 Skeletal dysplasia,HP:0005716 Lethal skeletal dysplasia,second,more specific,second
+9,smogavec2022,25,Suspected brain vessel malformations,HP:0100659 Abnormal cerebral vascular morphology,(not coded),second,finding reported as suspected,"first (suspected findings kept as reported; dropping them would remove case 25, whose only findings are suspected)"
+10,smogavec2022,28,bowed rips,HP:0000772 Abnormal rib morphology,(not coded),first,finding present in source,first
+11,smogavec2022,31,contraction of distal muscles of the hands,HP:0001155 Abnormality of the hand,HP:0009473 Joint contracture of the hand,second,more specific,second
+12,smogavec2022,4,Left-sided diaphragmatic hernia,HP:0000776 Congenital diaphragmatic hernia,HP:0009112 Aplasia of the left hemidiaphragm,first,hernia is not aplasia of the hemidiaphragm,first
+13,smogavec2022,5,multiple fractures,HP:0002757 Recurrent fractures,HP:0005855 Multiple prenatal fractures,second,exact prenatal term,second
+14,smogavec2022,5,Shortened limbs,HP:0009815 Aplasia/hypoplasia of the extremities,HP:0009826 Limb undergrowth,second,exact meaning,second
+15,fu2022,label,Abnormal posturing of hand,HP:0005922 Abnormal hand morphology,HP:0002533 Abnormal posturing,first,fixed fetal hand position is a morphology finding,first
+16,fu2022,label,Bilateral choroid plexus cyst(s),HP:0011426 Fetal choroid plexus cysts,HP:0002190 Choroid plexus cyst,first,the fetal soft-marker term,first
+17,fu2022,label,Left ventricular pseudoaneurysm,HP:6000144 Left ventricular aneurysm,HP:0001711 Abnormal left ventricle morphology,second,a pseudoaneurysm is not a true aneurysm (equal or more general rule),second

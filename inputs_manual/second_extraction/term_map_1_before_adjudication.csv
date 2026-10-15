@@ -1,0 +1,24 @@
+finding,hpo_id,hpo_name,rule,source
+Long bone bowing,HP:0006487,Bowing of the long bones,synonym wording,Fu 2022 Table S3
+Right renal agenesis,HP:0000122,Unilateral renal agenesis,equal,Fu 2022 Table S3
+Cerebral dysplasia,HP:0002060,Abnormal cerebral morphology,more general,Fu 2022 Table S3
+Left renal duplication,HP:0000075,Renal duplication,more general (side dropped),Fu 2022 Table S3
+Oligohydramnion,HP:0001562,Oligohydramnios,spelling,Fu 2022 Table S3
+Abdominal cystic mass,HP:4000139,Fetal abdominal cyst,equal,Fu 2022 Table S3
+Aplasia of the cerebellar vermis,HP:0002335,Agenesis of cerebellar vermis,equal,Fu 2022 Table S3
+Abnormal posturing of hand,HP:0005922,Abnormal hand morphology,more general,Fu 2022 Table S3
+Bilateral choroid plexus cysts,HP:0011426,Fetal choroid plexus cysts,equal,Fu 2022 Table S3
+Bilateral choroid plexus cyst,HP:0011426,Fetal choroid plexus cysts,equal,Fu 2022 Table S3
+Extension contractures of knees,HP:0034672,Knee extension contracture,equal,Fu 2022 Table S3
+Contractures of elbows,HP:0034391,Elbow contracture,equal,Fu 2022 Table S3
+femur bowing,HP:0002980,Femoral bowing,equal,Fu 2022 Table S3
+Aplasia of the corpus callosum,HP:0001274,Agenesis of corpus callosum,equal,Fu 2022 Table S3
+Abnormality of the index finger,HP:0004100,Abnormal 2nd finger morphology,equal,Fu 2022 Table S3
+Abnormality of the middle and the distal phalanx of the 3rd finger,HP:0009316,Abnormal 3rd finger phalanx morphology,more general,Fu 2022 Table S3
+Gastrectasia,HP:0002577,Abnormal stomach morphology,more general,Fu 2022 Table S3
+Hypoplastic left heart,HP:0004383,Hypoplastic left ventricle,equal,Fu 2022 Table S3
+Cardiac enlargement,HP:0001640,Cardiomegaly,equal,Fu 2022 Table S3
+Ventriclular septal defect,HP:0001629,Ventricular septal defect,spelling,Fu 2022 Table S3
+Left ventricular pseudoaneurysm,HP:6000144,Left ventricular aneurysm,nearest,Fu 2022 Table S3
+Agenesis of nasal bones,HP:0010941,Aplasia of the nasal bone,equal,Fu 2022 Table S3
+Left renal dysplasia,HP:0008718,Unilateral renal dysplasia,equal,Fu 2022 Table S3
