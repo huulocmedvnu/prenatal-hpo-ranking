@@ -1,6 +1,9 @@
 inputs/
-work/
+outputs/
 figures/
+work/
+executed.ipynb
+.venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/

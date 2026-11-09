@@ -4,6 +4,7 @@ inputs_manual/term_map.csv. Writes outputs/cases.tsv (one row per fetus and find
 import os, re
 import pandas as pd, docx
 from hpo import load_obo, label_index
+from genes import symbol_from_source
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IN, OUT = os.path.join(ROOT, "inputs"), os.path.join(ROOT, "outputs")
@@ -46,11 +47,14 @@ if __name__ == "__main__":
                              inheritance=d.Inheritance.iloc[0], finding=f, hpo_id=hid))
     C = pd.DataFrame(rows)
     E = pd.read_csv(os.path.join(ROOT, "inputs_manual", "external_cases.csv"))
-    E = E.rename(columns={"genes": "genes"}).assign(section="", case=E.case.astype(str))
+    E = E.assign(section="", case=E.case.astype(str))
     C = pd.concat([C, E[["cohort", "case", "section", "genes", "inheritance", "finding", "hpo_id"]]], ignore_index=True)
+    # source symbols are kept, genes are renamed to their current HGNC approved symbols (scripts/genes.py)
+    C["source_genes"] = C.genes
+    C["genes"] = C.genes.map(lambda x: ";".join(symbol_from_source(g) for g in x.split(";")))
     C.to_csv(os.path.join(OUT, "cases.tsv"), sep="\t", index=False)
     U = pd.DataFrame(un)
     (U.groupby("finding").size().rename("n").reset_index() if len(U) else pd.DataFrame(columns=["finding", "n"])).to_csv(
         os.path.join(OUT, "unmatched_terms.tsv"), sep="\t", index=False)
-    print(C.groupby("cohort").case.nunique().to_dict(), "fetuses", C.case.nunique(), "findings", len(C), "matched", int(C.hpo_id.notna().sum()), "genes", T.gene.nunique())
+    print(C.groupby("cohort").case.nunique().to_dict(), "fetuses", len(C.drop_duplicates(["cohort", "case"])), "findings", len(C), "matched", int(C.hpo_id.notna().sum()), "genes", T.gene.nunique())
     print(C.section.value_counts().to_string()); print(U.finding.value_counts().to_string() if len(U) else "all matched")

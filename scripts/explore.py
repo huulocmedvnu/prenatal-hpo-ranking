@@ -1,4 +1,9 @@
-"""Exploratory analyses X1 to X4 (PLAN amendment). Writes outputs/explore.json and outputs/explore_x3.tsv."""
+"""Exploratory analyses X1 to X4 (PLAN.md, amendment 2026-10-14, post hoc), primary cohort.
+X1 dilution: rank with all findings against structural findings only, in fetuses with both prenatal-branch and
+structural findings. X2 vocabulary against annotation: findings coded with terms created after 2020, and gene
+annotation of prenatal-branch terms. X3 supplementation of the causal gene with the findings of the other fetuses
+diagnosed with the same gene (leave one fetus out). X4 maximum instead of mean of the best matches.
+Writes outputs/explore.json and outputs/explore_x3.tsv."""
 import os, json
 import numpy as np, pandas as pd
 from scipy.stats import wilcoxon, binomtest
@@ -15,6 +20,7 @@ def mcnemar(a, b):
 
 
 def scores_metric(k, query, metric):
+    """Score of every annotated gene: mean ('mean') or maximum ('max') over query terms of the best Resnik match."""
     genes = list(k.gene_terms); pa = k.anc_desc_pa()
     qa = [k.anc[q] & pa for q in query if q in k.anc]
     M = np.zeros((len(qa), len(genes)))
@@ -24,17 +30,6 @@ def scores_metric(k, query, metric):
             M[i, j] = next((v for v, t in ics if t in k.gene_terms[g]), 0.0)
     if metric == "max":
         s = M.max(axis=0)
-    elif metric == "symmetric":
-        rev = np.zeros(len(genes))
-        for j, g in enumerate(genes):
-            gt = k.gene_terms[g]
-            leaves = [t for t in gt if not any((t in k.anc[u]) and u != t for u in gt)][:200]
-            vals = []
-            for t in leaves:
-                best = max((max((k.ic.get(x, 0.0) for x in (k.anc[t] & k.anc[q] & pa)), default=0.0) for q in query if q in k.anc), default=0.0)
-                vals.append(best)
-            rev[j] = np.mean(vals) if vals else 0.0
-        s = (M.mean(axis=0) + rev) / 2
     else:
         s = M.mean(axis=0)
     return pd.Series(s, index=genes)
@@ -62,12 +57,11 @@ if __name__ == "__main__":
                      worse_with_prenatal=int((X1["all"] > X1.structural).sum()), better_with_prenatal=int((X1["all"] < X1.structural).sum()),
                      wilcoxon_p=float(wilcoxon(np.log10(X1["all"]), np.log10(X1.structural)).pvalue),
                      mcnemar=mcnemar(X1.structural <= 10, X1["all"] <= 10))
-    print(json.dumps(out, default=str)[-600:], flush=True)
     # X2 vocabulary against annotation
     allq = [q for _, qs in cases.values() for q in qs]
     new_terms = [q for q in allq if q not in t20 or t20[q].get("obsolete")]
-    direct = pd.read_csv(os.path.join(ROOT, "inputs", "hpo2026", "genes_to_phenotype.txt"), sep="\t", usecols=["gene_symbol", "hpo_id"])
-    dcount = direct.groupby("hpo_id").gene_symbol.nunique()
+    direct = pd.read_csv(os.path.join(ROOT, "inputs", "hpo2026", "genes_to_phenotype.txt"), sep="\t", usecols=["ncbi_gene_id", "hpo_id"])
+    dcount = direct.groupby("hpo_id").ncbi_gene_id.nunique()
     closed = pd.Series([t for s in k26.gene_terms.values() for t in s]).value_counts()
     pa = k26.anc_desc_pa()
     br = pd.DataFrame({"term": sorted(pa)}); br["prenatal"] = br.term.map(is_pre) & (br.term != PRENATAL)
@@ -78,7 +72,6 @@ if __name__ == "__main__":
                      other_terms_with_no_gene=int(((br.closed == 0) & ~br.prenatal).sum()),
                      median_genes_closed_prenatal=float(br.closed[br.prenatal].median()), median_genes_closed_other=float(br.closed[~br.prenatal].median()),
                      mean_genes_direct_prenatal=round(float(br.direct[br.prenatal].mean()), 2), mean_genes_direct_other=round(float(br.direct[~br.prenatal].mean()), 2))
-    print(json.dumps(out, default=str)[-600:], flush=True)
     # X3 rescue, leave one fetus out
     by_gene = {}
     for c, (genes, qs) in cases.items():
@@ -99,7 +92,6 @@ if __name__ == "__main__":
     out["x3"] = dict(fetuses=len(X3), genes=int(X3.gene.nunique()), median_before=float(X3.before.median()), median_after=float(X3.after.median()),
                      top10_before=int((X3.before <= 10).sum()), top10_after=int((X3.after <= 10).sum()),
                      wilcoxon_p=float(wilcoxon(np.log10(X3.before), np.log10(X3.after)).pvalue), mcnemar=mcnemar(X3.before <= 10, X3.after <= 10))
-    print(json.dumps(out, default=str)[-600:], flush=True)
     # X4 metric robustness
     rr = {}
     for m in ["max"]:
@@ -107,7 +99,7 @@ if __name__ == "__main__":
         r26 = np.array([rank_of(scores_metric(k26, q20[c], m), cases[c][0], common) for c in cases])
         rr[m] = dict(top10_2020=round(100 * float((r20 <= 10).mean()), 1), top10_2026=round(100 * float((r26 <= 10).mean()), 1),
                      median_2020=float(np.median(r20)), median_2026=float(np.median(r26)), mcnemar=mcnemar(r20 <= 10, r26 <= 10))
-        print(m, rr[m], flush=True)
     out["x4"] = rr
-    json.dump(out, open(os.path.join(OUT, "explore.json"), "w"), indent=1)
+    with open(os.path.join(OUT, "explore.json"), "w", encoding="utf-8") as f:
+        json.dump(out, f, indent=1)
     print(json.dumps({k: v for k, v in out.items() if k != "x2"}, indent=1)); print({k: v for k, v in out["x2"].items() if k != "new_terms"})

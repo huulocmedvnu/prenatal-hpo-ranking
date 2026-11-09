@@ -3,7 +3,7 @@ External cohorts (first extraction as saved before adjudication, second_extracti
 1. fetus: case present in both, and causal gene set identical;
 2. HPO term, within fetuses present in both: each term of one extraction is identical to a term of the other,
    related (one an ancestor of the other), or unmatched.
-Fu hand-mapped labels (term_map.csv against second_extraction/term_map_2.csv): identical, related or different term.
+Fu hand-mapped labels (term_map.csv against second_extraction/term_map_2.csv): identical, related or unmatched term.
 Writes outputs/agreement.json and outputs/agreement_discrepancies.tsv (the list for clinician adjudication)."""
 import os, re, json
 import pandas as pd
@@ -81,7 +81,8 @@ if __name__ == "__main__":
             disc.append(dict(level=f"fu label ({rel})", cohort="fu2022", finding=r.finding,
                              first=f"{r.hpo_id_first} {name(r.hpo_id_first)}", second=f"{r.hpo_id_second} {name(r.hpo_id_second)}"))
     res["fu2022_labels"] = dict(labels=len(m), **fu)
-    json.dump(res, open(os.path.join(OUT, "agreement.json"), "w"), indent=1)
+    with open(os.path.join(OUT, "agreement.json"), "w", encoding="utf-8") as f:
+        json.dump(res, f, indent=1)
     D = pd.DataFrame(disc)
     D.to_csv(os.path.join(OUT, "agreement_discrepancies.tsv"), sep="\t", index=False)
     print(json.dumps(res, indent=1)); print(D.level.value_counts().to_string() if len(D) else "no discrepancies")

@@ -1,3 +1,5 @@
+<!-- Public copy. Omitted from the private record: the sections 'Decision 2026-10-15: target' and 'Submitted 2026-10-15', and the journal details of the 2026-11-09 entry. The amendments 2026-11-09d and e are given in condensed wording with the same content. -->
+
 # PLAN: prenatal ultrasound phenotypes and HPO-based gene prioritisation
 
 Fixed 2026-10-14, before any ranking was computed. Changes go below as dated amendments.
@@ -16,7 +18,7 @@ diagnoses still lack annotation of the observed fetal findings.
 
 Closest work: Berrylyzer preprint 2026 (Exomiser and others with sequence data, one HPO version, closed data),
 Ardiles-Ruesjas 2026 Prenat Diagn (PMID 41486082, 79 diagnoses, gene linked to any finding, no ranking), commercial
-tools on in-house trios. No study found that ranks all genes from published per-case ultrasound findings and
+AI tools on in-house trios. No study found that ranks all genes from published per-case ultrasound findings and
 compares HPO releases before and after the prenatal expansion.
 
 ## Data
@@ -103,8 +105,8 @@ X4: maximum IC match gave top-10 6.6% (2020) and 6.1% (2026), McNemar p 1.0.
 
 ## Amendment 2026-10-15: second independent extraction (before any comparison)
 
-The external cohorts and the 23 hand-mapped Fu labels were extracted and mapped once. A second,
-independent extraction repeats both from the sources without access to the first files, writing inputs_manual/second_extraction/. A script
+The external cohorts and the 23 hand-mapped Fu labels were extracted and mapped once, by one agent. A second agent
+repeats both from the sources without access to the first files, writing inputs_manual/second_extraction/. A script
 (scripts/agreement.py) reports agreement at three levels: fetus and gene, finding (present in both), and HPO term
 (identical, or one an ancestor of the other). Discrepancies are listed for the clinician (T.H.L.T.) to resolve
 against the source table. The adjudicated file replaces the first extraction and all analyses are rerun. Reported
@@ -114,8 +116,8 @@ in Methods as double extraction with clinician adjudication only after the adjud
 
 Agreement (outputs/agreement.json): all 106 external fetuses found by both extractions, causal genes identical in
 105, HPO terms identical in 94 to 100% per cohort, identical or related in 97 to 100%. Fu hand-mapped labels 19 of 23
-identical. The 17 discrepancies were resolved against the source tables (second_extraction/adjudication.csv, later
-reviewed by the clinician). Rules fixed in the process: findings reported as suspected are kept
+identical. The 17 discrepancies were resolved against the source tables (second_extraction/adjudication.csv, decided
+by the analyst on the clinician's delegation). Rules fixed in the process: findings reported as suspected are kept
 as reported, a finding naming two entities gets both terms, terms follow the "equal or more general" rule (Left
 ventricular pseudoaneurysm becomes Abnormal left ventricle morphology, so one of the post-2020 Fu terms goes).
 Sensitivity analysis: the external comparison is repeated without 12 fetuses whose diagnostic status is uncertain in
@@ -129,7 +131,7 @@ Post-2020 terms among the 513 Fu findings: 3 (Left ventricular pseudoaneurysm no
 External cohorts: top-10 7.5% (2020) and 9.4% (2026), McNemar p 0.50 (before adjudication 5.7% and 7.5%).
 Sensitivity without the 12 uncertain diagnoses: 94 fetuses, 7.4% and 9.6%, McNemar p 0.50.
 
-## Amendment 2026-10-15c: descriptive analyses for the report (before running)
+## Amendment 2026-10-15c: descriptive analyses for the full paper (before running)
 
 Post hoc and descriptive, reported as such. P1: top-1, 5, 10, 20 and 50 shares and median rank (IQR) per release and
 cohort, cumulative rank curves. P2: the 2026 terms under Abnormality of prenatal development or birth (HP:0001197)
@@ -145,8 +147,11 @@ unmapped 2026 terms. No new hypothesis tests.
 The clinician (T.H.L.T.) reviewed the extracted data and the 17 adjudication decisions
 (second_extraction/adjudication.csv) and made no changes.
 
+## Decision 2026-10-15: target
 
-## Amendment 2026-10-15d: robustness analyses (before running, all post hoc)
+[omitted in the public copy]
+
+## Amendment 2026-10-15d: reviewer-style analyses (before running, all post hoc)
 
 R1 prenatal re-coding: findings whose term has a fetal counterpart of the same meaning in the 2026 prenatal branch
 (inputs_manual/prenatal_recoding.csv, 11 pairs, e.g. Microcephaly to Decreased fetal head circumference) are
@@ -188,4 +193,100 @@ carried that term in 2026 against 31 in 2020. Verified in the raw annotation fil
 
 ## Note 2026-10-15: co-author role
 
-N.H.T.T. checked the mapping of the ultrasound findings to HPO terms (stated by T.H.L.T.).
+N.H.T.T. checked the mapping of the ultrasound findings to HPO terms and reviewed the manuscript (stated by T.H.L.T.).
+
+## Submitted 2026-10-15
+
+[omitted in the public copy]
+
+## Revision 2026-11-09
+
+[journal details omitted in the public copy] In the headings of 2026-11-09a to c, R1 means the first reviewer, not the robustness analysis R1.
+
+## Amendment 2026-11-09a: gene symbol harmonisation (R1 minor 3, before rerunning)
+
+Genes were matched between the source tables and the two releases by symbol, so a gene renamed between sources and
+releases dropped out of the common gene set and its fetus received the last rank. From now on every gene is named by
+its current HGNC approved symbol: annotation rows through their NCBI Gene ID, source symbols through HGNC approved,
+then unique previous, then unique alias symbols (scripts/genes.py, HGNC complete set 2026-09-04). The source symbol is
+kept in outputs/cases.tsv (source_genes). scripts/gene_audit.py reports the causal genes absent from each release
+before and after harmonisation. All analyses are rerun with the harmonised identifiers and the earlier numbers are
+replaced.
+
+Result 2026-11-09: 185 causal genes, 182 approved symbols in the sources, 3 previous symbols (ARSE -> ARSL,
+GBA -> GBA1, WDR60 -> DYNC2I1). Common gene set 4,354 -> 4,420. Causal genes absent from the common set 6 -> 3
+(one fetus each): ARSE, WDR60 and GBA were naming artefacts (GBA was GBA in 2020 and GBA1 in 2026). EXOC3L2 and
+ZMYM2 have no annotation in 2020 and ZFHX4 none in 2026 (true absences). The three fetuses with renamed genes moved
+from rank 4,354 to 11.5/14.5 (ARSL), 4/4.5 (DYNC2I1) and 8/27.5 (GBA1) in 2020/2026. Primary top 10: 32 (14.0%)
+with 2020 and 33 (14.4%) with 2026, 6 gained and 5 lost, McNemar P = 1.00 (previously 30 and 33, P = 0.51).
+Lower with 2026 in 168 fetuses, higher in 56, Wilcoxon P = 1.6e-4. Further cohorts unchanged (8 and 10 of 106).
+Candidate pairs 389 -> 382 (138 genes). Supplementation results unchanged in the top 10 (26 -> 35 causal gene only,
+26 -> 31 all recurrent genes).
+
+## Amendment 2026-11-09b: paired differences with confidence intervals (R1 major 3, before computing)
+
+For every paired top-k comparison (k = 1, 5, 10, 20, 50 for the release comparison in the primary cohort, the further
+cohorts and the further cohorts without the 12 uncertain diagnoses, and top 10 for the sensitivity and
+supplementation analyses), the difference is reported as second minus first in percentage points with the Tango
+score 95% confidence interval (scripts/paired_ci.py, checked against R PropCIs::scoreci.mp). McNemar exact P values
+are kept. Figure 4 shows three curves: 2026 annotations, all recurrent genes supplemented (competitive) and the
+causal gene only supplemented (noncompetitive upper bound).
+
+Result 2026-11-09 (outputs/paired_ci.tsv): primary top 10 +0.4 points (95% CI -2.8 to 3.7). Causal gene only
++6.9 (3.7 to 12.5), all recurrent genes +3.8 (-1.3 to 9.7), further cohorts from primary-cohort findings +9.8
+(2.1 to 21.0).
+
+## Amendment 2026-11-09c: annotation by clinical group, fetal term linkage, cohort without MRI (R1 major 1 and minor 4, before running)
+
+(1) The 266 terms of the prenatal branch are split into Fetal anomaly and the other sub-branches (placenta and cord,
+amniotic fluid, delivery, APGAR score, gestational age at birth, embryonic development), with the number of terms
+without gene annotation in each. (2) A Fetal anomaly term is linked when at least one ancestor lies under Phenotypic
+abnormality outside the prenatal branch. The number of unlinked terms, their annotation, and the coded findings that
+use them are reported (scripts/revision_annotation.py, outputs/fetal_term_linkage.tsv). (3) The release comparison in
+the further cohorts is repeated without the Yao cohort, whose findings combine neurosonography and fetal MRI.
+
+Result 2026-11-09: Fetal anomaly 128 terms, 68 without gene annotation (93 created after 2020, 60 of them without
+annotation). Other sub-branches 138 terms, 74 without annotation. Of the 128 Fetal anomaly terms, 57 have no
+organ-system ancestor (33 of them without gene annotation), including all 13 under Fetal head anomaly and Fetal
+pleural effusion. 12 coded findings in 11 fetuses used unlinked terms. Further cohorts without Yao (n = 70): top 10
+5 and 7, +2.9 points (95% CI -2.5 to 9.8), P = 0.50.
+
+## Amendments 2026-11-09d and e: implementation details (before rerunning)
+
+(1) Loci without an approved HGNC record (imprinting control and locus control regions such as H19-ICR and HBB-LCR)
+are not genes and are left out of both releases. scripts/gene_audit.py lists them. (2) In the permutation control
+(R5b), each draw takes exactly as many distinct terms as the observed supplementation, from the distinct finding terms
+of primary-cohort fetuses with another causal gene, weighted by their frequency. (3) The two secondary outcomes stated
+in Outcomes are reported: the share of fetuses whose causal gene has no annotated term in the organ system of a
+finding (2026, computed for each organ system of a finding) and the top-10 counts by mode of inheritance. (4) The
+matrix scorer is checked against rank.py for every fetus and both releases. (5) R5c supplements the annotations of all
+genes of the primary cohort, as specified in amendment 2026-10-15d, and is labelled accordingly. (6) scripts/download.sh
+falls back to the archived inputs when a source cannot be downloaded or unpacked.
+
+## Note 2026-11-09: file names and use of an AI assistant
+
+Files renamed for clarity: review_analyses.py to robustness.py, review_r6.py to robustness_r6.py, revision_ci.py to
+paired_differences.py, revision_annotation.py to annotation_groups.py, and the outputs review*.json/tsv to
+robustness*.json/tsv and review_fetus_ranks.tsv to fetus_ranks.tsv. The key "external" of rank_summary.json is now
+"further". Earlier entries keep the old names. The "agent" of amendment 2026-10-15 and the "analyst" of amendment
+2026-10-15b are sessions of Claude Opus 5.5 (Anthropic), a generative AI assistant, which also wrote the analysis
+code. The robustness analyses R1 to R7 were called reviewer-style analyses in amendment 2026-10-15d.
+
+## Result note 2026-11-09 (final, after amendments 2026-11-09a to e)
+
+All analyses were rerun with the final code. These numbers supersede every earlier result note, and the committed
+result files are authoritative. Genes annotated under Phenotypic abnormality: 4,474 (2020) and 5,268 (2026), 4,420 in
+both. Loci without an HGNC record left out: 5 (2020) and 7 (2026). Causal genes absent from the common set: EXOC3L2 and
+ZMYM2 (no annotation in 2020) and ZFHX4 (none in 2026). Primary top 10: 32 (14.0%) with 2020 and 33 (14.4%) with
+2026, +0.4 points (95% CI -2.8 to 3.7), McNemar P = 1.00. Lower with 2026 in 168 fetuses and higher in 56. R5b:
+random findings gave a mean of 28.9 in the top 10 against 35 observed, permutation P = 0.003. R5c: 26 -> 31, +3.8
+points (95% CI -1.3 to 9.7), P = 0.23. By inheritance (2020 -> 2026): autosomal dominant 26 -> 25 of 172, autosomal
+recessive 5 -> 5 of 40, X-linked 1 -> 3 of 17. By organ system (2026), fetuses whose causal gene carries no term of
+the system of a finding: Abnormality of prenatal development or birth 17 of 52, Abnormality of metabolism/homeostasis
+8 of 28, and at most 1 in each other system.
+
+## Amendment 2026-11-09f: candidate annotations (before running)
+
+The candidate gene and finding pairs (P4, Table S1) record, for each pair, the number of supporting fetuses whose
+diagnosis was uncertain in the source (as defined in amendment 2026-10-15b), and the supporting cases are given as
+cohort:case.

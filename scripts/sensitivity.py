@@ -1,4 +1,4 @@
-"""Sensitivity analysis (PLAN.md, amendment 2026-10-15b): external cohorts without the 12 fetuses whose
+"""Sensitivity analysis (PLAN.md, amendment 2026-10-15b): further cohorts without the 12 fetuses whose
 diagnostic status is uncertain in the source. Reads outputs/ranks.tsv, writes outputs/sensitivity.json."""
 import os, json
 import pandas as pd
@@ -16,5 +16,6 @@ if __name__ == "__main__":
     out = dict(excluded=len(E) - len(keep), fetuses=len(keep), top10_2020=int(t20.sum()), top10_2026=int(t26.sum()),
                pct_2020=round(100 * t20.mean(), 1), pct_2026=round(100 * t26.mean(), 1),
                mcnemar=dict(gained=g, lost=l, p=float(binomtest(g, g + l).pvalue) if g + l else 1.0))
-    json.dump(out, open(os.path.join(ROOT, "outputs", "sensitivity.json"), "w"), indent=1)
+    with open(os.path.join(ROOT, "outputs", "sensitivity.json"), "w", encoding="utf-8") as f:
+        json.dump(out, f, indent=1)
     print(out)

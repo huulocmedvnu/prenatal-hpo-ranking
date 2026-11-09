@@ -4,8 +4,9 @@ import re
 
 def load_obo(path):
     terms, cur = {}, None
-    for line in open(path):
-        line = line.rstrip("\n")
+    with open(path, encoding="utf-8") as f:
+        lines = [line.rstrip("\n") for line in f]
+    for line in lines:
         if line == "[Term]":
             cur = {"parents": [], "syn": [], "alt": [], "obsolete": False}
         elif line.startswith("[") and line != "[Term]":
@@ -48,13 +49,13 @@ def ancestors_map(terms):
 
 
 def label_index(terms):
+    """Lower-case label to term ID over active terms. Primary names take precedence over synonyms, and the first term
+    in file order wins when two terms share a synonym."""
     idx = {}
-    for t, d in terms.items():
-        if d.get("obsolete"):
-            continue
-        for s in [d.get("name", "")] + d["syn"]:
+    active = [(t, d) for t, d in terms.items() if not d.get("obsolete")]
+    for t, d in active:
+        idx.setdefault(d.get("name", "").strip().lower(), t)
+    for t, d in active:
+        for s in d["syn"]:
             idx.setdefault(s.strip().lower(), t)
-    for t, d in terms.items():
-        if not d.get("obsolete"):
-            idx.setdefault(d.get("name", "").strip().lower(), t)
     return idx

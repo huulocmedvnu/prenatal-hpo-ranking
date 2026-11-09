@@ -5,6 +5,7 @@ Writes outputs/paper.json, outputs/prenatal_branch_terms.tsv, outputs/candidate_
 import os, json
 import numpy as np, pandas as pd
 from rank import KB
+from sensitivity import UNCERTAIN
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "outputs")
@@ -75,21 +76,26 @@ if __name__ == "__main__":
                 desc = any(t in k26.anc[x] for x in gt)
                 if not desc:
                     rows.append(dict(gene=g, term=t, name=t26[t]["name"], cohort=coh, case=case,
-                                     gene_in_hpo_2026=g in k26.gene_terms))
+                                     gene_in_hpo_2026=g in k26.gene_terms,
+                                     uncertain=case in UNCERTAIN.get(coh, set())))
     P = pd.DataFrame(rows)
     T = (P.groupby(["gene", "term", "name", "gene_in_hpo_2026"])
-         .agg(fetuses=("case", "size"), cohorts=("cohort", lambda s: ";".join(sorted(set(s)))),
-              cases=("case", lambda s: ";".join(map(str, s))))
+         .agg(fetuses=("case", "size"), fetuses_uncertain_diagnosis=("uncertain", "sum"),
+              cohorts=("cohort", lambda s: ";".join(sorted(set(s)))))
+         .join(P.assign(id=P.cohort + ":" + P.case.astype(str)).groupby(["gene", "term", "name", "gene_in_hpo_2026"]).id
+               .agg(lambda s: ";".join(s)).rename("cases"))
          .reset_index().sort_values(["fetuses", "gene"], ascending=[False, True]))
     T.to_csv(os.path.join(OUT, "candidate_annotations.tsv"), sep="\t", index=False)
     out["p4"] = dict(pairs=len(T), genes=int(T.gene.nunique()), pairs_two_or_more=int((T.fetuses >= 2).sum()),
+                     pairs_only_uncertain=int((T.fetuses == T.fetuses_uncertain_diagnosis).sum()),
                      genes_absent_from_hpo=int(T[~T.gene_in_hpo_2026].gene.nunique()))
     # P5 use of post-2020 terms per cohort (amendment 2026-10-15c, descriptive)
     C["new"] = C.hpo_id.map(lambda q: q not in k20.terms or bool(k20.terms[q].get("obsolete")))
-    S = json.load(open(os.path.join(OUT, "rank_summary.json")))
+    S = json.loads(open(os.path.join(OUT, "rank_summary.json"), encoding="utf-8").read())
     out["p5"] = {coh: dict(findings=int(len(d)), findings_new=int(d.new.sum()), fetuses_new=int(d[d.new].case.nunique()))
                  for coh, d in C.groupby("cohort")}
-    out["p5"]["further_fullterms_top10"] = S["external"]["top10_2026_fullterms"]
-    out["p5"]["further_fullterms_median"] = S["external"]["median_rank_2026_fullterms"]
-    json.dump(out, open(os.path.join(OUT, "paper.json"), "w"), indent=1)
+    out["p5"]["further_fullterms_top10"] = S["further"]["top10_2026_fullterms"]
+    out["p5"]["further_fullterms_median"] = S["further"]["median_rank_2026_fullterms"]
+    with open(os.path.join(OUT, "paper.json"), "w", encoding="utf-8") as f:
+        json.dump(out, f, indent=1)
     print(json.dumps(out, indent=1)[:5000])

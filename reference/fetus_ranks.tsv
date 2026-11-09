@@ -1,0 +1,772 @@
+analysis	cohort	case	first	second	gene
+score_symmetric	fu2022	1	220.0	266.0	
+score_symmetric	fu2022	2	141.0	170.0	
+score_symmetric	fu2022	3	492.0	681.0	
+score_symmetric	fu2022	4	43.0	52.0	
+score_symmetric	fu2022	5	88.0	148.0	
+score_symmetric	fu2022	6	70.0	35.0	
+score_symmetric	fu2022	7	362.0	592.0	
+score_symmetric	fu2022	8 #	486.0	603.0	
+score_symmetric	fu2022	9	65.0	31.0	
+score_symmetric	fu2022	10	424.0	541.0	
+score_symmetric	fu2022	11	782.0	945.0	
+score_symmetric	fu2022	12	92.0	74.0	
+score_symmetric	fu2022	13	210.0	286.0	
+score_symmetric	fu2022	14	44.0	18.0	
+score_symmetric	fu2022	15	171.0	173.0	
+score_symmetric	fu2022	16	1.0	2.0	
+score_symmetric	fu2022	17	43.0	18.0	
+score_symmetric	fu2022	18	584.0	2934.0	
+score_symmetric	fu2022	19	346.0	397.0	
+score_symmetric	fu2022	20	407.0	393.0	
+score_symmetric	fu2022	21	1585.0	508.0	
+score_symmetric	fu2022	22	258.0	253.0	
+score_symmetric	fu2022	23	4.0	5.0	
+score_symmetric	fu2022	24	462.0	246.0	
+score_symmetric	fu2022	25	121.0	157.0	
+score_symmetric	fu2022	26	199.0	213.0	
+score_symmetric	fu2022	27	619.0	361.0	
+score_symmetric	fu2022	28	166.0	220.0	
+score_symmetric	fu2022	29	26.0	265.0	
+score_symmetric	fu2022	30	29.0	22.0	
+score_symmetric	fu2022	31	4420.0	4420.0	
+score_symmetric	fu2022	32	463.0	523.0	
+score_symmetric	fu2022	33	6.0	9.0	
+score_symmetric	fu2022	34	160.0	159.0	
+score_symmetric	fu2022	35	200.5	205.5	
+score_symmetric	fu2022	36	15.0	7.0	
+score_symmetric	fu2022	37	15.0	7.0	
+score_symmetric	fu2022	38	25.0	17.0	
+score_symmetric	fu2022	39	495.0	217.0	
+score_symmetric	fu2022	40	16.0	15.0	
+score_symmetric	fu2022	41	829.0	938.0	
+score_symmetric	fu2022	42	378.0	79.0	
+score_symmetric	fu2022	43	252.0	186.0	
+score_symmetric	fu2022	44	77.0	12.0	
+score_symmetric	fu2022	45	78.0	128.0	
+score_symmetric	fu2022	46	1465.0	1513.0	
+score_symmetric	fu2022	47	116.0	115.0	
+score_symmetric	fu2022	48	160.0	192.0	
+score_symmetric	fu2022	49	586.0	81.0	
+score_symmetric	fu2022	50	131.0	254.0	
+score_symmetric	fu2022	51	221.0	249.0	
+score_symmetric	fu2022	52	1437.0	296.0	
+score_symmetric	fu2022	53	41.0	68.0	
+score_symmetric	fu2022	54	621.0	404.0	
+score_symmetric	fu2022	55	67.0	77.0	
+score_symmetric	fu2022	56	85.0	121.0	
+score_symmetric	fu2022	57	71.0	105.0	
+score_symmetric	fu2022	58	106.0	106.0	
+score_symmetric	fu2022	59	262.0	76.0	
+score_symmetric	fu2022	60	39.0	17.0	
+score_symmetric	fu2022	61	266.0	13.0	
+score_symmetric	fu2022	62	14.5	17.5	
+score_symmetric	fu2022	63	3.0	4.0	
+score_symmetric	fu2022	64	3.0	4.0	
+score_symmetric	fu2022	65 #	312.5	425.0	
+score_symmetric	fu2022	66	3.0	4.0	
+score_symmetric	fu2022	67	261.0	85.0	
+score_symmetric	fu2022	68	3.0	4.0	
+score_symmetric	fu2022	69	3.0	5.0	
+score_symmetric	fu2022	70	121.0	161.0	
+score_symmetric	fu2022	71	304.5	5.0	
+score_symmetric	fu2022	72	3.0	4.0	
+score_symmetric	fu2022	73	35.0	63.0	
+score_symmetric	fu2022	74	31.0	53.0	
+score_symmetric	fu2022	75	657.0	825.0	
+score_symmetric	fu2022	76	63.0	102.0	
+score_symmetric	fu2022	77	106.0	106.0	
+score_symmetric	fu2022	78	3.0	4.0	
+score_symmetric	fu2022	79	126.0	133.0	
+score_symmetric	fu2022	80	14.0	26.0	
+score_symmetric	fu2022	81	28.0	11.0	
+score_symmetric	fu2022	82	19.0	14.0	
+score_symmetric	fu2022	83 #	328.0	312.0	
+score_symmetric	fu2022	84	48.0	43.0	
+score_symmetric	fu2022	85	13.0	95.0	
+score_symmetric	fu2022	86	19.0	35.0	
+score_symmetric	fu2022	87	40.0	26.0	
+score_symmetric	fu2022	88	146.0	176.0	
+score_symmetric	fu2022	89	27.0	52.5	
+score_symmetric	fu2022	90	1.0	1.0	
+score_symmetric	fu2022	91	18.0	22.0	
+score_symmetric	fu2022	92	271.0	316.0	
+score_symmetric	fu2022	93	18.0	22.0	
+score_symmetric	fu2022	94	36.0	49.0	
+score_symmetric	fu2022	95	4.0	2.0	
+score_symmetric	fu2022	96	25.0	5.0	
+score_symmetric	fu2022	97	12.0	4.0	
+score_symmetric	fu2022	98	19.0	18.0	
+score_symmetric	fu2022	99	5.0	7.0	
+score_symmetric	fu2022	100	1.0	5.0	
+score_symmetric	fu2022	101	45.0	45.0	
+score_symmetric	fu2022	102	14.0	25.0	
+score_symmetric	fu2022	103	4.0	4.0	
+score_symmetric	fu2022	104	10.0	8.0	
+score_symmetric	fu2022	105	26.0	23.0	
+score_symmetric	fu2022	106	61.0	103.0	
+score_symmetric	fu2022	107	542.0	245.0	
+score_symmetric	fu2022	108	202.0	273.0	
+score_symmetric	fu2022	109	29.0	35.0	
+score_symmetric	fu2022	110	251.0	274.0	
+score_symmetric	fu2022	111	61.0	103.0	
+score_symmetric	fu2022	112	20.0	32.0	
+score_symmetric	fu2022	113	134.0	150.0	
+score_symmetric	fu2022	114	142.0	177.0	
+score_symmetric	fu2022	115	137.0	181.0	
+score_symmetric	fu2022	116	178.0	241.0	
+score_symmetric	fu2022	117	355.0	397.0	
+score_symmetric	fu2022	118	3.0	6.0	
+score_symmetric	fu2022	119	1011.0	576.0	
+score_symmetric	fu2022	120	2599.0	608.0	
+score_symmetric	fu2022	121	30.0	41.0	
+score_symmetric	fu2022	122	86.0	70.0	
+score_symmetric	fu2022	123	75.0	79.0	
+score_symmetric	fu2022	124	19.0	23.0	
+score_symmetric	fu2022	125	94.0	122.0	
+score_symmetric	fu2022	126	473.0	1512.0	
+score_symmetric	fu2022	127	3.0	5.0	
+score_symmetric	fu2022	128	20.0	32.0	
+score_symmetric	fu2022	129	61.0	103.0	
+score_symmetric	fu2022	130	67.0	62.0	
+score_symmetric	fu2022	131	7.0	11.0	
+score_symmetric	fu2022	132	47.0	23.0	
+score_symmetric	fu2022	133	3.0	26.0	
+score_symmetric	fu2022	134	121.0	130.0	
+score_symmetric	fu2022	135	10.0	10.0	
+score_symmetric	fu2022	136	20.0	32.0	
+score_symmetric	fu2022	137	71.0	78.0	
+score_symmetric	fu2022	138	67.0	62.0	
+score_symmetric	fu2022	139	67.0	62.0	
+score_symmetric	fu2022	140	41.0	73.0	
+score_symmetric	fu2022	141	29.0	46.0	
+score_symmetric	fu2022	142	68.0	88.0	
+score_symmetric	fu2022	143	167.0	55.0	
+score_symmetric	fu2022	144	75.0	79.0	
+score_symmetric	fu2022	145	43.0	34.0	
+score_symmetric	fu2022	146	7.0	11.0	
+score_symmetric	fu2022	147	4.0	7.0	
+score_symmetric	fu2022	148	1.0	3.0	
+score_symmetric	fu2022	149	18.0	20.0	
+score_symmetric	fu2022	150	239.0	198.0	
+score_symmetric	fu2022	151	287.0	323.0	
+score_symmetric	fu2022	152	98.0	21.0	
+score_symmetric	fu2022	153	3.0	2.0	
+score_symmetric	fu2022	154	1333.0	331.0	
+score_symmetric	fu2022	155	5.0	8.0	
+score_symmetric	fu2022	156	16.0	34.0	
+score_symmetric	fu2022	157	246.0	324.0	
+score_symmetric	fu2022	158	2.0	5.0	
+score_symmetric	fu2022	159	218.0	1846.0	
+score_symmetric	fu2022	160	239.0	198.0	
+score_symmetric	fu2022	161	30.5	36.5	
+score_symmetric	fu2022	162	8.0	3.0	
+score_symmetric	fu2022	163	396.0	402.0	
+score_symmetric	fu2022	164	275.0	358.0	
+score_symmetric	fu2022	165	308.0	96.0	
+score_symmetric	fu2022	166	40.0	69.0	
+score_symmetric	fu2022	167	29.0	675.0	
+score_symmetric	fu2022	168	46.0	18.0	
+score_symmetric	fu2022	169	3444.5	3179.0	
+score_symmetric	fu2022	170	3444.5	3662.0	
+score_symmetric	fu2022	171	200.0	113.0	
+score_symmetric	fu2022	172	2450.0	2686.0	
+score_symmetric	fu2022	173	529.0	92.0	
+score_symmetric	fu2022	174	25.0	22.0	
+score_symmetric	fu2022	175	2.0	3.0	
+score_symmetric	fu2022	176	2.0	3.0	
+score_symmetric	fu2022	177	86.0	108.0	
+score_symmetric	fu2022	178	438.0	64.0	
+score_symmetric	fu2022	179	187.0	1338.0	
+score_symmetric	fu2022	180	1318.0	1623.0	
+score_symmetric	fu2022	181	248.0	9.0	
+score_symmetric	fu2022	182	5.0	6.0	
+score_symmetric	fu2022	183	294.0	401.0	
+score_symmetric	fu2022	184	1.0	2.0	
+score_symmetric	fu2022	185	58.0	29.0	
+score_symmetric	fu2022	186	8.5	68.0	
+score_symmetric	fu2022	187	214.0	90.0	
+score_symmetric	fu2022	188	51.0	64.0	
+score_symmetric	fu2022	189	63.0	140.0	
+score_symmetric	fu2022	190	115.0	50.0	
+score_symmetric	fu2022	191	162.0	102.0	
+score_symmetric	fu2022	192	59.0	26.0	
+score_symmetric	fu2022	193	91.0	110.0	
+score_symmetric	fu2022	194	310.0	148.0	
+score_symmetric	fu2022	195	2.0	3.0	
+score_symmetric	fu2022	196	4.0	7.0	
+score_symmetric	fu2022	197	313.0	191.0	
+score_symmetric	fu2022	198	39.0	72.0	
+score_symmetric	fu2022	199	12.0	18.0	
+score_symmetric	fu2022	200	159.0	161.0	
+score_symmetric	fu2022	201	8.0	22.0	
+score_symmetric	fu2022	202	172.0	105.0	
+score_symmetric	fu2022	203	351.0	273.0	
+score_symmetric	fu2022	204	451.0	340.0	
+score_symmetric	fu2022	205	115.0	141.0	
+score_symmetric	fu2022	206	559.0	39.0	
+score_symmetric	fu2022	207	360.0	37.0	
+score_symmetric	fu2022	208	909.0	813.0	
+score_symmetric	fu2022	209	8.5	68.0	
+score_symmetric	fu2022	210	3.0	3.0	
+score_symmetric	fu2022	211	481.0	451.0	
+score_symmetric	fu2022	212	120.0	120.0	
+score_symmetric	fu2022	213	29.0	69.0	
+score_symmetric	fu2022	214	255.0	2.0	
+score_symmetric	fu2022	215	274.0	43.0	
+score_symmetric	fu2022	216	10.0	49.0	
+score_symmetric	fu2022	217	95.0	131.0	
+score_symmetric	fu2022	218	955.0	1045.0	
+score_symmetric	fu2022	219	585.0	1509.0	
+score_symmetric	fu2022	220	271.0	249.0	
+score_symmetric	fu2022	221	55.0	348.0	
+score_symmetric	fu2022	222	32.0	66.0	
+score_symmetric	fu2022	223	336.0	344.0	
+score_symmetric	fu2022	224	128.0	299.0	
+score_symmetric	fu2022	225	2111.0	1198.0	
+score_symmetric	fu2022	226	6.0	13.0	
+score_symmetric	fu2022	227	228.0	69.0	
+score_symmetric	fu2022	228	136.0	302.0	
+score_symmetric	fu2022	229	2107.5	2353.5	
+score_lin	fu2022	1	180.5	170.0	
+score_lin	fu2022	2	60.0	69.5	
+score_lin	fu2022	3	671.5	574.5	
+score_lin	fu2022	4	80.5	77.0	
+score_lin	fu2022	5	180.5	143.5	
+score_lin	fu2022	6	538.5	553.0	
+score_lin	fu2022	7	1072.0	1358.0	
+score_lin	fu2022	8 #	359.5	340.5	
+score_lin	fu2022	9	60.0	69.5	
+score_lin	fu2022	10	283.0	284.5	
+score_lin	fu2022	11	671.5	574.5	
+score_lin	fu2022	12	87.0	105.5	
+score_lin	fu2022	13	210.5	220.5	
+score_lin	fu2022	14	66.0	21.5	
+score_lin	fu2022	15	210.5	220.5	
+score_lin	fu2022	16	4.5	4.5	
+score_lin	fu2022	17	66.0	73.5	
+score_lin	fu2022	18	629.0	3287.5	
+score_lin	fu2022	19	441.5	342.0	
+score_lin	fu2022	20	210.5	220.5	
+score_lin	fu2022	21	1084.0	388.0	
+score_lin	fu2022	22	142.5	151.0	
+score_lin	fu2022	23	5.5	4.5	
+score_lin	fu2022	24	247.5	142.5	
+score_lin	fu2022	25	66.5	29.0	
+score_lin	fu2022	26	283.0	284.5	
+score_lin	fu2022	27	538.5	553.0	
+score_lin	fu2022	28	142.5	151.0	
+score_lin	fu2022	29	25.5	321.0	
+score_lin	fu2022	30	24.5	36.5	
+score_lin	fu2022	31	4420.0	4420.0	
+score_lin	fu2022	32	655.0	463.0	
+score_lin	fu2022	33	4.5	6.5	
+score_lin	fu2022	34	240.0	246.0	
+score_lin	fu2022	35	375.0	453.5	
+score_lin	fu2022	36	91.0	94.0	
+score_lin	fu2022	37	91.0	94.0	
+score_lin	fu2022	38	154.0	438.5	
+score_lin	fu2022	39	630.0	909.5	
+score_lin	fu2022	40	65.5	73.0	
+score_lin	fu2022	41	1330.0	1123.0	
+score_lin	fu2022	42	375.0	28.0	
+score_lin	fu2022	43	366.5	303.0	
+score_lin	fu2022	44	93.0	11.5	
+score_lin	fu2022	45	266.5	259.0	
+score_lin	fu2022	46	1115.5	632.5	
+score_lin	fu2022	47	191.0	215.5	
+score_lin	fu2022	48	78.5	112.5	
+score_lin	fu2022	49	382.5	15.5	
+score_lin	fu2022	50	136.5	131.0	
+score_lin	fu2022	51	213.0	277.0	
+score_lin	fu2022	52	1259.0	172.0	
+score_lin	fu2022	53	18.0	15.5	
+score_lin	fu2022	54	518.5	126.0	
+score_lin	fu2022	55	51.0	58.0	
+score_lin	fu2022	56	70.5	82.5	
+score_lin	fu2022	57	32.5	36.0	
+score_lin	fu2022	58	56.5	71.5	
+score_lin	fu2022	59	211.5	36.0	
+score_lin	fu2022	60	44.0	18.5	
+score_lin	fu2022	61	477.5	14.0	
+score_lin	fu2022	62	21.5	24.5	
+score_lin	fu2022	63	4.0	3.0	
+score_lin	fu2022	64	4.0	3.0	
+score_lin	fu2022	65 #	301.5	498.5	
+score_lin	fu2022	66	4.0	3.0	
+score_lin	fu2022	67	150.0	74.5	
+score_lin	fu2022	68	4.0	3.0	
+score_lin	fu2022	69	7.0	7.0	
+score_lin	fu2022	70	113.5	188.0	
+score_lin	fu2022	71	503.5	69.0	
+score_lin	fu2022	72	4.0	3.0	
+score_lin	fu2022	73	45.0	60.0	
+score_lin	fu2022	74	36.0	45.0	
+score_lin	fu2022	75	617.0	578.0	
+score_lin	fu2022	76	44.5	48.5	
+score_lin	fu2022	77	56.5	71.5	
+score_lin	fu2022	78	4.0	3.0	
+score_lin	fu2022	79	61.5	82.5	
+score_lin	fu2022	80	18.5	21.0	
+score_lin	fu2022	81	44.5	12.0	
+score_lin	fu2022	82	37.0	79.5	
+score_lin	fu2022	83 #	588.0	398.0	
+score_lin	fu2022	84	34.5	40.5	
+score_lin	fu2022	85	173.5	138.0	
+score_lin	fu2022	86	68.0	23.5	
+score_lin	fu2022	87	37.0	54.5	
+score_lin	fu2022	88	173.5	295.5	
+score_lin	fu2022	89	59.0	142.0	
+score_lin	fu2022	90	43.5	159.0	
+score_lin	fu2022	91	28.0	25.5	
+score_lin	fu2022	92	553.0	269.5	
+score_lin	fu2022	93	28.0	25.5	
+score_lin	fu2022	94	130.0	28.0	
+score_lin	fu2022	95	55.0	48.0	
+score_lin	fu2022	96	28.0	4.0	
+score_lin	fu2022	97	10.5	3.0	
+score_lin	fu2022	98	28.0	25.5	
+score_lin	fu2022	99	4.5	5.0	
+score_lin	fu2022	100	1.0	1.0	
+score_lin	fu2022	101	46.5	2.0	
+score_lin	fu2022	102	41.5	83.0	
+score_lin	fu2022	103	2.5	3.0	
+score_lin	fu2022	104	90.0	141.0	
+score_lin	fu2022	105	144.0	176.5	
+score_lin	fu2022	106	90.0	37.5	
+score_lin	fu2022	107	455.0	78.5	
+score_lin	fu2022	108	229.0	307.5	
+score_lin	fu2022	109	21.0	221.0	
+score_lin	fu2022	110	304.5	154.0	
+score_lin	fu2022	111	90.0	37.5	
+score_lin	fu2022	112	90.0	37.5	
+score_lin	fu2022	113	90.0	37.5	
+score_lin	fu2022	114	109.5	78.0	
+score_lin	fu2022	115	188.0	278.5	
+score_lin	fu2022	116	90.0	37.5	
+score_lin	fu2022	117	398.5	667.5	
+score_lin	fu2022	118	7.0	10.0	
+score_lin	fu2022	119	795.5	330.0	
+score_lin	fu2022	120	2596.0	1105.0	
+score_lin	fu2022	121	35.5	48.0	
+score_lin	fu2022	122	144.0	176.5	
+score_lin	fu2022	123	57.5	69.0	
+score_lin	fu2022	124	19.5	16.0	
+score_lin	fu2022	125	100.0	298.0	
+score_lin	fu2022	126	331.0	1118.5	
+score_lin	fu2022	127	6.0	6.5	
+score_lin	fu2022	128	90.0	37.5	
+score_lin	fu2022	129	90.0	37.5	
+score_lin	fu2022	130	133.5	82.5	
+score_lin	fu2022	131	7.5	8.0	
+score_lin	fu2022	132	28.0	4.5	
+score_lin	fu2022	133	4.5	23.5	
+score_lin	fu2022	134	116.0	182.0	
+score_lin	fu2022	135	8.5	9.0	
+score_lin	fu2022	136	90.0	37.5	
+score_lin	fu2022	137	57.5	229.0	
+score_lin	fu2022	138	133.5	82.5	
+score_lin	fu2022	139	133.5	82.5	
+score_lin	fu2022	140	30.5	10.5	
+score_lin	fu2022	141	54.0	109.0	
+score_lin	fu2022	142	27.5	112.0	
+score_lin	fu2022	143	83.5	48.5	
+score_lin	fu2022	144	57.5	69.0	
+score_lin	fu2022	145	28.5	43.5	
+score_lin	fu2022	146	7.5	7.5	
+score_lin	fu2022	147	1.0	1.0	
+score_lin	fu2022	148	1.5	2.5	
+score_lin	fu2022	149	27.5	21.5	
+score_lin	fu2022	150	264.5	179.5	
+score_lin	fu2022	151	398.5	378.5	
+score_lin	fu2022	152	146.5	438.5	
+score_lin	fu2022	153	11.5	13.0	
+score_lin	fu2022	154	1556.5	295.5	
+score_lin	fu2022	155	3.5	5.5	
+score_lin	fu2022	156	18.5	11.0	
+score_lin	fu2022	157	398.5	454.0	
+score_lin	fu2022	158	4.0	6.5	
+score_lin	fu2022	159	144.0	1650.5	
+score_lin	fu2022	160	264.5	179.5	
+score_lin	fu2022	161	112.0	100.0	
+score_lin	fu2022	162	30.5	53.0	
+score_lin	fu2022	163	240.0	288.5	
+score_lin	fu2022	164	240.0	288.5	
+score_lin	fu2022	165	157.0	129.5	
+score_lin	fu2022	166	45.5	33.5	
+score_lin	fu2022	167	16.0	567.5	
+score_lin	fu2022	168	36.5	13.5	
+score_lin	fu2022	169	3444.5	2843.5	
+score_lin	fu2022	170	3444.5	2843.5	
+score_lin	fu2022	171	226.5	97.5	
+score_lin	fu2022	172	3074.5	3051.5	
+score_lin	fu2022	173	467.0	99.5	
+score_lin	fu2022	174	35.5	22.5	
+score_lin	fu2022	175	1.5	1.0	
+score_lin	fu2022	176	28.0	34.0	
+score_lin	fu2022	177	123.0	98.0	
+score_lin	fu2022	178	404.5	46.0	
+score_lin	fu2022	179	181.0	1076.0	
+score_lin	fu2022	180	1044.0	1303.5	
+score_lin	fu2022	181	351.0	4.0	
+score_lin	fu2022	182	3.0	4.5	
+score_lin	fu2022	183	290.0	877.0	
+score_lin	fu2022	184	2.5	4.0	
+score_lin	fu2022	185	50.5	15.5	
+score_lin	fu2022	186	25.0	58.5	
+score_lin	fu2022	187	373.5	177.0	
+score_lin	fu2022	188	98.0	111.0	
+score_lin	fu2022	189	293.0	551.5	
+score_lin	fu2022	190	83.5	92.0	
+score_lin	fu2022	191	128.0	79.5	
+score_lin	fu2022	192	34.5	31.0	
+score_lin	fu2022	193	52.0	58.0	
+score_lin	fu2022	194	251.0	146.0	
+score_lin	fu2022	195	2.5	2.0	
+score_lin	fu2022	196	6.0	3.0	
+score_lin	fu2022	197	182.0	134.5	
+score_lin	fu2022	198	42.0	48.0	
+score_lin	fu2022	199	10.5	15.5	
+score_lin	fu2022	200	91.0	76.0	
+score_lin	fu2022	201	27.5	9.0	
+score_lin	fu2022	202	183.0	111.0	
+score_lin	fu2022	203	212.0	188.0	
+score_lin	fu2022	204	359.0	373.0	
+score_lin	fu2022	205	79.0	74.5	
+score_lin	fu2022	206	756.5	294.0	
+score_lin	fu2022	207	642.0	114.0	
+score_lin	fu2022	208	848.5	746.5	
+score_lin	fu2022	209	25.0	58.5	
+score_lin	fu2022	210	4.0	4.5	
+score_lin	fu2022	211	629.5	536.5	
+score_lin	fu2022	212	92.0	78.0	
+score_lin	fu2022	213	10.0	37.0	
+score_lin	fu2022	214	318.5	1.0	
+score_lin	fu2022	215	302.5	43.0	
+score_lin	fu2022	216	8.0	21.0	
+score_lin	fu2022	217	75.0	35.0	
+score_lin	fu2022	218	708.5	731.5	
+score_lin	fu2022	219	408.0	1266.0	
+score_lin	fu2022	220	229.5	95.0	
+score_lin	fu2022	221	46.0	297.0	
+score_lin	fu2022	222	45.0	34.0	
+score_lin	fu2022	223	279.0	306.0	
+score_lin	fu2022	224	41.5	76.5	
+score_lin	fu2022	225	1978.5	641.0	
+score_lin	fu2022	226	19.0	24.0	
+score_lin	fu2022	227	295.0	59.0	
+score_lin	fu2022	228	331.5	437.5	
+score_lin	fu2022	229	2178.5	2270.0	
+supp_further	graham2026	1	500.0	500.0	
+supp_further	graham2026	3	59.5	5.0	
+supp_further	graham2026	4	31.0	12.0	
+supp_further	graham2026	5	55.5	1.5	
+supp_further	graham2026	6	42.0	23.0	
+supp_further	graham2026	7	198.5	119.5	
+supp_further	graham2026	8	24.5	24.5	
+supp_further	graham2026	9	53.0	6.5	
+supp_further	graham2026	10	78.5	78.5	
+supp_further	graham2026	11	134.0	134.0	
+supp_further	graham2026	13	257.5	257.5	
+supp_further	graham2026	14	130.5	15.0	
+supp_further	graham2026	15	9.0	9.0	
+supp_further	graham2026	16	118.0	4.5	
+supp_further	graham2026	17	68.5	68.5	
+supp_further	graham2026	19	804.5	172.0	
+supp_further	graham2026	22	26.0	26.0	
+supp_further	graham2026	23	6.0	6.0	
+supp_further	graham2026	24	218.0	218.0	
+supp_further	graham2026	25	45.5	32.0	
+supp_further	graham2026	30	118.0	10.0	
+supp_further	graham2026	33	379.5	379.5	
+supp_further	graham2026	36	464.0	464.0	
+supp_further	smogavec2022	4	61.0	11.5	
+supp_further	smogavec2022	5	4.0	4.0	
+supp_further	smogavec2022	6	1764.0	1764.0	
+supp_further	smogavec2022	12	90.0	90.0	
+supp_further	smogavec2022	14	64.0	34.0	
+supp_further	smogavec2022	15	236.5	236.5	
+supp_further	smogavec2022	16	5.5	5.5	
+supp_further	smogavec2022	23	262.0	262.0	
+supp_further	smogavec2022	24	225.0	225.0	
+supp_further	smogavec2022	25	174.0	174.0	
+supp_further	smogavec2022	27	712.0	712.0	
+supp_further	smogavec2022	28	117.0	71.0	
+supp_further	smogavec2022	30	1505.0	1505.0	
+supp_further	aogs2026	2	163.0	163.0	
+supp_further	aogs2026	3	593.5	593.5	
+supp_further	aogs2026	5	346.0	346.0	
+supp_further	aogs2026	8	30.5	30.5	
+supp_further	aogs2026	11	722.0	722.0	
+supp_further	aogs2026	12	87.5	87.5	
+supp_further	aogs2026	13	3.0	3.0	
+supp_further	aogs2026	21	346.0	346.0	
+supp_further	aogs2026	22	163.0	163.0	
+supp_further	aogs2026	26	6.0	6.0	
+supp_further	aogs2026	28	76.0	76.0	
+supp_further	aogs2026	31	790.5	790.5	
+supp_further	aogs2026	34	154.0	154.0	
+supp_further	aogs2026	35	2.0	2.0	
+supp_further	aogs2026	36	2475.5	2475.5	
+supp_causal_only	fu2022	2	69.5	69.5	CHD7
+supp_causal_only	fu2022	48	147.5	147.5	CHD7
+supp_causal_only	fu2022	182	5.0	5.0	CHD7
+supp_causal_only	fu2022	4	99.5	99.5	NFIA
+supp_causal_only	fu2022	19	525.0	525.0	NFIA
+supp_causal_only	fu2022	6	593.5	593.5	ASPM
+supp_causal_only	fu2022	32	800.0	800.0	ASPM
+supp_causal_only	fu2022	7	1182.0	1182.0	EZH2
+supp_causal_only	fu2022	108	298.5	298.5	EZH2
+supp_causal_only	fu2022	10	346.0	346.0	ANKRD11
+supp_causal_only	fu2022	11	834.5	834.5	ANKRD11
+supp_causal_only	fu2022	12	120.0	120.0	PPP2R1A
+supp_causal_only	fu2022	30	37.5	37.5	PPP2R1A
+supp_causal_only	fu2022	14	75.0	75.0	PAFAH1B1
+supp_causal_only	fu2022	17	75.0	75.0	PAFAH1B1
+supp_causal_only	fu2022	16	5.0	5.0	COL4A1
+supp_causal_only	fu2022	23	8.0	8.0	COL4A1
+supp_causal_only	fu2022	20	221.0	221.0	ARID1B
+supp_causal_only	fu2022	22	163.0	163.0	ARID1B
+supp_causal_only	fu2022	21	481.0	481.0	ADNP
+supp_causal_only	fu2022	46	1402.5	1402.5	ADNP
+supp_causal_only	fu2022	24	187.5	67.5	FGFR2
+supp_causal_only	fu2022	185	26.5	26.5	FGFR2
+supp_causal_only	fu2022	188	122.5	122.5	FGFR2
+supp_causal_only	fu2022	195	2.5	2.5	FGFR2
+supp_causal_only	fu2022	222	80.5	38.5	FGFR2
+supp_causal_only	fu2022	29	328.0	328.0	FLNA
+supp_causal_only	fu2022	54	327.5	327.5	FLNA
+supp_causal_only	fu2022	175	1.5	1.5	FLNA
+supp_causal_only	fu2022	215	17.5	17.5	FLNA
+supp_causal_only	fu2022	36	92.0	92.0	IRF6
+supp_causal_only	fu2022	37	92.0	92.0	IRF6
+supp_causal_only	fu2022	42	92.0	92.0	KMT2D
+supp_causal_only	fu2022	49	42.5	42.5	KMT2D
+supp_causal_only	fu2022	58	72.0	72.0	KMT2D
+supp_causal_only	fu2022	59	49.0	49.0	KMT2D
+supp_causal_only	fu2022	77	72.0	72.0	KMT2D
+supp_causal_only	fu2022	79	80.0	80.0	KMT2D
+supp_causal_only	fu2022	119	414.0	414.0	KMT2D
+supp_causal_only	fu2022	178	35.0	35.0	KMT2D
+supp_causal_only	fu2022	190	106.0	106.0	KMT2D
+supp_causal_only	fu2022	192	40.0	40.0	KMT2D
+supp_causal_only	fu2022	196	6.0	6.0	KMT2D
+supp_causal_only	fu2022	47	226.5	226.5	PTPN11
+supp_causal_only	fu2022	51	258.5	258.5	PTPN11
+supp_causal_only	fu2022	74	46.5	46.5	PTPN11
+supp_causal_only	fu2022	76	69.5	69.5	PTPN11
+supp_causal_only	fu2022	165	65.0	65.0	PTPN11
+supp_causal_only	fu2022	168	14.0	14.0	PTPN11
+supp_causal_only	fu2022	50	403.5	403.5	FBN1
+supp_causal_only	fu2022	73	60.0	60.0	FBN1
+supp_causal_only	fu2022	53	24.5	24.5	ZEB2
+supp_causal_only	fu2022	228	282.5	282.5	ZEB2
+supp_causal_only	fu2022	57	38.5	38.5	HRAS
+supp_causal_only	fu2022	171	112.5	112.5	HRAS
+supp_causal_only	fu2022	60	9.5	9.5	MYH7
+supp_causal_only	fu2022	80	37.5	37.5	MYH7
+supp_causal_only	fu2022	183	421.0	421.0	MYH7
+supp_causal_only	fu2022	63	3.0	3.0	TSC2
+supp_causal_only	fu2022	64	3.0	3.0	TSC2
+supp_causal_only	fu2022	66	3.0	3.0	TSC2
+supp_causal_only	fu2022	68	3.0	3.0	TSC2
+supp_causal_only	fu2022	72	3.0	3.0	TSC2
+supp_causal_only	fu2022	78	3.0	3.0	TSC2
+supp_causal_only	fu2022	75	758.0	295.0	EFTUD2
+supp_causal_only	fu2022	177	75.5	26.5	EFTUD2
+supp_causal_only	fu2022	84	40.5	40.5	CDKN1C
+supp_causal_only	fu2022	227	60.0	60.0	CDKN1C
+supp_causal_only	fu2022	86	79.0	3.0	HNF1B
+supp_causal_only	fu2022	92	649.5	649.5	HNF1B
+supp_causal_only	fu2022	94	156.0	10.0	HNF1B
+supp_causal_only	fu2022	95	48.0	48.0	HNF1B
+supp_causal_only	fu2022	87	62.0	7.0	PKD1
+supp_causal_only	fu2022	98	53.0	4.5	PKD1
+supp_causal_only	fu2022	91	53.0	4.5	PKD2
+supp_causal_only	fu2022	93	53.0	4.5	PKD2
+supp_causal_only	fu2022	96	4.0	4.0	PKHD1
+supp_causal_only	fu2022	97	3.0	3.0	PKHD1
+supp_causal_only	fu2022	100	2.0	2.0	FGFR3
+supp_causal_only	fu2022	101	42.0	42.0	FGFR3
+supp_causal_only	fu2022	106	134.0	134.0	FGFR3
+supp_causal_only	fu2022	111	134.0	134.0	FGFR3
+supp_causal_only	fu2022	124	20.5	20.5	FGFR3
+supp_causal_only	fu2022	127	6.5	6.5	FGFR3
+supp_causal_only	fu2022	129	134.0	134.0	FGFR3
+supp_causal_only	fu2022	131	10.0	10.0	FGFR3
+supp_causal_only	fu2022	132	8.5	8.5	FGFR3
+supp_causal_only	fu2022	140	51.5	51.5	FGFR3
+supp_causal_only	fu2022	146	10.0	10.0	FGFR3
+supp_causal_only	fu2022	148	2.5	2.5	FGFR3
+supp_causal_only	fu2022	155	5.0	5.0	FGFR3
+supp_causal_only	fu2022	156	34.0	34.0	FGFR3
+supp_causal_only	fu2022	201	49.0	49.0	FGFR3
+supp_causal_only	fu2022	103	3.0	3.0	COL1A1
+supp_causal_only	fu2022	123	59.5	5.0	COL1A1
+supp_causal_only	fu2022	130	39.5	15.5	COL1A1
+supp_causal_only	fu2022	134	157.5	157.5	COL1A1
+supp_causal_only	fu2022	135	9.0	9.0	COL1A1
+supp_causal_only	fu2022	138	39.5	15.5	COL1A1
+supp_causal_only	fu2022	139	39.5	15.5	COL1A1
+supp_causal_only	fu2022	144	59.5	5.0	COL1A1
+supp_causal_only	fu2022	145	41.5	41.5	COL1A1
+supp_causal_only	fu2022	150	356.0	52.0	COL1A1
+supp_causal_only	fu2022	151	500.0	134.5	COL1A1
+supp_causal_only	fu2022	160	356.0	52.0	COL1A1
+supp_causal_only	fu2022	104	134.0	134.0	SHOX
+supp_causal_only	fu2022	162	51.5	51.5	SHOX
+supp_causal_only	fu2022	105	192.0	192.0	FLNB
+supp_causal_only	fu2022	174	37.5	37.5	FLNB
+supp_causal_only	fu2022	109	25.0	25.0	COL1A2
+supp_causal_only	fu2022	125	94.5	46.0	COL1A2
+supp_causal_only	fu2022	137	59.5	41.5	COL1A2
+supp_causal_only	fu2022	157	500.0	134.5	COL1A2
+supp_causal_only	fu2022	112	134.0	134.0	COL2A1
+supp_causal_only	fu2022	128	134.0	134.0	COL2A1
+supp_causal_only	fu2022	133	38.5	38.5	COL2A1
+supp_causal_only	fu2022	136	134.0	134.0	COL2A1
+supp_causal_only	fu2022	149	28.0	7.0	COL2A1
+supp_causal_only	fu2022	158	6.5	1.0	COL2A1
+supp_causal_only	fu2022	164	290.0	290.0	NIPBL
+supp_causal_only	fu2022	191	77.5	77.5	NIPBL
+supp_causal_only	fu2022	193	65.5	65.5	NIPBL
+supp_causal_only	fu2022	197	180.5	180.5	NIPBL
+supp_causal_only	fu2022	173	47.0	18.0	RAF1
+supp_causal_only	fu2022	202	96.0	62.0	RAF1
+supp_causal_only	fu2022	181	16.0	16.0	MID1
+supp_causal_only	fu2022	214	1.5	1.5	MID1
+supp_causal_only	fu2022	186	64.0	17.5	BBS7
+supp_causal_only	fu2022	209	64.0	17.5	BBS7
+supp_causal_only	fu2022	198	57.5	57.5	CEP290
+supp_causal_only	fu2022	199	13.0	13.0	CEP290
+supp_all_genes	fu2022	2	69.5	69.5	CHD7
+supp_all_genes	fu2022	48	147.5	149.5	CHD7
+supp_all_genes	fu2022	182	5.0	5.0	CHD7
+supp_all_genes	fu2022	4	99.5	99.5	NFIA
+supp_all_genes	fu2022	19	525.0	532.0	NFIA
+supp_all_genes	fu2022	6	593.5	593.5	ASPM
+supp_all_genes	fu2022	32	800.0	802.0	ASPM
+supp_all_genes	fu2022	7	1182.0	1183.5	EZH2
+supp_all_genes	fu2022	108	298.5	300.5	EZH2
+supp_all_genes	fu2022	10	346.0	347.0	ANKRD11
+supp_all_genes	fu2022	11	834.5	837.0	ANKRD11
+supp_all_genes	fu2022	12	120.0	120.0	PPP2R1A
+supp_all_genes	fu2022	30	37.5	39.0	PPP2R1A
+supp_all_genes	fu2022	14	75.0	75.0	PAFAH1B1
+supp_all_genes	fu2022	17	75.0	75.0	PAFAH1B1
+supp_all_genes	fu2022	16	5.0	5.0	COL4A1
+supp_all_genes	fu2022	23	8.0	8.0	COL4A1
+supp_all_genes	fu2022	20	221.0	221.0	ARID1B
+supp_all_genes	fu2022	22	163.0	163.0	ARID1B
+supp_all_genes	fu2022	21	481.0	490.5	ADNP
+supp_all_genes	fu2022	46	1402.5	1404.5	ADNP
+supp_all_genes	fu2022	24	187.5	76.0	FGFR2
+supp_all_genes	fu2022	185	26.5	27.5	FGFR2
+supp_all_genes	fu2022	188	122.5	123.5	FGFR2
+supp_all_genes	fu2022	195	2.5	2.5	FGFR2
+supp_all_genes	fu2022	222	80.5	38.5	FGFR2
+supp_all_genes	fu2022	29	328.0	333.0	FLNA
+supp_all_genes	fu2022	54	327.5	333.5	FLNA
+supp_all_genes	fu2022	175	1.5	1.5	FLNA
+supp_all_genes	fu2022	215	17.5	18.5	FLNA
+supp_all_genes	fu2022	36	92.0	92.5	IRF6
+supp_all_genes	fu2022	37	92.0	92.5	IRF6
+supp_all_genes	fu2022	42	92.0	92.5	KMT2D
+supp_all_genes	fu2022	49	42.5	43.0	KMT2D
+supp_all_genes	fu2022	58	72.0	73.0	KMT2D
+supp_all_genes	fu2022	59	49.0	49.5	KMT2D
+supp_all_genes	fu2022	77	72.0	73.0	KMT2D
+supp_all_genes	fu2022	79	80.0	81.0	KMT2D
+supp_all_genes	fu2022	119	414.0	416.0	KMT2D
+supp_all_genes	fu2022	178	35.0	36.0	KMT2D
+supp_all_genes	fu2022	190	106.0	107.5	KMT2D
+supp_all_genes	fu2022	192	40.0	40.5	KMT2D
+supp_all_genes	fu2022	196	6.0	6.5	KMT2D
+supp_all_genes	fu2022	47	226.5	229.0	PTPN11
+supp_all_genes	fu2022	51	258.5	259.0	PTPN11
+supp_all_genes	fu2022	74	46.5	48.0	PTPN11
+supp_all_genes	fu2022	76	69.5	71.0	PTPN11
+supp_all_genes	fu2022	165	65.0	66.5	PTPN11
+supp_all_genes	fu2022	168	14.0	19.0	PTPN11
+supp_all_genes	fu2022	50	403.5	405.5	FBN1
+supp_all_genes	fu2022	73	60.0	62.5	FBN1
+supp_all_genes	fu2022	53	24.5	26.5	ZEB2
+supp_all_genes	fu2022	228	282.5	283.0	ZEB2
+supp_all_genes	fu2022	57	38.5	39.0	HRAS
+supp_all_genes	fu2022	171	112.5	121.5	HRAS
+supp_all_genes	fu2022	60	9.5	10.0	MYH7
+supp_all_genes	fu2022	80	37.5	37.5	MYH7
+supp_all_genes	fu2022	183	421.0	428.0	MYH7
+supp_all_genes	fu2022	63	3.0	3.0	TSC2
+supp_all_genes	fu2022	64	3.0	3.0	TSC2
+supp_all_genes	fu2022	66	3.0	3.0	TSC2
+supp_all_genes	fu2022	68	3.0	3.0	TSC2
+supp_all_genes	fu2022	72	3.0	3.0	TSC2
+supp_all_genes	fu2022	78	3.0	3.0	TSC2
+supp_all_genes	fu2022	75	758.0	296.0	EFTUD2
+supp_all_genes	fu2022	177	75.5	27.5	EFTUD2
+supp_all_genes	fu2022	84	40.5	41.0	CDKN1C
+supp_all_genes	fu2022	227	60.0	63.0	CDKN1C
+supp_all_genes	fu2022	86	79.0	4.0	HNF1B
+supp_all_genes	fu2022	92	649.5	650.0	HNF1B
+supp_all_genes	fu2022	94	156.0	11.5	HNF1B
+supp_all_genes	fu2022	95	48.0	49.5	HNF1B
+supp_all_genes	fu2022	87	62.0	9.0	PKD1
+supp_all_genes	fu2022	98	53.0	6.0	PKD1
+supp_all_genes	fu2022	91	53.0	6.0	PKD2
+supp_all_genes	fu2022	93	53.0	6.0	PKD2
+supp_all_genes	fu2022	96	4.0	6.0	PKHD1
+supp_all_genes	fu2022	97	3.0	4.0	PKHD1
+supp_all_genes	fu2022	100	2.0	3.5	FGFR3
+supp_all_genes	fu2022	101	42.0	42.0	FGFR3
+supp_all_genes	fu2022	106	134.0	137.0	FGFR3
+supp_all_genes	fu2022	111	134.0	137.0	FGFR3
+supp_all_genes	fu2022	124	20.5	20.5	FGFR3
+supp_all_genes	fu2022	127	6.5	7.5	FGFR3
+supp_all_genes	fu2022	129	134.0	137.0	FGFR3
+supp_all_genes	fu2022	131	10.0	11.0	FGFR3
+supp_all_genes	fu2022	132	8.5	11.5	FGFR3
+supp_all_genes	fu2022	140	51.5	52.5	FGFR3
+supp_all_genes	fu2022	146	10.0	11.0	FGFR3
+supp_all_genes	fu2022	148	2.5	4.0	FGFR3
+supp_all_genes	fu2022	155	5.0	5.0	FGFR3
+supp_all_genes	fu2022	156	34.0	34.5	FGFR3
+supp_all_genes	fu2022	201	49.0	50.0	FGFR3
+supp_all_genes	fu2022	103	3.0	3.0	COL1A1
+supp_all_genes	fu2022	123	59.5	6.0	COL1A1
+supp_all_genes	fu2022	130	39.5	16.5	COL1A1
+supp_all_genes	fu2022	134	157.5	158.5	COL1A1
+supp_all_genes	fu2022	135	9.0	9.0	COL1A1
+supp_all_genes	fu2022	138	39.5	16.5	COL1A1
+supp_all_genes	fu2022	139	39.5	16.5	COL1A1
+supp_all_genes	fu2022	144	59.5	6.0	COL1A1
+supp_all_genes	fu2022	145	41.5	42.5	COL1A1
+supp_all_genes	fu2022	150	356.0	52.5	COL1A1
+supp_all_genes	fu2022	151	500.0	137.0	COL1A1
+supp_all_genes	fu2022	160	356.0	52.5	COL1A1
+supp_all_genes	fu2022	104	134.0	137.0	SHOX
+supp_all_genes	fu2022	162	51.5	52.5	SHOX
+supp_all_genes	fu2022	105	192.0	194.0	FLNB
+supp_all_genes	fu2022	174	37.5	37.5	FLNB
+supp_all_genes	fu2022	109	25.0	26.0	COL1A2
+supp_all_genes	fu2022	125	94.5	47.5	COL1A2
+supp_all_genes	fu2022	137	59.5	44.5	COL1A2
+supp_all_genes	fu2022	157	500.0	137.0	COL1A2
+supp_all_genes	fu2022	112	134.0	137.0	COL2A1
+supp_all_genes	fu2022	128	134.0	137.0	COL2A1
+supp_all_genes	fu2022	133	38.5	38.5	COL2A1
+supp_all_genes	fu2022	136	134.0	137.0	COL2A1
+supp_all_genes	fu2022	149	28.0	7.5	COL2A1
+supp_all_genes	fu2022	158	6.5	1.0	COL2A1
+supp_all_genes	fu2022	164	290.0	292.0	NIPBL
+supp_all_genes	fu2022	191	77.5	81.0	NIPBL
+supp_all_genes	fu2022	193	65.5	65.5	NIPBL
+supp_all_genes	fu2022	197	180.5	185.0	NIPBL
+supp_all_genes	fu2022	173	47.0	20.5	RAF1
+supp_all_genes	fu2022	202	96.0	68.0	RAF1
+supp_all_genes	fu2022	181	16.0	16.0	MID1
+supp_all_genes	fu2022	214	1.5	2.0	MID1
+supp_all_genes	fu2022	186	64.0	17.5	BBS7
+supp_all_genes	fu2022	209	64.0	17.5	BBS7
+supp_all_genes	fu2022	198	57.5	62.5	CEP290
+supp_all_genes	fu2022	199	13.0	14.0	CEP290

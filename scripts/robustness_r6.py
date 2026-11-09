@@ -1,9 +1,10 @@
-"""R6 dual coding and R7 worked example (PLAN.md, amendment 2026-10-15e, post hoc). Writes outputs/review_r6.json."""
+"""R6 dual coding and R7 worked example (PLAN.md, amendment 2026-10-15e, post hoc). Writes outputs/robustness_r6.json
+and outputs/robustness_r6.tsv (ranks of the R6 fetuses with original, fetal and dual coding)."""
 import os, json
 import numpy as np, pandas as pd
-from scipy.stats import binomtest, wilcoxon
+from scipy.stats import wilcoxon
 from rank import KB, nearest_in
-from review_analyses import Mat, mcnemar, rank_in
+from robustness import Mat, mcnemar
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "outputs")
@@ -24,7 +25,7 @@ if __name__ == "__main__":
         dual = list(dict.fromkeys(q26 + [rec[q] for q in q26 if q in rec]))
         rows.append(dict(cohort=key[0], case=key[1], original=m26.rank(q26, genes), fetal=m26.rank(fetal, genes), dual=m26.rank(dual, genes)))
     D = pd.DataFrame(rows)
-    D.to_csv(os.path.join(OUT, "review_r6.tsv"), sep="\t", index=False)
+    D.to_csv(os.path.join(OUT, "robustness_r6.tsv"), sep="\t", index=False)
     out = {"r6": dict(fetuses=len(D), **{f"top10_{c}": int((D[c] <= 10).sum()) for c in ("original", "fetal", "dual")},
                       **{f"median_{c}": float(D[c].median()) for c in ("original", "fetal", "dual")},
                       dual_vs_original=mcnemar(D.original <= 10, D.dual <= 10),
@@ -32,7 +33,7 @@ if __name__ == "__main__":
                       dual_wilcoxon_p=float(wilcoxon(np.log10(D.original), np.log10(D.dual)).pvalue))}
     print(out, flush=True)
     # R7 worked example
-    R4 = pd.read_csv(os.path.join(OUT, "review_r4.tsv"), sep="\t", dtype={"case": str})
+    R4 = pd.read_csv(os.path.join(OUT, "robustness_r4.tsv"), sep="\t", dtype={"case": str})
     R4["fall"] = np.log10(R4.rank_2026) - np.log10(R4.rank_2020)
     r = R4.sort_values("fall", ascending=False).iloc[0]
     key = ("fu2022", r.case); genes, q26, findings = cases[key]
@@ -50,4 +51,5 @@ if __name__ == "__main__":
         ex["terms"].append(item)
     out["r7"] = ex
     print(json.dumps(ex, indent=1))
-    json.dump(out, open(os.path.join(OUT, "review_r6.json"), "w"), indent=1)
+    with open(os.path.join(OUT, "robustness_r6.json"), "w", encoding="utf-8") as f:
+        json.dump(out, f, indent=1)

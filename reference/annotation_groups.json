@@ -1,0 +1,51 @@
+{
+ "groups": {
+  "Fetal anomaly": {
+   "terms": 128,
+   "no_gene": 68,
+   "new_since_2020": 93,
+   "new_no_gene": 60
+  },
+  "Other prenatal sub-branches": {
+   "terms": 138,
+   "no_gene": 74,
+   "new_since_2020": 43,
+   "new_no_gene": 28
+  }
+ },
+ "fetal_anomaly_linkage": {
+  "terms": 128,
+  "linked": 71,
+  "unlinked": 57,
+  "unlinked_no_gene": 33,
+  "linked_no_gene": 35,
+  "unlinked_by_organ": {
+   "Abnormal fetal gastrointestinal system morphology": 13,
+   "Fetal head anomaly": 13,
+   "Abnormal fetal pulmonary morphology": 7,
+   "Fetal ultrasound soft marker": 6,
+   "Abnormal fetal genitourinary system morphology": 4,
+   "Prenatal movement abnormality": 4,
+   "(none)": 3,
+   "Abnormal fetal central nervous system morphology": 1,
+   "Fetal anemia": 1,
+   "Fetal distress": 1,
+   "Fixed fetal extremities": 1,
+   "Increased fetal lens echogenicity": 1,
+   "Intrauterine fetal demise of one twin after midgestation": 1,
+   "Twin-to-twin transfusion": 1
+  }
+ },
+ "findings_with_unlinked_fetal_terms": {
+  "findings": 12,
+  "fetuses": 11,
+  "terms": [
+   "HP:0001558",
+   "HP:0010943",
+   "HP:0011426",
+   "HP:0025676",
+   "HP:0025678",
+   "HP:4000139"
+  ]
+ }
+}

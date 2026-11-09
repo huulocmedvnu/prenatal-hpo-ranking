@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this code or data, please cite it as below.
+title: "Comparing Human Phenotype Ontology releases highlights persistent gaps in prenatal gene-phenotype annotation: code and data"
+version: "1.1"
+doi: "10.5281/zenodo.23385908"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: https://github.com/huulocmedvnu/prenatal-hpo-ranking
+type: software
+authors:
+  - family-names: "Tran"
+    given-names: "Thai Huu Loc"
+    affiliation: "Department of Obstetrics and Gynaecology, Hong Hung Hospital, Tay Ninh, Viet Nam"
+    orcid: "https://orcid.org/0009-0009-1810-010X"
+  - family-names: "Tran"
+    given-names: "Nguyen Hoang Thi"
+    affiliation: "Department of Obstetrics and Gynaecology, Hong Hung Hospital, Tay Ninh, Viet Nam"

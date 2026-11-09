@@ -281,8 +281,8 @@ fu2022	150	HP:0006487	Abnormality of limbs;Abnormality of the musculoskeletal sy
 fu2022	151	HP:0003026	Abnormality of the musculoskeletal system	False	True	False	True
 fu2022	152	HP:0034391	Abnormality of the musculoskeletal system	True	True	True	True
 fu2022	152	HP:0034672	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	True	True
-fu2022	153	HP:0005280	Abnormality of head or neck	False	False	False	False
-fu2022	153	HP:0010655	Abnormality of the musculoskeletal system	False	False	False	False
+fu2022	153	HP:0005280	Abnormality of head or neck	True	True	True	True
+fu2022	153	HP:0010655	Abnormality of the musculoskeletal system	True	True	True	True
 fu2022	154	HP:0010557	Abnormality of limbs;Abnormality of the musculoskeletal system	False	True	False	True
 fu2022	154	HP:0001762	Abnormality of limbs	False	True	True	True
 fu2022	155	HP:0003097	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
@@ -437,9 +437,9 @@ fu2022	208	HP:0000086	Abnormality of the genitourinary system	False	True	False	T
 fu2022	208	HP:0001629	Abnormality of the cardiovascular system	False	True	False	True
 fu2022	209	HP:0000003	Abnormality of the genitourinary system	True	True	False	True
 fu2022	209	HP:0010442	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
-fu2022	210	HP:0001539	Abnormality of the digestive system;Abnormality of the musculoskeletal system	False	False	False	False
-fu2022	210	HP:0000126	Abnormality of the genitourinary system	False	False	False	False
-fu2022	210	HP:0002983	Abnormality of limbs;Abnormality of the musculoskeletal system	False	False	False	False
+fu2022	210	HP:0001539	Abnormality of the digestive system;Abnormality of the musculoskeletal system	True	True	True	True
+fu2022	210	HP:0000126	Abnormality of the genitourinary system	True	True	True	True
+fu2022	210	HP:0002983	Abnormality of limbs;Abnormality of the musculoskeletal system	True	True	True	True
 fu2022	211	HP:0000003	Abnormality of the genitourinary system	True	True	True	True
 fu2022	211	HP:0001541	Abnormality of the digestive system	False	True	False	True
 fu2022	211	HP:0001562	Abnormality of prenatal development or birth	False	False	False	False
@@ -459,9 +459,9 @@ fu2022	215	HP:0010880	Abnormality of head or neck;Abnormality of metabolism/home
 fu2022	215	HP:0001541	Abnormality of the digestive system	False	True	False	True
 fu2022	215	HP:0004719	Abnormality of the genitourinary system	False	True	False	True
 fu2022	215	HP:0005180	Abnormality of the cardiovascular system	True	True	True	True
-fu2022	216	HP:0001511	Growth abnormality	True	True	False	False
-fu2022	216	HP:0002202	Abnormality of metabolism/homeostasis;Abnormality of the respiratory system	False	True	False	False
-fu2022	216	HP:0001558	Abnormality of prenatal development or birth	True	True	False	False
+fu2022	216	HP:0001511	Growth abnormality	True	True	True	True
+fu2022	216	HP:0002202	Abnormality of metabolism/homeostasis;Abnormality of the respiratory system	False	True	False	True
+fu2022	216	HP:0001558	Abnormality of prenatal development or birth	True	True	True	True
 fu2022	217	HP:0002119	Abnormality of the nervous system	True	True	True	True
 fu2022	217	HP:0000122	Abnormality of the genitourinary system	False	True	False	True
 fu2022	217	HP:0000075	Abnormality of the digestive system;Abnormality of the genitourinary system	False	True	False	True

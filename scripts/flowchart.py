@@ -11,11 +11,11 @@ OUT, FIG = os.path.join(ROOT, "outputs"), os.path.join(ROOT, "figures", "study_f
 C = pio.templates["plotly_white"].layout.colorway
 FS = 16
 INK, TGREY, GREY, DIV = "#2A3F5F", "#5A6478", "#8C96A8", "#DCE1EA"
-# colour = meaning, shared with figures/fig_main: HPO 2026 blue, supplemented annotations red, prenatal branch purple
+# colour = meaning, shared with figures/paper (paper_figures.py): HPO 2026 blue, supplemented annotations red, prenatal branch purple
 R20, R26, SUPP, PRE, COH, RANK = C[2], C[0], C[1], C[3], C[4], C[5]
 
-R = json.load(open(os.path.join(OUT, "rank_summary.json")))
-X = json.load(open(os.path.join(OUT, "explore.json")))
+R = json.loads(open(os.path.join(OUT, "rank_summary.json"), encoding="utf-8").read())
+X = json.loads(open(os.path.join(OUT, "explore.json"), encoding="utf-8").read())
 cases = pd.read_csv(os.path.join(OUT, "cases.tsv"), sep="\t")
 per = cases.groupby("cohort").agg(findings=("hpo_id", "size"), fetuses=("case", "nunique"))
 fu_genes = cases[cases.cohort == "fu2022"].genes.str.split(";").explode().nunique()

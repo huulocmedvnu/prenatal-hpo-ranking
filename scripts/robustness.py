@@ -1,9 +1,13 @@
 """Robustness analyses R1 to R5 (PLAN.md, amendment 2026-10-15d, all post hoc). Scores are computed from a
 matrix of Resnik similarities between query terms and the direct annotation terms of the genes, which reproduces the
-query-to-gene score of rank.py (checked below).
+query-to-gene score of rank.py for every fetus and both releases (checked below).
 R1 prenatal re-coding, R2 symmetric Resnik and Lin best-match average, R3 unrestricted gene space, R4 mechanism of the
-lower 2026 ranks, R5 cross-cohort supplementation, permutation control for X3 and all-gene supplementation (R5c).
-Writes outputs/review.json."""
+lower 2026 ranks, R5a cross-cohort supplementation, R5b permutation control for X3, R5c supplementation of all genes
+of the primary cohort. Writes outputs/robustness.json, outputs/robustness_r4.tsv and outputs/fetus_ranks.tsv.
+fetus_ranks.tsv has one row per fetus and analysis with the rank of the causal gene under the first and the second
+condition: score_symmetric and score_lin (first = 2020, second = 2026, primary cohort), supp_further (first = 2026
+annotations, second = annotations supplemented with primary-cohort findings), supp_causal_only and supp_all_genes
+(first = 2026 annotations, second = supplemented, leave one fetus out)."""
 import os, json
 import numpy as np, pandas as pd
 from scipy.stats import binomtest, wilcoxon
@@ -106,9 +110,12 @@ if __name__ == "__main__":
     q20 = {key: list(dict.fromkeys(filter(None, (nearest_in(t20, k26.anc, t26, q) for q in v[1])))) for key, v in cases.items()}
     fu = [key for key in cases if key[0] == "fu2022"]
     out = {}
-    # check: matrix score reproduces rank.py
-    chk = [(m26.rank(q20[key], cases[key][0]), RK[(RK.cohort == key[0]) & (RK.case == key[1])].rank_2026.iloc[0]) for key in fu[:25]]
-    out["check_max_abs_diff"] = float(max(abs(a - b) for a, b in chk))
+    per = []  # per-fetus ranks for paired differences and Figure 4
+    # check: the matrix score reproduces rank.py for every fetus with both releases
+    rk = RK.set_index(["cohort", "case"])
+    chk = [abs(m.rank(q20[key], cases[key][0]) - rk.loc[key, col]) for key in cases for m, col in ((m20, "rank_2020"), (m26, "rank_2026"))]
+    out["check_max_abs_diff"] = float(max(chk))
+    assert out["check_max_abs_diff"] == 0, out["check_max_abs_diff"]
     print("check", out["check_max_abs_diff"], flush=True)
 
     # R1 prenatal re-coding (2026, all cohorts, unmapped 2026 terms as the baseline)
@@ -133,6 +140,7 @@ if __name__ == "__main__":
     for metric in ("symmetric", "lin"):
         r_20 = np.array([m20.rank(q20[key], cases[key][0], metric=metric) for key in fu])
         r_26 = np.array([m26.rank(q20[key], cases[key][0], metric=metric) for key in fu])
+        per += [dict(analysis=f"score_{metric}", cohort=k_[0], case=k_[1], first=x, second=y) for k_, x, y in zip(fu, r_20, r_26)]
         r2[metric] = dict(top10_2020=int((r_20 <= 10).sum()), top10_2026=int((r_26 <= 10).sum()),
                           median_2020=float(np.median(r_20)), median_2026=float(np.median(r_26)),
                           mcnemar=mcnemar(r_20 <= 10, r_26 <= 10))
@@ -167,7 +175,7 @@ if __name__ == "__main__":
                          qic_2020=float(np.mean([k20.ic.get(q, m20.icmax) for q in Q])), qic_2026=float(np.mean([k26.ic.get(q, m26.icmax) for q in Q])),
                          rank_2020=rank_in(s20, i), rank_2026=rank_in(s26, i)))
     R4 = pd.DataFrame(rows)
-    R4.to_csv(os.path.join(OUT, "review_r4.tsv"), sep="\t", index=False)
+    R4.to_csv(os.path.join(OUT, "robustness_r4.tsv"), sep="\t", index=False)
     worse = R4.rank_2026 > R4.rank_2020
     out["r4"] = dict(fetuses=len(R4), worse=int(worse.sum()),
                      score_lower_2026=int((R4.score_2026 < R4.score_2020).sum()), score_higher_2026=int((R4.score_2026 > R4.score_2020).sum()),
@@ -195,6 +203,7 @@ if __name__ == "__main__":
         extra = {g: terms_of(by_gene[g]) for g in shared}
         rows.append(dict(cohort=key[0], case=key[1], before=m26.rank(q26, genes), after=m26.rank(q26, genes, extra=extra)))
     R5 = pd.DataFrame(rows)
+    per += [dict(analysis="supp_further", cohort=r["cohort"], case=r["case"], first=r["before"], second=r["after"]) for r in rows]
     out["r5a"] = dict(fetuses=len(R5), top10_before=int((R5.before <= 10).sum()), top10_after=int((R5.after <= 10).sum()),
                       mcnemar=mcnemar(R5.before <= 10, R5.after <= 10), median_before=float(R5.before.median()), median_after=float(R5.after.median()),
                       better=int((R5.after < R5.before).sum()), worse=int((R5.after > R5.before).sum()))
@@ -210,13 +219,19 @@ if __name__ == "__main__":
     before = np.array([rank_in(base[key], m26.gi[g]) for key, g in x3])
     pool = {key: [q for q in cases[key][1] if q in k26.anc] for key in fu}
     sizes = [len(terms_of([o for o in by_gene[g] if o != key])) for key, g in x3]
-    others = {(key, g): [q for o in fu if g not in cases[o][0] for q in pool[o]] for key, g in x3}
+    # pool of findings of primary-cohort fetuses with another causal gene: distinct terms, weighted by how many
+    # findings carry them, so that each draw adds exactly as many distinct terms as the observed supplementation
+    others = {}
+    for key, g in x3:
+        v = pd.Series([q for o in fu if g not in cases[o][0] for q in pool[o]]).value_counts().sort_index()
+        others[(key, g)] = (v.index.to_numpy(), (v / v.sum()).to_numpy())
     n_perm, perm = 1000, []
     # the rank of a gene with extra terms depends only on the best Resnik match of each query term, so cache rows
     for _ in range(n_perm):
         top = 0
         for (key, g), n in zip(x3, sizes):
-            E = sorted(set(rng.choice(others[(key, g)], size=n, replace=False))) if n else []
+            terms, w = others[(key, g)]
+            E = sorted(rng.choice(terms, size=n, replace=False, p=w)) if n else []
             top += rank_with(key, g, E) <= 10
         perm.append(top)
     perm = np.array(perm)
@@ -232,7 +247,12 @@ if __name__ == "__main__":
         s = m26.scores(cases[key][1], extra=extra)
         rows.append(rank_in(s, m26.gi[g]))
     r5c = np.array(rows)
+    per += [dict(analysis=a, cohort=key[0], case=key[1], gene=g, first=b_, second=v)
+            for a, vals in (("supp_causal_only", obs), ("supp_all_genes", r5c))
+            for (key, g), b_, v in zip(x3, before, vals)]
+    pd.DataFrame(per).to_csv(os.path.join(OUT, "fetus_ranks.tsv"), sep="\t", index=False)
     out["r5c"] = dict(fetuses=len(x3), top10_before=int((before <= 10).sum()), top10_after=int((r5c <= 10).sum()),
                       mcnemar=mcnemar(before <= 10, r5c <= 10), median_before=float(np.median(before)), median_after=float(np.median(r5c)))
     print("r5c", out["r5c"], flush=True)
-    json.dump(out, open(os.path.join(OUT, "review.json"), "w"), indent=1)
+    with open(os.path.join(OUT, "robustness.json"), "w", encoding="utf-8") as f:
+        json.dump(out, f, indent=1)

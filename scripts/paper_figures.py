@@ -1,12 +1,15 @@
 """Figures 2 to 4 (Figure 1 is scripts/flowchart.py). One layout pixel prints at 0.5 pt, so 16 px
 fonts print at 8 pt and 960 px at 169 mm. Colour = meaning, as in the study flow: HPO 2020 green, HPO 2026 blue,
-supplemented annotations red, prenatal branch purple.
+supplemented annotations red (causal gene only) and orange (all genes of the primary cohort), prenatal branch
+purple.
 Figure 2: cumulative share of fetuses by rank of the causal gene, 2020 against 2026, primary and further cohorts.
-Figure 3: terms of the prenatal branch of HPO 2026 with and without gene annotation, by sub-branch and, under Fetal
-anomaly, by organ sub-branch.
-Figure 4: rank before and after supplementing gene annotations with the findings of other fetuses (post hoc).
+Figure 3: terms of the prenatal branch of HPO 2026 with and without gene annotation, by sub-branch (sub-branches
+with at least five terms) and, under Fetal anomaly, by organ sub-branch (at least four terms). All terms are listed
+in outputs/prenatal_branch_terms.tsv.
+Figure 4: rank with the 2026 annotations, with the annotations of all genes of the primary cohort supplemented and
+with only the causal gene supplemented by the findings of other fetuses (post hoc, leave one fetus out).
 Writes figures/paper/figure<k>.{html,pdf,png}."""
-import os, json
+import os
 import numpy as np, pandas as pd
 import plotly.graph_objects as go
 import plotly.io as pio
@@ -16,7 +19,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT, FIG = os.path.join(ROOT, "outputs"), os.path.join(ROOT, "figures", "paper")
 C = pio.templates["plotly_white"].layout.colorway
 FS = 16
-R20, R26, SUPP, PRE, GREY = C[2], C[0], C[1], C[3], "#B0B7C3"
+R20, R26, SUPP, PRE, COMP, GREY = C[2], C[0], C[1], C[3], C[4], "#B0B7C3"
 
 
 def save(fig, k, w, h, margin=None):
@@ -71,15 +74,21 @@ def figure3():
 
 
 def figure4():
-    X3 = pd.read_csv(os.path.join(OUT, "explore_x3.tsv"), sep="\t")
+    """Fetuses whose causal gene is diagnosed in at least one other primary-cohort fetus, queried with their original
+    2026 terms: 2026 annotations, annotations of all genes of the primary cohort supplemented (competitive), and only
+    the causal gene supplemented (noncompetitive upper bound)."""
+    V = pd.read_csv(os.path.join(OUT, "fetus_ranks.tsv"), sep="\t", dtype={"case": str})
+    comp, upper = V[V.analysis == "supp_all_genes"], V[V.analysis == "supp_causal_only"]
+    assert (comp["first"].values == upper["first"].values).all()
     fig = make_subplots(1, 1)
-    ecdf(fig, 1, 1, X3.before, "HPO 2026", R26, True)
-    ecdf(fig, 1, 1, X3.after, "HPO 2026 with annotations from other fetuses", SUPP, True)
+    ecdf(fig, 1, 1, upper["first"], "HPO 2026 annotations", R26, True)
+    ecdf(fig, 1, 1, comp["second"], "All genes of the primary cohort supplemented (competitive)", COMP, True)
+    ecdf(fig, 1, 1, upper["second"], "Causal gene only supplemented (noncompetitive upper bound)", SUPP, True, dash="dash")
     fig.add_vline(x=10, line=dict(color="grey", dash="dot", width=1))
     fig.update_xaxes(type="log", title_text="Rank of the causal gene")
     fig.update_yaxes(title_text="Fetuses with the causal gene<br>at or above the rank (%)", range=[0, 100])
-    fig.update_layout(legend=dict(orientation="h", x=0.5, xanchor="center", y=-0.25))
-    save(fig, 4, 700, 470, dict(l=90, r=20, t=30, b=110))
+    fig.update_layout(legend=dict(orientation="v", x=0, xanchor="left", y=-0.2, yanchor="top"))
+    save(fig, 4, 760, 560, dict(l=90, r=20, t=30, b=190))
 
 
 if __name__ == "__main__":

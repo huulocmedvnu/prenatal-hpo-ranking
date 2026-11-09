@@ -1,0 +1,129 @@
+term	name	fetal_sub_branch	new_since_2020	genes	linked	organ_terms
+HP:0034206	Abnormal fetal central nervous system morphology	Abnormal fetal central nervous system morphology	True	13	False	
+HP:0020303	Abnormal fetal abdominal circumference	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:0034207	Abnormal fetal gastrointestinal system morphology	Abnormal fetal gastrointestinal system morphology	True	23	False	
+HP:6001474	Abnormal rectosigmoid index	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:6000339	Decreased fetal abdominal circumference	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:4000139	Fetal abdominal cyst	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:4000140	Fetal bowel dilatation	Abnormal fetal gastrointestinal system morphology	True	1	False	
+HP:6001476	Fetal enterolithiasis	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:6000470	Fetal oral mass	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:0034244	Gastric pseudomass	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:0020304	Increased fetal abdominal circumference	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:0034547	Intraluminal meconium calcification	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:0025674	Meconium pseudocyst	Abnormal fetal gastrointestinal system morphology	True	0	False	
+HP:0025656	Prenatal double bubble sign	Abnormal fetal gastrointestinal system morphology	True	1	False	
+HP:0034242	Abnormal fetal genitourinary system morphology	Abnormal fetal genitourinary system morphology	True	13	False	
+HP:0031170	Female fetal virilization	Abnormal fetal genitourinary system morphology	False	0	False	
+HP:0034247	Fetal lower urinary tract obstruction	Abnormal fetal genitourinary system morphology	True	0	False	
+HP:0034217	Sonographic non-visualized fetal bladder	Abnormal fetal genitourinary system morphology	True	2	False	
+HP:0034243	Abnormal fetal pulmonary morphology	Abnormal fetal pulmonary morphology	True	13	False	
+HP:6000613	Enlarged fetal lungs	Abnormal fetal pulmonary morphology	True	1	False	
+HP:0025677	Fetal chylothorax	Abnormal fetal pulmonary morphology	True	1	False	
+HP:0025678	Fetal hydrothorax	Abnormal fetal pulmonary morphology	True	1	False	
+HP:6000252	Fetal lung hyperechogenicity	Abnormal fetal pulmonary morphology	True	0	False	
+HP:0025676	Fetal pleural effusion	Abnormal fetal pulmonary morphology	True	8	False	
+HP:6000340	Prenatal flattened diaphragm	Abnormal fetal pulmonary morphology	True	0	False	
+HP:0025716	Fetal anemia	Fetal anemia	True	0	False	
+HP:0025116	Fetal distress	Fetal distress	False	75	False	
+HP:6001417	Abnormal biparietal diameter	Fetal head anomaly	True	0	False	
+HP:0020305	Abnormal fetal head circumference	Fetal head anomaly	True	0	False	
+HP:0020297	Abnormal occipitofrontal diameter	Fetal head anomaly	True	0	False	
+HP:0020259	Decreased biparietal diameter	Fetal head anomaly	True	0	False	
+HP:0020306	Decreased fetal head circumference	Fetal head anomaly	True	0	False	
+HP:0020298	Decreased occipitofrontal diameter	Fetal head anomaly	True	0	False	
+HP:0034245	Fetal head anomaly	Fetal head anomaly	True	0	False	
+HP:0034246	Fetal scalp mass	Fetal head anomaly	True	0	False	
+HP:6001473	Fixed fetal head flexion	Fetal head anomaly	True	0	False	
+HP:6001478	Greek warrior helmet sign	Fetal head anomaly	True	0	False	
+HP:0020260	Increased biparietal diameter	Fetal head anomaly	True	0	False	
+HP:0020307	Increased fetal head circumference	Fetal head anomaly	True	0	False	
+HP:0020299	Increased occipitofrontal diameter	Fetal head anomaly	True	0	False	
+HP:0010963	Absence of stomach bubble on fetal sonography	Fetal ultrasound soft marker	False	6	False	
+HP:0010943	Echogenic fetal bowel	Fetal ultrasound soft marker	False	6	False	
+HP:6000916	Echogenic fetal colon	Fetal ultrasound soft marker	True	0	False	
+HP:0011427	Enlarged fetal cisterna magna	Fetal ultrasound soft marker	False	4	False	
+HP:0011426	Fetal choroid plexus cysts	Fetal ultrasound soft marker	False	1	False	
+HP:0011425	Fetal ultrasound soft marker	Fetal ultrasound soft marker	False	139	False	
+HP:6000770	Fixed fetal extremities	Fixed fetal extremities	True	0	False	
+HP:0034248	Increased fetal lens echogenicity	Increased fetal lens echogenicity	True	0	False	
+HP:0030753	Intrauterine fetal demise of one twin after midgestation	Intrauterine fetal demise of one twin after midgestation	False	0	False	
+HP:0001558	Decreased fetal movement	Prenatal movement abnormality	False	249	False	
+HP:0001989	Fetal akinesia sequence	Prenatal movement abnormality	False	34	False	
+HP:0010519	Increased fetal movement	Prenatal movement abnormality	False	2	False	
+HP:0001557	Prenatal movement abnormality	Prenatal movement abnormality	False	262	False	
+HP:0031110	Twin-to-twin transfusion	Twin-to-twin transfusion	False	0	False	
+HP:0034058	Abnormal fetal morphology		True	347	False	
+HP:0034059	Abnormal fetal physiology		True	331	False	
+HP:0034057	Fetal anomaly		True	625	False	
+HP:0010948	Abnormal fetal cardiovascular morphology	Abnormal fetal cardiovascular morphology	False	58	True	Abnormal cardiovascular system morphology
+HP:4000143	Abnormal fetal heart outflow tract	Abnormal fetal cardiovascular morphology	True	0	True	Abnormal cardiovascular system morphology
+HP:4000105	Abnormal four chamber view of the fetal heart	Abnormal fetal cardiovascular morphology	True	1	True	Abnormal cardiovascular system morphology
+HP:0034196	Ductus venosus agenesis	Abnormal fetal cardiovascular morphology	True	1	True	Abnormal cardiovascular system morphology
+HP:6000370	Ductus venosus agenesis with extrahepatic drainage and liver bypass	Abnormal fetal cardiovascular morphology	True	0	True	Abnormal cardiovascular system morphology
+HP:6000369	Ductus venosus agenesis with intrahepatic drainage	Abnormal fetal cardiovascular morphology	True	0	True	Abnormal cardiovascular system morphology
+HP:0010942	Echogenic intracardiac focus	Abnormal fetal cardiovascular morphology	False	2	True	Abnormal cardiovascular system morphology
+HP:0025671	Fetal pericardial effusion	Abnormal fetal cardiovascular morphology	True	9	True	Abnormal cardiovascular system morphology
+HP:0025730	Foramen ovale aneurysm	Abnormal fetal cardiovascular morphology	True	0	True	Abnormal cardiovascular system morphology
+HP:0034190	Abnormal fetal cardiovascular physiology	Abnormal fetal cardiovascular physiology	True	3	True	Abnormal cardiovascular system physiology
+HP:0010947	Abnormality of ductus venosus blood flow	Abnormal fetal cardiovascular physiology	False	0	True	Abnormal cardiovascular system physiology
+HP:0012022	Congenital portosystemic venous shunt	Abnormal fetal cardiovascular physiology	False	0	True	Abnormal cardiovascular system physiology
+HP:0041095	Decreased middle cerebral artery pulsatility index	Abnormal fetal cardiovascular physiology	True	0	True	Abnormal cardiovascular system physiology
+HP:0034191	Elevated fetal middle cerebral artery peak systolic velocity	Abnormal fetal cardiovascular physiology	True	0	True	Abnormal cardiovascular system physiology
+HP:6000264	Fetal tachycardia	Abnormal fetal cardiovascular physiology	True	1	True	Tachycardia
+HP:0011726	Persistent fetal circulation	Abnormal fetal cardiovascular physiology	False	1	True	Abnormal cardiovascular system physiology
+HP:0012021	Persistent patent ductus venosus	Abnormal fetal cardiovascular physiology	False	1	True	Abnormal cardiovascular system physiology
+HP:0025675	Premature closure of the ductus arteriosus	Abnormal fetal cardiovascular physiology	True	0	True	Abnormal cardiovascular system physiology
+HP:4000138	Absent cavum septum pellucidum	Abnormal fetal central nervous system morphology	True	1	True	Abnormal septum pellucidum morphology
+HP:0034215	Fetal cerebellar hemisphere hemorrhage	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0034216	Fetal cerebellar vermis hemorrhage	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0034211	Fetal cerebral parenchymal hemorrhage	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0034212	Fetal extra-axial hemorrhage	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0034208	Fetal intracranial hemorrhage	Abnormal fetal central nervous system morphology	True	1	True	Intracranial hemorrhage
+HP:0034210	Fetal intraventricular hemorrhage	Abnormal fetal central nervous system morphology	True	1	True	Intracranial hemorrhage
+HP:0034219	Fetal intraventricular hemorrhage with periventricular hemorrhage	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0034218	Fetal intraventricular hemorrhage with ventriculomegaly	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0034214	Fetal intraventricular hemorrhage without ventriculomegaly	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0034213	Fetal posterior fossa hemorrhage	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0034209	Fetal subependymal hemorrhage	Abnormal fetal central nervous system morphology	True	0	True	Intracranial hemorrhage
+HP:0001791	Fetal ascites	Abnormal fetal gastrointestinal system morphology	False	11	True	Ascites
+HP:0010959	Congenital pulmonary airway malformation	Abnormal fetal pulmonary morphology	False	4	True	Multiple pulmonary cysts
+HP:0025725	Type 1 congenital pulmonary airway malformation	Abnormal fetal pulmonary morphology	True	0	True	Multiple pulmonary cysts
+HP:0025726	Type 2 congenital pulmonary airway malformation	Abnormal fetal pulmonary morphology	True	0	True	Multiple pulmonary cysts
+HP:0025727	Type 3 congenital pulmonary airway malformation	Abnormal fetal pulmonary morphology	True	0	True	Multiple pulmonary cysts
+HP:6001418	Abnormal fetal femur length	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:0034072	Abnormal fetal long-bone echogenicity	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:0025705	Abnormal fetal nasal bone visualization	Abnormal fetal skeletal morphology	True	3	True	Abnormal skeletal morphology
+HP:0025662	Abnormal fetal skeletal morphology	Abnormal fetal skeletal morphology	True	13	True	Abnormal skeletal morphology
+HP:0025706	Absent fetal nasal bone	Abnormal fetal skeletal morphology	True	2	True	Abnormal skeletal morphology
+HP:0034226	Champagne cork sign	Abnormal fetal skeletal morphology	True	1	True	Abnormal skeletal morphology
+HP:4000142	Fetal trigonocephaly	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:0025707	Hypoplastic fetal nasal bone	Abnormal fetal skeletal morphology	True	1	True	Abnormal skeletal morphology
+HP:0034074	Increased fetal long bone echogenicity	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:6001389	Intrauterine amputation	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:6001390	Intrauterine digital amputation	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:6001391	Intrauterine limb amputation	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:0032269	Lemon sign	Abnormal fetal skeletal morphology	False	0	True	Abnormal skeletal morphology
+HP:0025663	Reduced fetal femur/foot length ratio	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:0034073	Reduced fetal long bone echogenicity	Abnormal fetal skeletal morphology	True	0	True	Abnormal skeletal morphology
+HP:0025723	Abnormal fetal skin morphology	Abnormal fetal skin morphology	True	21	True	Abnormal skin morphology
+HP:0034262	Absent lanugo	Abnormal fetal skin morphology	True	1	True	Abnormal skin morphology
+HP:0025724	Caseous vernix-like desquamation	Abnormal fetal skin morphology	True	1	True	Abnormal skin morphology
+HP:0007549	Desquamation of skin soon after birth	Abnormal fetal skin morphology	False	16	True	Abnormal skin morphology
+HP:0025672	Fetal skin edema	Abnormal fetal skin morphology	True	4	True	Abnormal skin morphology; Edema
+HP:0025701	Distended jugular lymphatic sacs	Fetal neck anomaly	True	0	True	Abnormal neck morphology
+HP:0010878	Fetal cystic hygroma	Fetal neck anomaly	False	2	True	Cystic hygroma
+HP:0025667	Fetal neck anomaly	Fetal neck anomaly	True	125	True	Abnormal neck morphology
+HP:0034240	Fetal neck mass	Fetal neck anomaly	True	0	True	Abnormal neck morphology
+HP:0034250	Fetal nuchal edema	Fetal neck anomaly	True	1	True	Abnormal neck morphology
+HP:0010880	Increased nuchal translucency	Fetal neck anomaly	False	66	True	Abnormal neck morphology; Edema
+HP:0011129	Bilateral fetal pyelectasis	Fetal ultrasound soft marker	False	3	True	Abnormal renal pelvis morphology
+HP:0011431	Fetal fifth finger clinodactyly	Fetal ultrasound soft marker	False	2	True	Abnormal skeletal morphology
+HP:0010945	Fetal pyelectasis	Fetal ultrasound soft marker	False	11	True	Abnormal renal pelvis morphology
+HP:0011430	Hypoplasia of fetal nasal bone	Fetal ultrasound soft marker	False	0	True	Abnormal skeletal morphology
+HP:0010952	Mild fetal ventriculomegaly	Fetal ultrasound soft marker	False	8	True	Ventriculomegaly
+HP:0011428	Short fetal femur length	Fetal ultrasound soft marker	False	7	True	Abnormal skeletal morphology
+HP:0011429	Short fetal humerus length	Fetal ultrasound soft marker	False	0	True	Abnormal skeletal morphology
+HP:0000474	Thickened nuchal skin fold	Fetal ultrasound soft marker	False	61	True	Abnormal neck morphology
+HP:0001789	Hydrops fetalis	Hydrops fetalis	False	137	True	Edema
+HP:0001790	Nonimmune hydrops fetalis	Hydrops fetalis	False	72	True	Edema

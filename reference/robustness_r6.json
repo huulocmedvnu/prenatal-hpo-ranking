@@ -4,17 +4,17 @@
   "top10_original": 8,
   "top10_fetal": 4,
   "top10_dual": 7,
-  "median_original": 64.0,
-  "median_fetal": 87.0,
-  "median_dual": 69.5,
+  "median_original": 61.0,
+  "median_fetal": 81.5,
+  "median_dual": 59.0,
   "dual_vs_original": {
    "gained": 1,
    "lost": 2,
    "p": 1.0
   },
   "dual_worse": 22,
-  "dual_better": 23,
-  "dual_wilcoxon_p": 0.6556611337241154
+  "dual_better": 24,
+  "dual_wilcoxon_p": 0.5442318368730876
  },
  "r7": {
   "case": "167",
@@ -23,7 +23,7 @@
    "Increased nuchal translucency"
   ],
   "rank_2020": 16.0,
-  "rank_2026": 714.5,
+  "rank_2026": 720.5,
   "terms": [
    {
     "query": "HP:0010880",

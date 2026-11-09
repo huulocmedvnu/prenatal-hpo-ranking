@@ -6,6 +6,7 @@ import numpy as np, pandas as pd
 from scipy.stats import wilcoxon, binomtest
 from statsmodels.stats.proportion import proportion_confint
 from hpo import load_obo, ancestors_map
+from genes import symbol_from_id
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IN, OUT = os.path.join(ROOT, "inputs"), os.path.join(ROOT, "outputs")
@@ -23,22 +24,28 @@ def resolve(terms):
     return f
 
 
-def annotations(release):
+def annotations(release, harmonise=True):
+    """HPO term to gene pairs of a release. With harmonise, genes are named by their current HGNC symbol through their
+    NCBI Gene ID and loci without an approved HGNC record are left out. Without it, the symbols of the file are kept."""
     if release == "2020":
         A = pd.read_csv(os.path.join(IN, "hpo2020", "phenotype_to_genes.txt"), sep="\t", comment="#", header=None,
-                        usecols=[0, 3], names=["hpo_id", "gene"])
+                        usecols=[0, 2, 3], names=["hpo_id", "ncbi", "gene"], dtype=str)
     else:
-        A = pd.read_csv(os.path.join(IN, "hpo2026", "genes_to_phenotype.txt"), sep="\t", usecols=["hpo_id", "gene_symbol"])[["hpo_id", "gene_symbol"]]
-        A.columns = ["hpo_id", "gene"]
-    return A.drop_duplicates()
+        A = pd.read_csv(os.path.join(IN, "hpo2026", "genes_to_phenotype.txt"), sep="\t",
+                        usecols=["hpo_id", "ncbi_gene_id", "gene_symbol"], dtype=str)
+        A = A.rename(columns={"ncbi_gene_id": "ncbi", "gene_symbol": "gene"})
+    if harmonise:
+        A["gene"] = A.ncbi.map(symbol_from_id)
+        A = A.dropna(subset=["gene"])
+    return A[["hpo_id", "gene"]].drop_duplicates()
 
 
 class KB:
-    def __init__(self, obo_release, ann_release):
+    def __init__(self, obo_release, ann_release, harmonise=True):
         self.terms = load_obo(os.path.join(IN, f"hpo{obo_release}", "hp.obo"))
         self.anc = ancestors_map(self.terms)
         res = resolve(self.terms)
-        A = annotations(ann_release)
+        A = annotations(ann_release, harmonise)
         A["hpo_id"] = A.hpo_id.map(res)
         A = A.dropna()
         self.gene_terms = {}
@@ -114,7 +121,7 @@ if __name__ == "__main__":
     R = pd.DataFrame(rows)
     R.to_csv(os.path.join(OUT, "ranks.tsv"), sep="\t", index=False)
     S = {"common_genes": len(common), "genes_2020": len(kb["2020"].gene_terms), "genes_2026": len(kb["2026"].gene_terms)}
-    for coh, d in list(R.groupby("cohort")) + [("external", R[R.cohort != "fu2022"])]:
+    for coh, d in list(R.groupby("cohort")) + [("further", R[R.cohort != "fu2022"])]:
         n = len(d); s = {"fetuses": n}
         for lab in ["2020", "2026", "2026onto_2020ann", "2026_fullterms"]:
             col = f"rank_{lab}"
@@ -125,10 +132,11 @@ if __name__ == "__main__":
         a, b = np.log10(d.rank_2020), np.log10(d.rank_2026)
         s["wilcoxon_p"] = float(wilcoxon(a, b).pvalue)
         s["improved"], s["worsened"] = int((b < a).sum()), int((b > a).sum())
-        t20, t26 = d.rank_2020 <= 10, d.rank_2026 <= 10
-        n01, n10 = int((~t20 & t26).sum()), int((t20 & ~t26).sum())
+        in20, in26 = d.rank_2020 <= 10, d.rank_2026 <= 10
+        n01, n10 = int((~in20 & in26).sum()), int((in20 & ~in26).sum())
         s["mcnemar_top10"] = dict(gained=n01, lost=n10, p=float(binomtest(n01, n01 + n10).pvalue) if n01 + n10 else 1.0)
         s["unannotated_2020"], s["unannotated_2026"] = int((~d.annotated_2020).sum()), int((~d.annotated_2026).sum())
         S[coh] = s
-    json.dump(S, open(os.path.join(OUT, "rank_summary.json"), "w"), indent=1)
+    with open(os.path.join(OUT, "rank_summary.json"), "w", encoding="utf-8") as f:
+        json.dump(S, f, indent=1)
     print(json.dumps(S, indent=1))

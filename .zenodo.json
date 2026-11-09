@@ -1,0 +1,26 @@
+{
+  "title": "Comparing Human Phenotype Ontology releases highlights persistent gaps in prenatal gene-phenotype annotation: code and data",
+  "upload_type": "software",
+  "version": "1.1",
+  "creators": [
+    {
+      "name": "Tran, Thai Huu Loc",
+      "affiliation": "Department of Obstetrics and Gynaecology, Hong Hung Hospital, Tay Ninh, Viet Nam",
+      "orcid": "0009-0009-1810-010X"
+    },
+    {
+      "name": "Tran, Nguyen Hoang Thi",
+      "affiliation": "Department of Obstetrics and Gynaecology, Hong Hung Hospital, Tay Ninh, Viet Nam"
+    }
+  ],
+  "description": "Code, extracted data and archived public inputs that reproduce every number and figure of the study: prenatal imaging findings and source-reported causal genes of 335 fetuses from four published prenatal exome sequencing cohorts, coded as Human Phenotype Ontology terms and ranked with the 2020 and 2026 HPO releases, with an analysis of prenatal gene-phenotype annotation gaps. Code: MIT License. Data and results: CC BY 4.0.",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "prenatal exome sequencing",
+    "Human Phenotype Ontology",
+    "fetal phenotyping",
+    "gene prioritisation",
+    "reproducibility"
+  ]
+}

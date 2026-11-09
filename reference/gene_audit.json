@@ -1,0 +1,105 @@
+{
+ "causal_genes": 185,
+ "fetuses": 335,
+ "resolved_by": {
+  "approved": 182,
+  "previous symbol": 3
+ },
+ "renamed_in_sources": [
+  {
+   "source_symbol": "ARSE",
+   "hgnc_symbol": "ARSL",
+   "resolved_by": "previous symbol"
+  },
+  {
+   "source_symbol": "GBA",
+   "hgnc_symbol": "GBA1",
+   "resolved_by": "previous symbol"
+  },
+  {
+   "source_symbol": "WDR60",
+   "hgnc_symbol": "DYNC2I1",
+   "resolved_by": "previous symbol"
+  }
+ ],
+ "causal_genes_named_differently_in_releases": [
+  {
+   "hgnc_symbol": "GBA1",
+   "symbol_2020": [
+    "GBA"
+   ],
+   "symbol_2026": [
+    "GBA1"
+   ]
+  }
+ ],
+ "universe_by_symbol": {
+  "genes_2020": 4479,
+  "genes_2026": 5269,
+  "common": 4354
+ },
+ "universe_harmonised": {
+  "genes_2020": 4474,
+  "genes_2026": 5268,
+  "common": 4420
+ },
+ "loci_without_hgnc_record": {
+  "2020": [
+   "NCBIGene:10108 (MKRN3-AS1)",
+   "NCBIGene:105259599 (H19-ICR)",
+   "NCBIGene:109580095 (HBB-LCR)",
+   "NCBIGene:3653 (IPW)",
+   "NCBIGene:7467 (WHCR)"
+  ],
+  "2026": [
+   "NCBIGene:10108 (-)",
+   "NCBIGene:105259599 (-)",
+   "NCBIGene:105804841 (-)",
+   "NCBIGene:109580095 (-)",
+   "NCBIGene:136932118 (-)",
+   "NCBIGene:3653 (-)",
+   "NCBIGene:7467 (-)"
+  ]
+ },
+ "by_symbol": {
+  "absent_2020": [
+   4,
+   4
+  ],
+  "absent_2026": [
+   4,
+   4
+  ],
+  "absent_either": [
+   6,
+   6
+  ],
+  "genes": [
+   "ARSE",
+   "EXOC3L2",
+   "GBA",
+   "WDR60",
+   "ZFHX4",
+   "ZMYM2"
+  ]
+ },
+ "harmonised": {
+  "absent_2020": [
+   2,
+   2
+  ],
+  "absent_2026": [
+   1,
+   1
+  ],
+  "absent_either": [
+   3,
+   3
+  ],
+  "genes": [
+   "EXOC3L2",
+   "ZFHX4",
+   "ZMYM2"
+  ]
+ }
+}
