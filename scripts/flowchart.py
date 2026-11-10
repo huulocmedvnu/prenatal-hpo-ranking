@@ -137,7 +137,7 @@ scan(56, 90, 0.95, COH)
 line(100, 52, 100, 140, COH, 3)
 text(112, 66, "Fu et al. 2022, primary", FS, True, anchor="left")
 text(112, 90, f"{per.fetuses['fu2022']} fetuses, {fu_genes} genes", anchor="left")
-text(112, 114, f"{per.findings['fu2022']} ultrasound findings", col=TGREY, anchor="left")
+text(112, 114, f"{per.findings['fu2022']} findings", col=TGREY, anchor="left")
 line(20, 160, 300, 160, DIV, 1.5)
 further = [("graham2026", "Graham et al. 2026"), ("smogavec2022", "Smogavec et al. 2022"), ("aogs2026", "Yao et al. 2026")]
 for i, (k, name) in enumerate(further):

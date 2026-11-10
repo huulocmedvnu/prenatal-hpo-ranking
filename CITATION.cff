@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: If you use this code or data, please cite it as below.
 title: "Comparing Human Phenotype Ontology releases highlights persistent gaps in prenatal gene-phenotype annotation: code and data"
-version: "1.1"
+version: "1.2"
 doi: "10.5281/zenodo.23385908"
 license:
   - MIT

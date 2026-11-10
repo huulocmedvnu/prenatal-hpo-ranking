@@ -10,7 +10,7 @@ using identical queries. It then describes which prenatal terms lack gene annota
 and what supplementing gene annotations with fetal findings would change. All data are public and de-identified.
 
 Archived version: Zenodo, DOI [10.5281/zenodo.23385908](https://doi.org/10.5281/zenodo.23385908) (all versions; each release also has its
-own DOI). Version 1.1.
+own DOI). Version 1.2.
 
 ## Contents
 
@@ -79,6 +79,7 @@ written by the scripts before it.
 | 13 | `python paired_differences.py` | `ranks.tsv`, `fetus_ranks.tsv` | `paired_ci.json`, `paired_ci.tsv` |
 | 14 | `python annotation_groups.py` | `inputs/`, `prenatal_branch_terms.tsv`, `cases.tsv` | `annotation_groups.json`, `fetal_term_linkage.tsv` |
 | 15 | `python flowchart.py`, `python paper_figures.py` | outputs above | `figures/` |
+| 16 | `python s1_figure.py` | `inputs/`, `cases.tsv`, `rank_summary.json`, `paired_ci.json`, `gene_audit.json` | `figure_s1.json`, `figures/s1/` |
 
 ## Expected result
 
@@ -86,7 +87,7 @@ The last cell of the notebook compares every file in `outputs/` with the file of
 (numbers to a relative tolerance of 1e-9, text exactly) and prints
 
 ```
-25 committed result files, 25 regenerated
+26 committed result files, 26 regenerated
 missing: [] extra: [] different: []
 REPRODUCED
 ```
